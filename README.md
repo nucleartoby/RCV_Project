@@ -1,6 +1,6 @@
 # RCV_Project
 
-Welcome to my project where I set out to learn new skills that surround machine learning, large language models, risk based models and financial trading algorithms.
+Welcome, here are the projects that I am working on.
 
 Algo_1 - ML model to predict the price of the NASDAQ Compesite. (In progress)
 

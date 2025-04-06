@@ -112,7 +112,7 @@ def fetch_additional_market_data(ticker='^IXIC', vix_ticker='^VIX',
         nasdaq_data['Options_Implied_Vol'] = vix_data['VIX_Close']
         
         # Calculate spread between Nasdaq and Nasdaq futures (premium/discount)
-        # Match the dates first to handle any missing data
+        # Match the dates first to handle missing data
         common_dates = nasdaq_data.index.intersection(nasdaq_futures_data.index)
         nasdaq_data.loc[common_dates, 'Futures_Premium'] = (
             nasdaq_futures_data.loc[common_dates, 'NQF_Close'] - 

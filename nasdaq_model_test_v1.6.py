@@ -3,26 +3,30 @@ import numpy as np
 import yfinance as yf
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler, MinMaxScaler, RobustScaler
+from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import mean_squared_error, r2_score
 import joblib
 import tensorflow as tf
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Dropout
 from tensorflow.keras.optimizers import Adam
-from tensorflow.keras.callbacks import EarlyStopping, ModelCheckpoint
+from tensorflow.keras.callbacks import EarlyStopping
 from datetime import datetime, timedelta
-import traceback
 
-def fetch_additional_market_data(ticker='^IXIC', vix_ticker='^VIX',
-                                 start_date=None, end_date=None):
+def fetch_additional_market_data(ticker='^IXIC', vix_ticker='^VIX', 
+                                treasury_ticker='^TNX', nasdaq_futures_ticker='NQ=F',
+                                usd_index_ticker='DX-Y.NYB',
+                                start_date=None, end_date=None):
     """
     Fetch additional market data including high-frequency, financial ratios, 
-    and options market data
+    options market data, 10-year treasury yields, Nasdaq-100 futures, and USD index
     
     Args:
         ticker (str): Stock market index ticker
         vix_ticker (str): Volatility index ticker
+        treasury_ticker (str): 10-year Treasury yield ticker
+        nasdaq_futures_ticker (str): Nasdaq-100 futures ticker
+        usd_index_ticker (str): US Dollar index ticker
         start_date (str): Start date for data collection (default: 7 years ago)
         end_date (str): End date for data collection (default: today)
     
@@ -35,90 +39,96 @@ def fetch_additional_market_data(ticker='^IXIC', vix_ticker='^VIX',
             end_date = datetime.today().strftime('%Y-%m-%d')
         
         if start_date is None:
-            # FIX: Reduced to 5 years to avoid very old, potentially irrelevant data
-            start_date = (datetime.today() - timedelta(days=365*5)).strftime('%Y-%m-%d')
+            # Default to ~7 years of historical data
+            start_date = (datetime.today() - timedelta(days=365*7)).strftime('%Y-%m-%d')
             
         print(f"Fetching data from {start_date} to {end_date}")
         
-        # Fetch original data
+        # Download main datasets
         nasdaq_data = yf.download(ticker, start=start_date, end=end_date)
         vix_data = yf.download(vix_ticker, start=start_date, end=end_date)
+        
+        # Download new datasets
+        treasury_data = yf.download(treasury_ticker, start=start_date, end=end_date)
+        nasdaq_futures_data = yf.download(nasdaq_futures_ticker, start=start_date, end=end_date)
+        usd_index_data = yf.download(usd_index_ticker, start=start_date, end=end_date)
 
-        # ENHANCEMENT 1: Add Treasury Yields (10-Year)
-        try:
-            treasury_data = yf.download("^TNX", start=start_date, end=end_date)
-            treasury_data = treasury_data.rename(columns={
-                'Close': 'Treasury_10Y'
-            })
-            # Keep only the Treasury yield column we need
-            treasury_data = treasury_data[['Treasury_10Y']]
-        except Exception as e:
-            print(f"Error fetching Treasury data: {e}")
-            treasury_data = pd.DataFrame(index=nasdaq_data.index)
-            treasury_data['Treasury_10Y'] = np.nan
-
-        # ENHANCEMENT 2: Add Tech Sector performance (using XLK as proxy)
-        try:
-            tech_sector = yf.download("XLK", start=start_date, end=end_date)
-            tech_sector = tech_sector.rename(columns={
-                'Close': 'Tech_Sector'
-            })
-            # Keep only the Tech sector close price
-            tech_sector = tech_sector[['Tech_Sector']]
-        except Exception as e:
-            print(f"Error fetching Tech sector data: {e}")
-            tech_sector = pd.DataFrame(index=nasdaq_data.index)
-            tech_sector['Tech_Sector'] = np.nan
-
-        # ENHANCEMENT 3: Add USD strength (USD Index)
-        try:
-            usd_index = yf.download("DX-Y.NYB", start=start_date, end=end_date)
-            usd_index = usd_index.rename(columns={
-                'Close': 'USD_Index'
-            })
-            # Keep only the USD index close price
-            usd_index = usd_index[['USD_Index']]
-        except Exception as e:
-            print(f"Error fetching USD Index data: {e}")
-            usd_index = pd.DataFrame(index=nasdaq_data.index)
-            usd_index['USD_Index'] = np.nan
-
+        # Rename VIX columns
         vix_data = vix_data.rename(columns={
             'Open': 'VIX_Open', 
             'High': 'VIX_High', 
             'Low': 'VIX_Low', 
             'Close': 'VIX_Close'
         })
+        
+        # Rename Treasury data columns
+        treasury_data = treasury_data.rename(columns={
+            'Open': 'TNX_Open', 
+            'High': 'TNX_High', 
+            'Low': 'TNX_Low', 
+            'Close': 'TNX_Close',
+            'Volume': 'TNX_Volume'
+        })
+        
+        # Rename Nasdaq futures columns
+        nasdaq_futures_data = nasdaq_futures_data.rename(columns={
+            'Open': 'NQF_Open', 
+            'High': 'NQF_High', 
+            'Low': 'NQF_Low', 
+            'Close': 'NQF_Close',
+            'Volume': 'NQF_Volume'
+        })
+        
+        # Rename USD index columns
+        usd_index_data = usd_index_data.rename(columns={
+            'Open': 'USD_Open', 
+            'High': 'USD_High', 
+            'Low': 'USD_Low', 
+            'Close': 'USD_Close',
+            'Volume': 'USD_Volume'
+        })
 
-        # FIX: Use more robust method for volume imbalance calculation to handle outliers
+        # Calculate volume imbalance
         nasdaq_data['Volume_Imbalance'] = (
-            (nasdaq_data['Volume'] - nasdaq_data['Volume'].rolling(window=5).median()) / 
-            (nasdaq_data['Volume'].rolling(window=5).std() + 1e-6)  # Add epsilon to prevent division by zero
-        ).clip(-5, 5)  # Clip extreme values
+            nasdaq_data['Volume'] - nasdaq_data['Volume'].rolling(window=5).mean()
+        ) / nasdaq_data['Volume'].rolling(window=5).std()
   
-        # Add VIX as options implied volatility
-        nasdaq_data['Options_Implied_Vol'] = vix_data['VIX_Close']
+        # Fetch Apple financial ratios as in the original code
+        apple_ticker = yf.Ticker('AAPL')
 
-        # Merge all data sources
-        merged_data = pd.concat([
-            nasdaq_data, 
-            vix_data, 
-            treasury_data, 
-            tech_sector, 
-            usd_index
-        ], axis=1)
+        try:
+            financials = apple_ticker.info
+
+            price_to_earnings = financials.get('trailingPE', np.nan)
+            price_to_book = financials.get('priceToBook', np.nan)
+
+            nasdaq_data['PE_Ratio'] = price_to_earnings
+            nasdaq_data['Price_to_Book'] = price_to_book
+        except Exception as e:
+            print(f"Error fetching financial ratios: {e}")
+            nasdaq_data['PE_Ratio'] = np.nan
+            nasdaq_data['Price_to_Book'] = np.nan
+
+        nasdaq_data['Options_Implied_Vol'] = vix_data['VIX_Close']
         
-        # FIX: Check for and handle outliers in the main price data
-        # Calculate z-scores for Close prices
-        z_scores = np.abs((merged_data['Close'] - merged_data['Close'].rolling(window=20).mean()) / 
-                         merged_data['Close'].rolling(window=20).std())
+        # Calculate spread between Nasdaq and Nasdaq futures (premium/discount)
+        # Match the dates first to handle any missing data
+        common_dates = nasdaq_data.index.intersection(nasdaq_futures_data.index)
+        nasdaq_data.loc[common_dates, 'Futures_Premium'] = (
+            nasdaq_futures_data.loc[common_dates, 'NQF_Close'] - 
+            nasdaq_data.loc[common_dates, 'Close']
+        ) / nasdaq_data.loc[common_dates, 'Close'] * 100  # in percentage
         
-        # Identify potential outliers
-        outliers = z_scores > 3
-        if outliers.sum() > 0:
-            print(f"Found {outliers.sum()} potential outliers in Close prices")
-            # For visualization/debugging only, not modifying prices
-            merged_data['outlier'] = outliers
+        # Calculate the rate change for 10-year Treasury
+        treasury_data['TNX_Daily_Change'] = treasury_data['TNX_Close'].pct_change() * 100
+        
+        # Calculate USD strength change
+        usd_index_data['USD_Daily_Change'] = usd_index_data['USD_Close'].pct_change() * 100
+
+        # Merge all datasets
+        merged_data = nasdaq_data
+        for df in [vix_data, treasury_data, nasdaq_futures_data, usd_index_data]:
+            merged_data = pd.merge(merged_data, df, how='left', left_index=True, right_index=True)
         
         return merged_data
     except Exception as e:
@@ -126,214 +136,101 @@ def fetch_additional_market_data(ticker='^IXIC', vix_ticker='^VIX',
         return None
 
 def create_features(df):
-    """Create additional features for the model"""
-    print(f"Initial shape before feature creation: {df.shape}")
-    data = df.copy()
-    
-    # Debug merged data
-    print("\nColumns in input data:")
-    print(data.columns.tolist())
-    
-    # Ensure index is properly set
-    if not isinstance(data.index, pd.DatetimeIndex):
-        data.index = pd.to_datetime(data.index)
-    
-    # Basic features - validate and fill
-    base_columns = ['Close', 'High', 'Low', 'Open', 'Volume']
-    for col in base_columns:
-        if col not in data.columns:
-            print(f"Warning: Missing {col} column")
-            data[col] = np.nan
-    
-    # Create features safely
+    """Create additional features for the model including the new data sources"""
     try:
-        # Technical indicators
-        data['Daily_Return'] = data['Close'].pct_change().clip(-0.2, 0.2)  # FIX: Clip extreme returns
-        data['Volatility'] = data['High'] - data['Low']
+        if df is None or df.empty:
+            print("Error: Empty input DataFrame")
+            return pd.DataFrame()
+
+        data = df.copy()
         
-        # Normalize volatility by price level to prevent scale issues
-        data['Normalized_Volatility'] = (data['Volatility'] / data['Close']).clip(0, 0.1)  # FIX: Clip extreme values
+        # Calculate required features
+        base_features = {
+            'Daily_Return': lambda x: x['Close'].pct_change(),
+            'Volatility': lambda x: x['High'] - x['Low'],
+            'RSI': lambda x: calculate_rsi(x['Close']),
+            'SMA_10': lambda x: x['Close'].rolling(window=10, min_periods=1).mean(),
+            'SMA_50': lambda x: x['Close'].rolling(window=50, min_periods=1).mean()
+        }
         
-        # Moving averages
-        data['SMA_10'] = data['Close'].rolling(window=10).mean()
-        data['SMA_50'] = data['Close'].rolling(window=50).mean()
+        # Calculate base features
+        for name, func in base_features.items():
+            try:
+                data[name] = func(data)
+            except Exception as e:
+                print(f"Error calculating {name}: {e}")
+                return pd.DataFrame()
+
+        # Fill missing values
+        data = data.fillna(method='ffill').fillna(method='bfill')
         
-        # Add normalized price levels relative to moving averages
-        # FIX: Ensure we don't divide by zero and clip extreme values
-        data['Price_to_SMA10'] = (data['Close'] / (data['SMA_10'] + 1e-6)).clip(0.7, 1.3)
-        data['Price_to_SMA50'] = (data['Close'] / (data['SMA_50'] + 1e-6)).clip(0.7, 1.3)
-        
-        # Calculate RSI
-        def calculate_rsi(prices, window=14):
-            delta = prices.diff()
-            gain = (delta.where(delta > 0, 0)).rolling(window=window).mean()
-            loss = (-delta.where(delta < 0, 0)).rolling(window=window).mean()
+        # Verify data quality
+        essential_cols = ['Close', 'Daily_Return', 'Volatility', 'RSI']
+        if data[essential_cols].isnull().any().any():
+            print("Error: Missing values in essential columns")
+            return pd.DataFrame()
             
-            # FIX: Prevent division by zero
-            rs = gain / (loss + 1e-6)
-            return 100 - (100 / (1 + rs))
-        
-        data['RSI'] = calculate_rsi(data['Close'])
-        
-        # Handle VIX features if available
-        vix_cols = ['VIX_High', 'VIX_Low', 'VIX_Close']
-        if all(col in data.columns for col in vix_cols):
-            data['VIX_Volatility'] = (data['VIX_High'] - data['VIX_Low']).clip(0, 10)  # FIX: Clip extreme values
-        
-        # Create lags for available columns - FIX: Use fewer lags to reduce noise
-        lags = [1, 2, 3]  # Removed lag 5
-        for col in ['Close', 'VIX_Close', 'Treasury_10Y', 'Tech_Sector', 'USD_Index']:
-            if col in data.columns:
-                for lag in lags:
-                    data[f'{col}_Lag_{lag}'] = data[col].shift(lag)
-                    
-                    # Add percentage changes for lagged values
-                    if lag > 1:
-                        pct_change = data[col].pct_change(periods=lag)
-                        # FIX: Clip extreme percentage changes
-                        data[f'{col}_Pct_Change_{lag}'] = pct_change.clip(-0.2, 0.2)
-        
-        # Calculate the rate of change for Treasury yields
-        if 'Treasury_10Y' in data.columns:
-            # FIX: Clip extreme changes in treasury yields
-            data['Treasury_10Y_Rate_of_Change'] = data['Treasury_10Y'].pct_change().clip(-0.2, 0.2)
-            
-        # Calculate relative performance metrics
-        if 'Tech_Sector' in data.columns and 'Close' in data.columns:
-            # Tech sector performance relative to NASDAQ
-            # FIX: Normalize and clip to prevent extreme values
-            data['Tech_vs_NASDAQ'] = (data['Tech_Sector'] / (data['Close'] + 1e-6)).clip(0.5, 2)
-            # Tech sector momentum - clipped
-            data['Tech_Momentum'] = data['Tech_Sector'].pct_change(3).clip(-0.2, 0.2)
-            
-        # Calculate USD momentum
-        if 'USD_Index' in data.columns:
-            data['USD_Momentum'] = data['USD_Index'].pct_change(3).clip(-0.1, 0.1)
-            
-            # Calculate correlation between USD and NASDAQ using a rolling window
-            # FIX: No action needed here as correlation is naturally bounded [-1, 1]
-            data['USD_NASDAQ_Corr'] = data['USD_Index'].rolling(window=30).corr(data['Close'])
-        
-        # Fill NaN values by group
-        numeric_cols = data.select_dtypes(include=[np.number]).columns
-        data[numeric_cols] = data[numeric_cols].fillna(method='ffill').fillna(method='bfill')
-        
-        # FIX: Add recent price range feature to help model stay within reasonable bounds
-        data['Price_52w_High'] = data['Close'].rolling(window=252).max()
-        data['Price_52w_Low'] = data['Close'].rolling(window=252).min()
-        data['Price_Range_Ratio'] = ((data['Close'] - data['Price_52w_Low']) / 
-                                   (data['Price_52w_High'] - data['Price_52w_Low'] + 1e-6)).clip(0, 1)
-        
-        print("\nFinal shape:", data.shape)
-        print("NaN count after processing:")
-        print(data.isna().sum())
-        
+        print(f"Successfully created features. Shape: {data.shape}")
         return data
         
     except Exception as e:
-        print(f"Error in feature creation: {e}")
-        traceback.print_exc()
-        return pd.DataFrame()  # Return empty frame on error
+        print(f"Error in create_features: {e}")
+        return pd.DataFrame()
+
+def calculate_rsi(price_series, window=14):
+    delta = price_series.diff()
+    gain = (delta.where(delta > 0, 0)).rolling(window=window).mean()
+    loss = (-delta.where(delta < 0, 0)).rolling(window=window).mean()
+    rs = gain / (loss + 1e-10)  # Add small epsilon to prevent division by zero
+    return 100 - (100 / (1 + rs))
 
 def prepare_model_data(df):
-    """
-    Prepare features and target variable for modeling
-    
-    Args:
-        df (pd.DataFrame): Input dataframe with features
-    
-    Returns:
-        tuple: X (features), y (target), target_scaler (for inverse transform)
-    """
-    # First create features list with available columns
-    features = [
-        'Open', 'High', 'Low', 
-        'VIX_Open', 'VIX_High', 'VIX_Low', 'VIX_Close',
-        'Daily_Return', 'RSI', 'VIX_Volatility',
-        'SMA_10', 'SMA_50', 'Normalized_Volatility',
-        'Price_to_SMA10', 'Price_to_SMA50',
-        'Price_Range_Ratio'  # FIX: Added new feature
-    ]
-
-    # Add lag features
-    lags = [1, 2, 3]  # FIX: Removed lag 5
-    for lag in lags:
-        lag_features = [
-            f'Close_Lag_{lag}', 
-            f'VIX_Close_Lag_{lag}'
-        ]
-        
-        # Add percentage change features
-        if lag > 1:
-            pct_change_features = [
-                f'Close_Pct_Change_{lag}',
-                f'VIX_Close_Pct_Change_{lag}'
-            ]
-            lag_features.extend(pct_change_features)
+    """Prepare features and target variable for modeling"""
+    try:
+        # Validate input data
+        if df is None or len(df.index) == 0:
+            print("Error: Input DataFrame is empty")
+            return None, None
             
-        features.extend(lag_features)
-        
-        # Add lagged features for new data sources
-        if f'Treasury_10Y_Lag_{lag}' in df.columns:
-            features.append(f'Treasury_10Y_Lag_{lag}')
-            if lag > 1 and f'Treasury_10Y_Pct_Change_{lag}' in df.columns:
-                features.append(f'Treasury_10Y_Pct_Change_{lag}')
-        
-        if f'Tech_Sector_Lag_{lag}' in df.columns:
-            features.append(f'Tech_Sector_Lag_{lag}')
-            if lag > 1 and f'Tech_Sector_Pct_Change_{lag}' in df.columns:
-                features.append(f'Tech_Sector_Pct_Change_{lag}')
+        # Verify essential columns exist
+        essential_cols = ['Close', 'Daily_Return', 'Volatility', 'RSI']
+        missing_cols = [col for col in essential_cols if col not in df.columns]
+        if missing_cols:
+            print(f"Error: Missing essential columns: {missing_cols}")
+            return None, None
             
-        if f'USD_Index_Lag_{lag}' in df.columns:
-            features.append(f'USD_Index_Lag_{lag}')
-            if lag > 1 and f'USD_Index_Pct_Change_{lag}' in df.columns:
-                features.append(f'USD_Index_Pct_Change_{lag}')
-
-    # Other features
-    new_features = ['Volume_Imbalance', 'Options_Implied_Vol']
-    features.extend(new_features)
-    
-    # High-impact features
-    high_impact_features = [
-        'Treasury_10Y', 'Treasury_10Y_Rate_of_Change',
-        'Tech_vs_NASDAQ', 'Tech_Momentum',
-        'USD_Momentum', 'USD_NASDAQ_Corr',
-        'Price_52w_High', 'Price_52w_Low'  # FIX: Added price range features
-    ]
-    
-    # Only add features that actually exist in the dataframe
-    additional_features = [f for f in high_impact_features if f in df.columns]
-    features.extend(additional_features)
-
-    # Check for missing features and filter out any that don't exist
-    available_features = [f for f in features if f in df.columns]
-    missing_features = set(features) - set(available_features)
-    if missing_features:
-        print(f"Warning: Some features are not available and will be skipped: {missing_features}")
-    
-    X = df[available_features]
-    y = df['Close']
-    
-    # FIX: Get more robust statistics about our target variable for validation later
-    last_original_close = y.iloc[-1]
-    avg_price = y.mean()
-    min_price = y.min()
-    max_price = y.max()
-    std_price = y.std()
-    
-    price_stats = {
-        'last_close': last_original_close,
-        'avg_price': avg_price,
-        'min_price': min_price,
-        'max_price': max_price,
-        'std_price': std_price
-    }
-    
-    return X, y, price_stats
+        # Select features (exclude target variable and completely null columns)
+        feature_cols = [col for col in df.columns 
+                       if col != 'Close' and not df[col].isnull().all()]
+        
+        # Validate feature count
+        if len(feature_cols) < 5:
+            print("Error: Insufficient features available")
+            return None, None
+            
+        # Create copies to avoid SettingWithCopyWarning
+        X = df[feature_cols].copy()
+        y = df['Close'].copy()
+        
+        # Check for NaN values explicitly
+        has_nulls_x = X.isnull().values.any()
+        has_nulls_y = y.isnull().values.any()
+        
+        if has_nulls_x or has_nulls_y:
+            print("Error: Dataset contains NaN values")
+            return None, None
+            
+        print(f"Data prepared successfully. X shape: {X.shape}, y shape: {y.shape}")
+        return X, y
+        
+    except Exception as e:
+        print(f"Error in prepare_model_data: {e}")
+        return None, None
 
 def build_ann_model(input_shape):
     """
-    Build an Artificial Neural Network model with adjustments to prevent overfitting
+    Build an enhanced Artificial Neural Network model with additional capacity
+    for handling more features
     
     Args:
         input_shape (int): Number of input features
@@ -341,186 +238,107 @@ def build_ann_model(input_shape):
     Returns:
         tf.keras.Model: Compiled neural network model
     """
-    # FIX: Simplify model architecture to prevent overfitting
     model = Sequential([
-        # Start with fewer neurons
-        Dense(16, activation='relu', input_shape=(input_shape,), 
+        # Increased capacity for more features
+        Dense(128, activation='relu', input_shape=(input_shape,), 
               kernel_regularizer=tf.keras.regularizers.l2(0.001)),
         Dropout(0.2),
 
-        Dense(32, activation='relu', 
+        Dense(256, activation='relu', 
               kernel_regularizer=tf.keras.regularizers.l2(0.001)),
         Dropout(0.3),
+        
+        Dense(128, activation='relu', 
+              kernel_regularizer=tf.keras.regularizers.l2(0.001)),
+        Dropout(0.2),
+        
+        Dense(64, activation='relu', 
+              kernel_regularizer=tf.keras.regularizers.l2(0.001)),
+        Dropout(0.1),
 
-        # Output layer
         Dense(1)
     ])
 
-    # FIX: Use an even lower learning rate for stability
     model.compile(
-        optimizer=Adam(learning_rate=0.0001),
+        optimizer=Adam(learning_rate=0.001),
         loss='mean_squared_error',
         metrics=['mae', 'mse']
     )
     
     return model
 
-def train_model(X, y, price_stats, test_size=0.2, random_state=42):
+def train_model(X, y, test_size=0.2, random_state=42):
     """
-    Train and evaluate the Artificial Neural Network model with data validation
+    Train and evaluate the Artificial Neural Network model
     
     Args:
         X (pd.DataFrame): Features
-        y (pd.Series): Target variable (Close price)
-        price_stats (dict): Statistics about the price data for validation
-        test_size (float): Proportion of data to use for testing
+        y (pd.Series): Target variable
+        test_size (float): Proportion of data for testing
         random_state (int): Random seed for reproducibility
-        
+    
     Returns:
-        tuple: model, features_scaler, target_scaler, metrics
+        tuple: Trained model, scaler, evaluation metrics
     """
-    # Validate input data
+    if X is None or y is None:
+        raise ValueError("Invalid input data: X or y is None")
+        
     if X.empty or y.empty:
         raise ValueError("Empty input data provided")
     
-    print(f"Input data shape - X: {X.shape}, y: {y.shape}")
+    if len(X) < 100:
+        raise ValueError(f"Insufficient data: {len(X)} samples. Need at least 100.")
     
-    # Check if we have enough samples
-    min_samples = 100  # Minimum number of samples needed
-    if len(X) < min_samples:
-        raise ValueError(f"Insufficient data: {len(X)} samples. Need at least {min_samples}.")
-    
-    # Adjust test_size if necessary
-    actual_test_size = max(min(test_size, 0.5), len(X) // 10 / len(X))
+    # Calculate minimum test size
+    min_test_samples = max(20, int(len(X) * 0.1))  # At least 20 samples or 10%
+    actual_test_size = max(min(test_size, 0.5), min_test_samples / len(X))
     print(f"Using test_size: {actual_test_size}")
-    
+
     np.random.seed(random_state)
     tf.random.set_seed(random_state)
 
-    try:
-        # FIX: Train-test split ensuring chronological order but use a validation set too
-        train_size = int(len(X) * 0.7)
-        val_size = int(len(X) * 0.15)
-        test_size = len(X) - train_size - val_size
-        
-        # Split data chronologically 
-        X_train = X.iloc[:train_size]
-        y_train = y.iloc[:train_size]
-        
-        X_val = X.iloc[train_size:train_size+val_size]
-        y_val = y.iloc[train_size:train_size+val_size]
-        
-        X_test = X.iloc[-test_size:]
-        y_test = y.iloc[-test_size:]
-        
-        print(f"Train set: {X_train.shape}, Validation set: {X_val.shape}, Test set: {X_test.shape}")
-        
-        # FIX: Use RobustScaler instead of StandardScaler to be less sensitive to outliers
-        features_scaler = RobustScaler()
-        X_train_scaled = features_scaler.fit_transform(X_train)
-        X_val_scaled = features_scaler.transform(X_val)
-        X_test_scaled = features_scaler.transform(X_test)
-        
-        # FIX: Use RobustScaler for target instead of MinMaxScaler
-        # This helps reduce the impact of outliers
-        target_scaler = RobustScaler()
-        y_train_scaled = target_scaler.fit_transform(y_train.values.reshape(-1, 1))
-        y_val_scaled = target_scaler.transform(y_val.values.reshape(-1, 1))
-        y_test_scaled = target_scaler.transform(y_test.values.reshape(-1, 1))
+    X_train, X_test, y_train, y_test = train_test_split(
+        X, y, test_size=actual_test_size, shuffle=False
+    )
 
-        model = build_ann_model(X_train_scaled.shape[1])
+    scaler = StandardScaler()
+    X_train_scaled = scaler.fit_transform(X_train)
+    X_test_scaled = scaler.transform(X_test)
 
-        # FIX: Add ModelCheckpoint to save best model
-        early_stopping = EarlyStopping(
-            monitor='val_loss', 
-            patience=10,
-            restore_best_weights=True
-        )
-        
-        model_checkpoint = ModelCheckpoint(
-            'best_nasdaq_model.h5',
-            monitor='val_loss',
-            save_best_only=True
-        )
-        
-        # Use more epochs but rely on early stopping
-        # FIX: Pass validation data explicitly instead of using validation_split
-        history = model.fit(
-            X_train_scaled, y_train_scaled,
-            validation_data=(X_val_scaled, y_val_scaled),
-            epochs=100,
-            batch_size=32,
-            callbacks=[early_stopping, model_checkpoint],
-            verbose=1
-        )
+    model = build_ann_model(X_train_scaled.shape[1])
 
-        # Make predictions on the test set (still in scaled form)
-        y_pred_scaled = model.predict(X_test_scaled)
-        
-        # Transform predictions back to original scale
-        y_pred = target_scaler.inverse_transform(y_pred_scaled).flatten()
-
-        # Calculate metrics on original scale
-        mse = mean_squared_error(y_test, y_pred)
-        r2 = r2_score(y_test, y_pred)
-
-        # Calculate percentage error
-        pct_error = np.abs((y_test.values - y_pred) / y_test.values).mean() * 100
-        
-        # FIX: Make prediction for next trading day with additional validation
-        last_features = X.iloc[-1].values.reshape(1, -1)
-        last_features_scaled = features_scaler.transform(last_features)
-        next_day_prediction_scaled = model.predict(last_features_scaled)
-        next_day_prediction_raw = target_scaler.inverse_transform(next_day_prediction_scaled)[0][0]
-        
-        # FIX: Add sanity checks on the prediction
-        last_close = price_stats['last_close']
-        avg_price = price_stats['avg_price']
-        std_price = price_stats['std_price']
-        max_price = price_stats['max_price']
-        
-        # Calculate a reasonable upper bound for the prediction
-        # No more than 10% above last close or 3 standard deviations above mean
-        reasonable_max = min(last_close * 1.1, avg_price + 3 * std_price)
-        reasonable_max = min(reasonable_max, max_price * 1.05)  # And no more than 5% above historical max
-        
-        # Apply sanity bounds
-        if next_day_prediction_raw > reasonable_max:
-            print(f"WARNING: Raw prediction ({next_day_prediction_raw:.2f}) exceeds reasonable max ({reasonable_max:.2f})")
-            print(f"Applying sanity bounds to prediction")
-            next_day_prediction = reasonable_max
-        else:
-            next_day_prediction = next_day_prediction_raw
-        
-        print(f"Last known Close: {last_close}")
-        print(f"Raw next day prediction: {next_day_prediction_raw}")
-        print(f"Bounded next day prediction: {next_day_prediction}")
-        print(f"Percentage difference: {abs(next_day_prediction - last_close) / last_close * 100:.2f}%")
-        
-        # FIX: Analyze feature importance more carefully
-        feature_importance = pd.DataFrame({
-            'feature': X.columns,
-            'importance': np.abs(model.layers[0].get_weights()[0]).mean(axis=1)
-        }).sort_values('importance', ascending=False)
-        
-        # FIX: Calculate prediction accuracy on test set
-        correct_direction = ((y_test.diff() > 0) == (np.diff(np.append([y_test.iloc[0]], y_pred)) > 0)).mean()
-        print(f"Direction accuracy on test set: {correct_direction:.2f}")
-        
-        return model, features_scaler, target_scaler, {
-            'mse': mse,
-            'r2': r2,
-            'pct_error': pct_error,
-            'feature_importance': feature_importance,
-            'training_history': history.history,
-            'last_prediction': next_day_prediction,
-            'direction_accuracy': correct_direction
-        }
-    except Exception as e:
-        print(f"Error during model training: {e}")
-        traceback.print_exc()
-        raise
+    early_stopping = EarlyStopping(
+        monitor='val_loss', 
+        patience=15,  # Increased patience for the more complex model
+        restore_best_weights=True
+    )
     
+    history = model.fit(
+        X_train_scaled, y_train, 
+        validation_split=0.2,
+        epochs=150,  # Increased epochs for more complex model
+        batch_size=32,
+        callbacks=[early_stopping],
+        verbose=1  # Changed to 1 to show progress
+    )
+
+    y_pred = model.predict(X_test_scaled).flatten()
+
+    mse = mean_squared_error(y_test, y_pred)
+    r2 = r2_score(y_test, y_pred)
+
+    feature_importance = pd.DataFrame({
+        'feature': X.columns,
+        'importance': np.abs(model.layers[0].get_weights()[0]).mean(axis=1)
+    }).sort_values('importance', ascending=False)
+    
+    return model, scaler, {
+        'mse': mse,
+        'r2': r2,
+        'feature_importance': feature_importance,
+        'training_history': history.history
+    }
+
 def visualize_feature_importance(feature_importance):
     """
     Create a bar plot of feature importances
@@ -528,9 +346,9 @@ def visualize_feature_importance(feature_importance):
     Args:
         feature_importance (pd.DataFrame): Dataframe with feature importances
     """
-    plt.figure(figsize=(12, 6))
-    feature_importance.head(10).plot(x='feature', y='importance', kind='bar')
-    plt.title('Top 10 Feature Importances in Neural Network')
+    plt.figure(figsize=(14, 8))
+    feature_importance.head(15).plot(x='feature', y='importance', kind='bar')
+    plt.title('Top 15 Feature Importances in Neural Network')
     plt.xlabel('Features')
     plt.ylabel('Importance')
     plt.tight_layout()
@@ -544,7 +362,7 @@ def visualize_training_history(history):
     Args:
         history (dict): Training history dictionary
     """
-    plt.figure(figsize=(12, 6))
+    plt.figure(figsize=(16, 8))
     plt.subplot(1, 2, 1)
     plt.plot(history['loss'], label='Training Loss')
     plt.plot(history['val_loss'], label='Validation Loss')
@@ -565,90 +383,162 @@ def visualize_training_history(history):
     plt.savefig('training_history_ann.png')
     plt.close()
 
-def visualize_predictions(y_test, y_pred):
-    """
-    Visualize model predictions against actual values
-    
-    Args:
-        y_test (pd.Series): Actual values
-        y_pred (np.array): Predicted values
-    """
-    plt.figure(figsize=(12, 6))
-    plt.plot(y_test.index, y_test.values, label='Actual')
-    plt.plot(y_test.index, y_pred, label='Predicted')
-    plt.title('NASDAQ Close Price: Actual vs Predicted')
-    plt.xlabel('Date')
-    plt.ylabel('Price')
-    plt.legend()
-    plt.tight_layout()
-    plt.savefig('prediction_comparison.png')
-    plt.close()
+def visualize_cross_asset_relationships(df):
+    """Visualize relationships between different asset classes"""
+    try:
+        # Validate required columns
+        required_cols = ['Close', 'TNX_Close', 'USD_Close', 'NQF_Close']
+        missing_cols = [col for col in required_cols if col not in df.columns]
+        
+        if missing_cols:
+            print(f"Warning: Missing columns for visualization: {missing_cols}")
+            return
+            
+        # Create figure only if we have valid data
+        plt.figure(figsize=(18, 12))
+        
+        # Plot each subplot with error handling
+        try:
+            plt.subplot(2, 2, 1)
+            if 'TNX_Close' in df.columns:
+                valid_mask = df[['TNX_Close', 'Close']].notna().all(axis=1)
+                plt.scatter(df.loc[valid_mask, 'TNX_Close'], 
+                          df.loc[valid_mask, 'Close'], alpha=0.5)
+                plt.title('NASDAQ vs. 10-Year Treasury Yield')
+                plt.xlabel('10-Year Treasury Yield')
+                plt.ylabel('NASDAQ Close')
+        except Exception as e:
+            print(f"Error plotting Treasury relationship: {e}")
+
+        try:
+            plt.subplot(2, 2, 2)
+            if 'USD_Close' in df.columns:
+                valid_mask = df[['USD_Close', 'Close']].notna().all(axis=1)
+                plt.scatter(df.loc[valid_mask, 'USD_Close'], 
+                          df.loc[valid_mask, 'Close'], alpha=0.5)
+                plt.title('NASDAQ vs. USD Index')
+                plt.xlabel('USD Index')
+                plt.ylabel('NASDAQ Close')
+        except Exception as e:
+            print(f"Error plotting USD relationship: {e}")
+
+        try:
+            plt.subplot(2, 2, 3)
+            if 'NQF_Close' in df.columns:
+                valid_mask = df[['NQF_Close', 'Close']].notna().all(axis=1)
+                plt.scatter(df.loc[valid_mask, 'NQF_Close'], 
+                          df.loc[valid_mask, 'Close'], alpha=0.5)
+                plt.title('NASDAQ vs. NASDAQ Futures')
+                plt.xlabel('NASDAQ Futures')
+                plt.ylabel('NASDAQ Close')
+        except Exception as e:
+            print(f"Error plotting NASDAQ Futures relationship: {e}")
+
+        try:
+            plt.subplot(2, 2, 4)
+            if 'USD_Close' in df.columns and 'TNX_Close' in df.columns:
+                valid_mask = df[['USD_Close', 'TNX_Close']].notna().all(axis=1)
+                plt.scatter(df.loc[valid_mask, 'USD_Close'], 
+                          df.loc[valid_mask, 'TNX_Close'], alpha=0.5)
+                plt.title('Treasury Yield vs. USD Index')
+                plt.xlabel('USD Index')
+                plt.ylabel('10-Year Treasury Yield')
+        except Exception as e:
+            print(f"Error plotting Treasury Yield vs. USD Index relationship: {e}")
+        
+        plt.tight_layout()
+        plt.savefig('cross_asset_relationships.png')
+        plt.close()
+        
+    except Exception as e:
+        print(f"Error in visualization: {e}")
+        plt.close()  # Ensure figure is closed on error
 
 def main():
     try:
+        # Call fetch_additional_market_data with the new data sources
+        print("Fetching market data including Treasury yields, Nasdaq futures, and USD index...")
         merged_data = fetch_additional_market_data()
-        if merged_data is None or merged_data.empty:
-            print("Failed to fetch market data or received empty data. Exiting.")
+        
+        if merged_data is None:
+            print("Failed to fetch market data. Exiting.")
             return
 
-        print(f"\nInitial merged data shape: {merged_data.shape}")
-        print("\nMerged data columns:")
-        print(merged_data.columns.tolist())
-        
+        print("Creating features from the data...")
         featured_data = create_features(merged_data)
-        print(f"Featured data shape: {featured_data.shape}")
+
+        print("Visualizing cross-asset relationships...")
+        visualize_cross_asset_relationships(featured_data)
         
-        if featured_data.empty:
-            print("No data after feature creation. Exiting.")
+        print("Preparing model data...")
+        X, y = prepare_model_data(featured_data)
+        if X is None or y is None:
+            print("Failed to prepare model data. Exiting.")
             return
             
-        # Store last closing price for validation
-        last_close_price = featured_data['Close'].iloc[-1]
-        print(f"Last close price: {last_close_price}")
-
-        X, y, last_close = prepare_model_data(featured_data)
-        print(f"Final data shape before training - X: {X.shape}, y: {y.shape}")
-        
-        if X.empty or y.empty:
-            print("No data after preparation. Exiting.")
-            return
-
-        model, features_scaler, target_scaler, metrics = train_model(X, y, last_close)
+        print(f"Training model with {X.shape[1]} features...")
+        model, scaler, metrics = train_model(X, y)
 
         print("\nModel Performance:")
         print(f"Mean Squared Error: {metrics['mse']}")
         print(f"R-squared Score: {metrics['r2']}")
-        print(f"Mean Percentage Error: {metrics['pct_error']}%")
 
         visualize_feature_importance(metrics['feature_importance'])
-        visualize_training_history(metrics['training_history'])
 
-        # FIX: Generate predictions for test set and visualize
-        # Split again just for visualization (could refactor this)
-        _, X_test, _, y_test = train_test_split(X, y, test_size=0.2, shuffle=False)
-        X_test_scaled = features_scaler.transform(X_test)
-        y_pred_scaled = model.predict(X_test_scaled)
-        y_pred = target_scaler.inverse_transform(y_pred_scaled).flatten()
-        
-        visualize_predictions(y_test, y_pred)
+        visualize_training_history(metrics['training_history'])
 
         # Save the model with a timestamp for versioning
         timestamp = datetime.now().strftime("%Y%m%d")
-        model.save(f'nasdaq_prediction_ann_model_{timestamp}.h5')
-        joblib.dump(features_scaler, f'nasdaq_prediction_features_scaler_{timestamp}.joblib')
-        joblib.dump(target_scaler, f'nasdaq_prediction_target_scaler_{timestamp}.joblib')
-
-        print("\nTop 10 Most Important Features:")
-        print(metrics['feature_importance'].head(10))
-
-        # Prediction for next trading day
-        print("\nNext Day Predicted Close:")
-        print(metrics['last_prediction'])
+        model_filename = f'nasdaq_prediction_ann_model_enhanced_{timestamp}.h5'
+        scaler_filename = f'nasdaq_prediction_scaler_enhanced_{timestamp}.joblib'
         
-        # Additional validation
-        if abs(metrics['last_prediction'] - last_close) / last_close > 0.1:
-            print("\nWARNING: Prediction differs from last close by more than 10%")
-            print("This may indicate a scaling issue or model instability")
+        model.save(model_filename)
+        joblib.dump(scaler, scaler_filename)
+        
+        print(f"\nModel saved as {model_filename}")
+        print(f"Scaler saved as {scaler_filename}")
+
+        print("\nTop 15 Most Important Features:")
+        print(metrics['feature_importance'].head(15))
+
+        # Make prediction for the next day
+        last_features = X.iloc[-1].values.reshape(1, -1)
+        last_features_scaled = scaler.transform(last_features)
+        next_day_prediction = model.predict(last_features_scaled)[0][0]
+        
+        # Get actual numeric values from Series
+        last_close_value = float(y.iloc[-1])
+        predicted_change = ((next_day_prediction - last_close_value) / last_close_value) * 100
+        
+        print("\nNext Day Prediction:")
+        print(f"Last Close: {last_close_value:.2f}")
+        print(f"Predicted Close: {next_day_prediction:.2f}")
+        print(f"Predicted Change: {predicted_change:.2f}%")
+        
+        # Print a summary of the new data sources contribution
+        if 'feature_importance' in metrics:
+            # Group features by data source using list comprehension
+            treasury_features = [i for i in metrics['feature_importance']['feature'] if 'TNX' in str(i)]
+            futures_features = [i for i in metrics['feature_importance']['feature'] if 'NQF' in str(i)]
+            usd_features = [i for i in metrics['feature_importance']['feature'] if 'USD' in str(i)]
+            
+            # Calculate importance sums
+            treasury_importance = metrics['feature_importance'][
+                metrics['feature_importance']['feature'].isin(treasury_features)
+            ]['importance'].sum()
+            
+            futures_importance = metrics['feature_importance'][
+                metrics['feature_importance']['feature'].isin(futures_features)
+            ]['importance'].sum()
+            
+            usd_importance = metrics['feature_importance'][
+                metrics['feature_importance']['feature'].isin(usd_features)
+            ]['importance'].sum()
+            
+            print("\nContribution of New Data Sources:")
+            print(f"10-Year Treasury Features: {treasury_importance:.4f}")
+            print(f"Nasdaq-100 Futures Features: {futures_importance:.4f}")
+            print(f"USD Index Features: {usd_importance:.4f}")
     
     except Exception as e:
         print(f"An error occurred in the main execution: {e}")

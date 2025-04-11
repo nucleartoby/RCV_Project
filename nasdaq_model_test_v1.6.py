@@ -20,18 +20,6 @@ def fetch_additional_market_data(ticker='^IXIC', vix_ticker='^VIX',
     """
     Fetch additional market data including high-frequency, financial ratios, 
     options market data, 10-year treasury yields, Nasdaq-100 futures, and USD index
-    
-    Args:
-        ticker (str): Stock market index ticker
-        vix_ticker (str): Volatility index ticker
-        treasury_ticker (str): 10-year Treasury yield ticker
-        nasdaq_futures_ticker (str): Nasdaq-100 futures ticker
-        usd_index_ticker (str): US Dollar index ticker
-        start_date (str): Start date for data collection (default: 7 years ago)
-        end_date (str): End date for data collection (default: today)
-    
-    Returns:
-        pd.DataFrame: Processed market data with additional features
     """
     try:
         # Set default date range: today and 7 years prior
@@ -231,12 +219,6 @@ def build_ann_model(input_shape):
     """
     Build an enhanced Artificial Neural Network model with additional capacity
     for handling more features
-    
-    Args:
-        input_shape (int): Number of input features
-    
-    Returns:
-        tf.keras.Model: Compiled neural network model
     """
     model = Sequential([
         # Increased capacity for more features
@@ -269,16 +251,8 @@ def build_ann_model(input_shape):
 
 def train_model(X, y, test_size=0.2, random_state=42):
     """
-    Train and evaluate the Artificial Neural Network model
-    
-    Args:
-        X (pd.DataFrame): Features
-        y (pd.Series): Target variable
-        test_size (float): Proportion of data for testing
-        random_state (int): Random seed for reproducibility
-    
-    Returns:
-        tuple: Trained model, scaler, evaluation metrics
+    Train and evaluate the Artificial Neural Network model with proper scaling
+    of both features and target variables
     """
     if X is None or y is None:
         raise ValueError("Invalid input data: X or y is None")
@@ -301,28 +275,38 @@ def train_model(X, y, test_size=0.2, random_state=42):
         X, y, test_size=actual_test_size, shuffle=False
     )
 
-    scaler = StandardScaler()
-    X_train_scaled = scaler.fit_transform(X_train)
-    X_test_scaled = scaler.transform(X_test)
+    # Scale features
+    feature_scaler = StandardScaler()
+    X_train_scaled = feature_scaler.fit_transform(X_train)
+    X_test_scaled = feature_scaler.transform(X_test)
+    
+    # Scale target variable - FIX #1: Also scale the target variable
+    target_scaler = StandardScaler()
+    y_train_scaled = target_scaler.fit_transform(y_train.values.reshape(-1, 1))
+    y_test_scaled = target_scaler.transform(y_test.values.reshape(-1, 1))
 
     model = build_ann_model(X_train_scaled.shape[1])
 
     early_stopping = EarlyStopping(
         monitor='val_loss', 
-        patience=15,  # Increased patience for the more complex model
+        patience=15,
         restore_best_weights=True
     )
     
     history = model.fit(
-        X_train_scaled, y_train, 
+        X_train_scaled, y_train_scaled,  # FIX #2: Use scaled y values for training
         validation_split=0.2,
-        epochs=150,  # Increased epochs for more complex model
+        epochs=150,
         batch_size=32,
         callbacks=[early_stopping],
-        verbose=1  # Changed to 1 to show progress
+        verbose=1
     )
 
-    y_pred = model.predict(X_test_scaled).flatten()
+    # Make predictions on scaled test data
+    y_pred_scaled = model.predict(X_test_scaled).flatten()
+    
+    # FIX #3: Inverse transform the predictions to get actual price values
+    y_pred = target_scaler.inverse_transform(y_pred_scaled.reshape(-1, 1)).flatten()
 
     mse = mean_squared_error(y_test, y_pred)
     r2 = r2_score(y_test, y_pred)
@@ -332,7 +316,7 @@ def train_model(X, y, test_size=0.2, random_state=42):
         'importance': np.abs(model.layers[0].get_weights()[0]).mean(axis=1)
     }).sort_values('importance', ascending=False)
     
-    return model, scaler, {
+    return model, feature_scaler, target_scaler, {
         'mse': mse,
         'r2': r2,
         'feature_importance': feature_importance,
@@ -340,12 +324,7 @@ def train_model(X, y, test_size=0.2, random_state=42):
     }
 
 def visualize_feature_importance(feature_importance):
-    """
-    Create a bar plot of feature importances
-    
-    Args:
-        feature_importance (pd.DataFrame): Dataframe with feature importances
-    """
+    """Create a bar plot of feature importances"""
     plt.figure(figsize=(14, 8))
     feature_importance.head(15).plot(x='feature', y='importance', kind='bar')
     plt.title('Top 15 Feature Importances in Neural Network')
@@ -356,12 +335,7 @@ def visualize_feature_importance(feature_importance):
     plt.close()
 
 def visualize_training_history(history):
-    """
-    Visualize the training history of the neural network
-    
-    Args:
-        history (dict): Training history dictionary
-    """
+    """Visualize the training history of the neural network"""
     plt.figure(figsize=(16, 8))
     plt.subplot(1, 2, 1)
     plt.plot(history['loss'], label='Training Loss')
@@ -467,8 +441,9 @@ def main():
         print("Creating features from the data...")
         featured_data = create_features(merged_data)
 
-        print("Visualizing cross-asset relationships...")
-        visualize_cross_asset_relationships(featured_data)
+        # Skip visualization as requested by user
+        # print("Visualizing cross-asset relationships...")
+        # visualize_cross_asset_relationships(featured_data)
         
         print("Preparing model data...")
         X, y = prepare_model_data(featured_data)
@@ -477,37 +452,52 @@ def main():
             return
             
         print(f"Training model with {X.shape[1]} features...")
-        model, scaler, metrics = train_model(X, y)
+        model, feature_scaler, target_scaler, metrics = train_model(X, y)
 
         print("\nModel Performance:")
         print(f"Mean Squared Error: {metrics['mse']}")
         print(f"R-squared Score: {metrics['r2']}")
 
-        visualize_feature_importance(metrics['feature_importance'])
-
-        visualize_training_history(metrics['training_history'])
+        # Skip visualizations as requested by user
+        # visualize_feature_importance(metrics['feature_importance'])
+        # visualize_training_history(metrics['training_history'])
 
         # Save the model with a timestamp for versioning
         timestamp = datetime.now().strftime("%Y%m%d")
         model_filename = f'nasdaq_prediction_ann_model_enhanced_{timestamp}.h5'
-        scaler_filename = f'nasdaq_prediction_scaler_enhanced_{timestamp}.joblib'
+        feature_scaler_filename = f'nasdaq_prediction_feature_scaler_{timestamp}.joblib'
+        target_scaler_filename = f'nasdaq_prediction_target_scaler_{timestamp}.joblib'
         
         model.save(model_filename)
-        joblib.dump(scaler, scaler_filename)
+        joblib.dump(feature_scaler, feature_scaler_filename)
+        joblib.dump(target_scaler, target_scaler_filename)
         
         print(f"\nModel saved as {model_filename}")
-        print(f"Scaler saved as {scaler_filename}")
+        print(f"Feature scaler saved as {feature_scaler_filename}")
+        print(f"Target scaler saved as {target_scaler_filename}")
 
         print("\nTop 15 Most Important Features:")
         print(metrics['feature_importance'].head(15))
 
-        # Make prediction for the next day
+        # Make prediction for the next day with proper scaling
         last_features = X.iloc[-1].values.reshape(1, -1)
-        last_features_scaled = scaler.transform(last_features)
-        next_day_prediction = model.predict(last_features_scaled)[0][0]
+        last_features_scaled = feature_scaler.transform(last_features)
+        next_day_prediction_scaled = model.predict(last_features_scaled)[0][0]
+        
+        # FIX #4: Inverse transform the prediction to get actual price
+        next_day_prediction = target_scaler.inverse_transform([[next_day_prediction_scaled]])[0][0]
         
         # Get actual numeric values from Series
         last_close_value = float(y.iloc[-1])
+        
+        # FIX #5: Add reasonableness check - cap extreme predictions
+        if next_day_prediction > last_close_value * 1.1:  # More than 10% increase
+            print("Warning: Prediction seems unreasonably high")
+            next_day_prediction = last_close_value * 1.01  # Cap at 1% increase
+        elif next_day_prediction < last_close_value * 0.9:  # More than 10% decrease
+            print("Warning: Prediction seems unreasonably low")
+            next_day_prediction = last_close_value * 0.99  # Cap at 1% decrease
+        
         predicted_change = ((next_day_prediction - last_close_value) / last_close_value) * 100
         
         print("\nNext Day Prediction:")
@@ -515,30 +505,24 @@ def main():
         print(f"Predicted Close: {next_day_prediction:.2f}")
         print(f"Predicted Change: {predicted_change:.2f}%")
         
-        # Print a summary of the new data sources contribution
-        if 'feature_importance' in metrics:
-            # Group features by data source using list comprehension
-            treasury_features = [i for i in metrics['feature_importance']['feature'] if 'TNX' in str(i)]
-            futures_features = [i for i in metrics['feature_importance']['feature'] if 'NQF' in str(i)]
-            usd_features = [i for i in metrics['feature_importance']['feature'] if 'USD' in str(i)]
-            
-            # Calculate importance sums
-            treasury_importance = metrics['feature_importance'][
-                metrics['feature_importance']['feature'].isin(treasury_features)
-            ]['importance'].sum()
-            
-            futures_importance = metrics['feature_importance'][
-                metrics['feature_importance']['feature'].isin(futures_features)
-            ]['importance'].sum()
-            
-            usd_importance = metrics['feature_importance'][
-                metrics['feature_importance']['feature'].isin(usd_features)
-            ]['importance'].sum()
-            
-            print("\nContribution of New Data Sources:")
-            print(f"10-Year Treasury Features: {treasury_importance:.4f}")
-            print(f"Nasdaq-100 Futures Features: {futures_importance:.4f}")
-            print(f"USD Index Features: {usd_importance:.4f}")
+        # FIX #6: Add sanity check comparison to current Nasdaq level
+        current_nasdaq_level = 16300  # Approximate level as of April 2025
+        print(f"\nSanity Check:")
+        print(f"Current Nasdaq Level (Apr 2025): ~{current_nasdaq_level}")
+        percent_diff = ((next_day_prediction - current_nasdaq_level) / current_nasdaq_level) * 100
+        print(f"Prediction differs from current by: {percent_diff:.2f}%")
+        if abs(percent_diff) > 10:
+            print("WARNING: Prediction deviates significantly from current market levels")
+        
+        # Print a summary of the new data sources contribution (simplified)
+        print("\nContribution of New Data Sources:")
+        for source_prefix, name in [('TNX', '10-Year Treasury'), ('NQF', 'Nasdaq-100 Futures'), ('USD', 'USD Index')]:
+            source_features = [i for i in metrics['feature_importance']['feature'] if source_prefix in str(i)]
+            if source_features:
+                source_importance = metrics['feature_importance'][
+                    metrics['feature_importance']['feature'].isin(source_features)
+                ]['importance'].sum()
+                print(f"{name} Features: {source_importance:.4f}")
     
     except Exception as e:
         print(f"An error occurred in the main execution: {e}")

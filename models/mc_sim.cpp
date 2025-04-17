@@ -8,7 +8,7 @@ int main() {
     double k = 6.30; // Strike price of the option
     double r = 0.04; // Risk free interest rate annually
     double sigma = 0.516; // Volatility of the underlying asset
-    double t = 0.1; // Time to maturity of the option in years
+    double t = 0.1; // Time to maturity of the option (years)
     int num_simulations = 1000000; // Number of Monte Carlo simulations
 
     std::random_device rd; // Random number generator stuff

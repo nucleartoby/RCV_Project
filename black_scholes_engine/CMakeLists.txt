@@ -6,6 +6,6 @@ set(CMAKE_CXX_STANDARD 17)
 include_directories(include)
 
 add_executable(bs_engine
-    src/black_scholes.cpp
     main.cpp
+    black_scholes.cpp
 )

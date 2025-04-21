@@ -38,7 +38,6 @@ private:
     double currentCapital;
     bool inPosition;
     
-    // Calculate moving average for a given period
     std::vector<double> calculateMA(int period) {
         std::vector<double> ma(priceData.size(), 0.0);
         
@@ -67,16 +66,13 @@ public:
         }
         
         std::string line;
-        // Skip header if present
         std::getline(file, line);
         
-        // Read data lines
         while (std::getline(file, line)) {
             std::stringstream ss(line);
             std::string item;
             PriceData data;
-            
-            // Parse CSV format: date,open,high,low,close,volume
+
             std::getline(ss, data.date, ',');
             std::getline(ss, item, ','); data.open = std::stod(item);
             std::getline(ss, item, ','); data.high = std::stod(item);
@@ -88,8 +84,7 @@ public:
         }
         
         file.close();
-        
-        // Calculate MAs after loading data
+
         if (priceData.size() > static_cast<size_t>(longPeriod)) {
             shortMA = calculateMA(shortPeriod);
             longMA = calculateMA(longPeriod);
@@ -102,20 +97,17 @@ public:
     
     void runBacktest() {
         Trade currentTrade;
-        
-        // We need at least longPeriod data points before we can start trading
+
         for (size_t i = longPeriod; i < priceData.size() - 1; ++i) {
             bool buySignal = shortMA[i-1] <= longMA[i-1] && shortMA[i] > longMA[i];
             bool sellSignal = shortMA[i-1] >= longMA[i-1] && shortMA[i] < longMA[i];
-            
-            // Execute buy
+
             if (buySignal && !inPosition) {
                 currentTrade.entryDate = priceData[i+1].date;
                 currentTrade.entryPrice = priceData[i+1].open;
                 inPosition = true;
             }
-            
-            // Execute sell
+
             if (sellSignal && inPosition) {
                 currentTrade.exitDate = priceData[i+1].date;
                 currentTrade.exitPrice = priceData[i+1].open;
@@ -123,14 +115,12 @@ public:
                 currentTrade.profitPercentage = (currentTrade.profit / currentTrade.entryPrice) * 100.0;
                 
                 trades.push_back(currentTrade);
-                
-                // Update capital
+
                 currentCapital *= (1.0 + currentTrade.profitPercentage / 100.0);
                 inPosition = false;
             }
         }
-        
-        // Close any open position at the end of the backtest
+
         if (inPosition) {
             currentTrade.exitDate = priceData.back().date;
             currentTrade.exitPrice = priceData.back().close;
@@ -138,8 +128,7 @@ public:
             currentTrade.profitPercentage = (currentTrade.profit / currentTrade.entryPrice) * 100.0;
             
             trades.push_back(currentTrade);
-            
-            // Update capital
+
             currentCapital *= (1.0 + currentTrade.profitPercentage / 100.0);
             inPosition = false;
         }
@@ -154,8 +143,7 @@ public:
         std::cout << "Total Return: " << std::fixed << std::setprecision(2) 
                   << ((currentCapital - initialCapital) / initialCapital * 100.0) << "%" << std::endl;
         std::cout << "Number of Trades: " << trades.size() << std::endl;
-        
-        // Calculate win rate
+
         int winningTrades = 0;
         for (const auto& trade : trades) {
             if (trade.profit > 0) {
@@ -165,8 +153,7 @@ public:
         
         double winRate = trades.empty() ? 0.0 : (static_cast<double>(winningTrades) / trades.size() * 100.0);
         std::cout << "Win Rate: " << std::fixed << std::setprecision(2) << winRate << "%" << std::endl;
-        
-        // Calculate average profit per trade
+
         double totalProfitPercentage = 0.0;
         for (const auto& trade : trades) {
             totalProfitPercentage += trade.profitPercentage;
@@ -174,8 +161,7 @@ public:
         
         double avgProfitPerTrade = trades.empty() ? 0.0 : (totalProfitPercentage / trades.size());
         std::cout << "Average Profit Per Trade: " << std::fixed << std::setprecision(2) << avgProfitPerTrade << "%" << std::endl;
-        
-        // Display trade details
+
         std::cout << "\nTrade Details:" << std::endl;
         std::cout << "------------------------------------------------" << std::endl;
         std::cout << std::left << std::setw(12) << "Entry Date" 
@@ -202,11 +188,9 @@ public:
             std::cerr << "Error: Unable to open output file " << filename << std::endl;
             return;
         }
-        
-        // Write header
+
         file << "Entry Date,Entry Price,Exit Date,Exit Price,Profit,Profit %" << std::endl;
-        
-        // Write trade data
+
         for (const auto& trade : trades) {
             file << trade.entryDate << "," 
                  << std::fixed << std::setprecision(2) << trade.entryPrice << "," 
@@ -240,8 +224,7 @@ int main(int argc, char* argv[]) {
     
     strategy.runBacktest();
     strategy.printResults();
-    
-    // Export results to CSV
+
     std::string outputFilename = "ma_crossover_results.csv";
     strategy.exportTradeResults(outputFilename);
     

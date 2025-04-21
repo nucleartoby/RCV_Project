@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cmath>
+#include <math.h>
 
 // Enum for option type
 enum OptionType { CALL, PUT };
@@ -30,11 +31,11 @@ double black_scholes_price(
 
 int main() {
     // Example parameters
-    double S = 100.0;   // Stock price
-    double K = 100.0;   // Strike price
+    double S = 153.36;   // Stock price (GOOG)
+    double K = 165;   // Strike price
     double r = 0.05;    // Risk-free rate (5%)
     double sigma = 0.2; // Volatility (20%)
-    double T = 1.0;     // One year until expiration
+    double T = 0.27;     // until expiration (3 months roughly)
 
     // Calculate and display results
     double call_price = black_scholes_price(CALL, S, K, r, sigma, T);

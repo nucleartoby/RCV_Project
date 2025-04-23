@@ -22,34 +22,28 @@ def fetch_additional_market_data(ticker='^IXIC', vix_ticker='^VIX',
     options market data, 10-year treasury yields, Nasdaq-100 futures, and USD index
     """
     try:
-        # Set default date range: today and 7 years prior
-        if end_date is None:
+        if end_date is None: # Set default date range: today and 7 years prior
             end_date = datetime.today().strftime('%Y-%m-%d')
         
         if start_date is None:
-            # Default to ~7 years of historical data
             start_date = (datetime.today() - timedelta(days=365*7)).strftime('%Y-%m-%d')
             
         print(f"Fetching data from {start_date} to {end_date}")
         
-        # Download main datasets
         nasdaq_data = yf.download(ticker, start=start_date, end=end_date)
         vix_data = yf.download(vix_ticker, start=start_date, end=end_date)
-        
-        # Download new datasets
+
         treasury_data = yf.download(treasury_ticker, start=start_date, end=end_date)
         nasdaq_futures_data = yf.download(nasdaq_futures_ticker, start=start_date, end=end_date)
         usd_index_data = yf.download(usd_index_ticker, start=start_date, end=end_date)
 
-        # Rename VIX columns
         vix_data = vix_data.rename(columns={
             'Open': 'VIX_Open', 
             'High': 'VIX_High', 
             'Low': 'VIX_Low', 
             'Close': 'VIX_Close'
         })
-        
-        # Rename Treasury data columns
+
         treasury_data = treasury_data.rename(columns={
             'Open': 'TNX_Open', 
             'High': 'TNX_High', 
@@ -57,8 +51,7 @@ def fetch_additional_market_data(ticker='^IXIC', vix_ticker='^VIX',
             'Close': 'TNX_Close',
             'Volume': 'TNX_Volume'
         })
-        
-        # Rename Nasdaq futures columns
+
         nasdaq_futures_data = nasdaq_futures_data.rename(columns={
             'Open': 'NQF_Open', 
             'High': 'NQF_High', 
@@ -66,8 +59,7 @@ def fetch_additional_market_data(ticker='^IXIC', vix_ticker='^VIX',
             'Close': 'NQF_Close',
             'Volume': 'NQF_Volume'
         })
-        
-        # Rename USD index columns
+
         usd_index_data = usd_index_data.rename(columns={
             'Open': 'USD_Open', 
             'High': 'USD_High', 
@@ -76,12 +68,10 @@ def fetch_additional_market_data(ticker='^IXIC', vix_ticker='^VIX',
             'Volume': 'USD_Volume'
         })
 
-        # Calculate volume imbalance
         nasdaq_data['Volume_Imbalance'] = (
             nasdaq_data['Volume'] - nasdaq_data['Volume'].rolling(window=5).mean()
         ) / nasdaq_data['Volume'].rolling(window=5).std()
-  
-        # Fetch Apple financial ratios as in the original code
+
         apple_ticker = yf.Ticker('AAPL')
 
         try:
@@ -98,22 +88,17 @@ def fetch_additional_market_data(ticker='^IXIC', vix_ticker='^VIX',
             nasdaq_data['Price_to_Book'] = np.nan
 
         nasdaq_data['Options_Implied_Vol'] = vix_data['VIX_Close']
-        
-        # Calculate spread between Nasdaq and Nasdaq futures (premium/discount)
-        # Match the dates first to handle missing data
+
         common_dates = nasdaq_data.index.intersection(nasdaq_futures_data.index)
         nasdaq_data.loc[common_dates, 'Futures_Premium'] = (
             nasdaq_futures_data.loc[common_dates, 'NQF_Close'] - 
             nasdaq_data.loc[common_dates, 'Close']
-        ) / nasdaq_data.loc[common_dates, 'Close'] * 100  # in percentage
-        
-        # Calculate the rate change for 10-year Treasury
+        ) / nasdaq_data.loc[common_dates, 'Close'] * 100
+
         treasury_data['TNX_Daily_Change'] = treasury_data['TNX_Close'].pct_change() * 100
-        
-        # Calculate USD strength change
+
         usd_index_data['USD_Daily_Change'] = usd_index_data['USD_Close'].pct_change() * 100
 
-        # Merge all datasets
         merged_data = nasdaq_data
         for df in [vix_data, treasury_data, nasdaq_futures_data, usd_index_data]:
             merged_data = pd.merge(merged_data, df, how='left', left_index=True, right_index=True)
@@ -131,8 +116,7 @@ def create_features(df):
             return pd.DataFrame()
 
         data = df.copy()
-        
-        # Calculate required features
+
         base_features = {
             'Daily_Return': lambda x: x['Close'].pct_change(),
             'Volatility': lambda x: x['High'] - x['Low'],
@@ -140,8 +124,7 @@ def create_features(df):
             'SMA_10': lambda x: x['Close'].rolling(window=10, min_periods=1).mean(),
             'SMA_50': lambda x: x['Close'].rolling(window=50, min_periods=1).mean()
         }
-        
-        # Calculate base features
+
         for name, func in base_features.items():
             try:
                 data[name] = func(data)
@@ -149,10 +132,8 @@ def create_features(df):
                 print(f"Error calculating {name}: {e}")
                 return pd.DataFrame()
 
-        # Fill missing values
         data = data.fillna(method='ffill').fillna(method='bfill')
-        
-        # Verify data quality
+
         essential_cols = ['Close', 'Daily_Return', 'Volatility', 'RSI']
         if data[essential_cols].isnull().any().any():
             print("Error: Missing values in essential columns")
@@ -169,38 +150,32 @@ def calculate_rsi(price_series, window=14):
     delta = price_series.diff()
     gain = (delta.where(delta > 0, 0)).rolling(window=window).mean()
     loss = (-delta.where(delta < 0, 0)).rolling(window=window).mean()
-    rs = gain / (loss + 1e-10)  # Add small epsilon to prevent division by zero
+    rs = gain / (loss + 1e-10)
     return 100 - (100 / (1 + rs))
 
 def prepare_model_data(df):
     """Prepare features and target variable for modeling"""
     try:
-        # Validate input data
         if df is None or len(df.index) == 0:
             print("Error: Input DataFrame is empty")
             return None, None
-            
-        # Verify essential columns exist
+
         essential_cols = ['Close', 'Daily_Return', 'Volatility', 'RSI']
         missing_cols = [col for col in essential_cols if col not in df.columns]
         if missing_cols:
             print(f"Error: Missing essential columns: {missing_cols}")
             return None, None
-            
-        # Select features (exclude target variable and completely null columns)
+
         feature_cols = [col for col in df.columns 
                        if col != 'Close' and not df[col].isnull().all()]
-        
-        # Validate feature count
+
         if len(feature_cols) < 5:
             print("Error: Insufficient features available")
             return None, None
-            
-        # Create copies to avoid SettingWithCopyWarning
+
         X = df[feature_cols].copy()
         y = df['Close'].copy()
-        
-        # Check for NaN values explicitly
+
         has_nulls_x = X.isnull().values.any()
         has_nulls_y = y.isnull().values.any()
         
@@ -221,7 +196,6 @@ def build_ann_model(input_shape):
     for handling more features
     """
     model = Sequential([
-        # Increased capacity for more features
         Dense(128, activation='relu', input_shape=(input_shape,), 
               kernel_regularizer=tf.keras.regularizers.l2(0.001)),
         Dropout(0.2),
@@ -262,9 +236,8 @@ def train_model(X, y, test_size=0.2, random_state=42):
     
     if len(X) < 100:
         raise ValueError(f"Insufficient data: {len(X)} samples. Need at least 100.")
-    
-    # Calculate minimum test size
-    min_test_samples = max(20, int(len(X) * 0.1))  # At least 20 samples or 10%
+
+    min_test_samples = max(20, int(len(X) * 0.1))
     actual_test_size = max(min(test_size, 0.5), min_test_samples / len(X))
     print(f"Using test_size: {actual_test_size}")
 
@@ -275,12 +248,10 @@ def train_model(X, y, test_size=0.2, random_state=42):
         X, y, test_size=actual_test_size, shuffle=False
     )
 
-    # Scale features
     feature_scaler = StandardScaler()
     X_train_scaled = feature_scaler.fit_transform(X_train)
     X_test_scaled = feature_scaler.transform(X_test)
-    
-    # Scale target variable - FIX #1: Also scale the target variable
+
     target_scaler = StandardScaler()
     y_train_scaled = target_scaler.fit_transform(y_train.values.reshape(-1, 1))
     y_test_scaled = target_scaler.transform(y_test.values.reshape(-1, 1))
@@ -294,7 +265,7 @@ def train_model(X, y, test_size=0.2, random_state=42):
     )
     
     history = model.fit(
-        X_train_scaled, y_train_scaled,  # FIX #2: Use scaled y values for training
+        X_train_scaled, y_train_scaled,
         validation_split=0.2,
         epochs=150,
         batch_size=32,
@@ -302,10 +273,8 @@ def train_model(X, y, test_size=0.2, random_state=42):
         verbose=1
     )
 
-    # Make predictions on scaled test data
     y_pred_scaled = model.predict(X_test_scaled).flatten()
-    
-    # FIX #3: Inverse transform the predictions to get actual price values
+
     y_pred = target_scaler.inverse_transform(y_pred_scaled.reshape(-1, 1)).flatten()
 
     mse = mean_squared_error(y_test, y_pred)
@@ -360,18 +329,15 @@ def visualize_training_history(history):
 def visualize_cross_asset_relationships(df):
     """Visualize relationships between different asset classes"""
     try:
-        # Validate required columns
         required_cols = ['Close', 'TNX_Close', 'USD_Close', 'NQF_Close']
         missing_cols = [col for col in required_cols if col not in df.columns]
         
         if missing_cols:
             print(f"Warning: Missing columns for visualization: {missing_cols}")
             return
-            
-        # Create figure only if we have valid data
+
         plt.figure(figsize=(18, 12))
-        
-        # Plot each subplot with error handling
+
         try:
             plt.subplot(2, 2, 1)
             if 'TNX_Close' in df.columns:
@@ -426,11 +392,10 @@ def visualize_cross_asset_relationships(df):
         
     except Exception as e:
         print(f"Error in visualization: {e}")
-        plt.close()  # Ensure figure is closed on error
+        plt.close()
 
 def main():
     try:
-        # Call fetch_additional_market_data with the new data sources
         print("Fetching market data including Treasury yields, Nasdaq futures, and USD index...")
         merged_data = fetch_additional_market_data()
         
@@ -440,10 +405,6 @@ def main():
 
         print("Creating features from the data...")
         featured_data = create_features(merged_data)
-
-        # Skip visualization as requested by user
-        # print("Visualizing cross-asset relationships...")
-        # visualize_cross_asset_relationships(featured_data)
         
         print("Preparing model data...")
         X, y = prepare_model_data(featured_data)
@@ -458,11 +419,6 @@ def main():
         print(f"Mean Squared Error: {metrics['mse']}")
         print(f"R-squared Score: {metrics['r2']}")
 
-        # Skip visualizations as requested by user
-        # visualize_feature_importance(metrics['feature_importance'])
-        # visualize_training_history(metrics['training_history'])
-
-        # Save the model with a timestamp for versioning
         timestamp = datetime.now().strftime("%Y%m%d")
         model_filename = f'nasdaq_prediction_ann_model_enhanced_{timestamp}.h5'
         feature_scaler_filename = f'nasdaq_prediction_feature_scaler_{timestamp}.joblib'
@@ -479,24 +435,20 @@ def main():
         print("\nTop 15 Most Important Features:")
         print(metrics['feature_importance'].head(15))
 
-        # Make prediction for the next day with proper scaling
         last_features = X.iloc[-1].values.reshape(1, -1)
         last_features_scaled = feature_scaler.transform(last_features)
         next_day_prediction_scaled = model.predict(last_features_scaled)[0][0]
-        
-        # FIX #4: Inverse transform the prediction to get actual price
+
         next_day_prediction = target_scaler.inverse_transform([[next_day_prediction_scaled]])[0][0]
-        
-        # Get actual numeric values from Series
+
         last_close_value = float(y.iloc[-1])
-        
-        # FIX #5: Add reasonableness check - cap extreme predictions
-        if next_day_prediction > last_close_value * 1.1:  # More than 10% increase
+
+        if next_day_prediction > last_close_value * 1.1:
             print("Warning: Prediction seems unreasonably high")
-            next_day_prediction = last_close_value * 1.01  # Cap at 1% increase
-        elif next_day_prediction < last_close_value * 0.9:  # More than 10% decrease
+            next_day_prediction = last_close_value * 1.01
+        elif next_day_prediction < last_close_value * 0.9:
             print("Warning: Prediction seems unreasonably low")
-            next_day_prediction = last_close_value * 0.99  # Cap at 1% decrease
+            next_day_prediction = last_close_value * 0.99
         
         predicted_change = ((next_day_prediction - last_close_value) / last_close_value) * 100
         
@@ -504,17 +456,15 @@ def main():
         print(f"Last Close: {last_close_value:.2f}")
         print(f"Predicted Close: {next_day_prediction:.2f}")
         print(f"Predicted Change: {predicted_change:.2f}%")
-        
-        # FIX #6: Add sanity check comparison to current Nasdaq level
-        current_nasdaq_level = 16300  # Approximate level as of April 2025
+
+        current_nasdaq_level = 15900
         print(f"\nSanity Check:")
         print(f"Current Nasdaq Level (Apr 2025): ~{current_nasdaq_level}")
         percent_diff = ((next_day_prediction - current_nasdaq_level) / current_nasdaq_level) * 100
         print(f"Prediction differs from current by: {percent_diff:.2f}%")
         if abs(percent_diff) > 10:
             print("WARNING: Prediction deviates significantly from current market levels")
-        
-        # Print a summary of the new data sources contribution (simplified)
+
         print("\nContribution of New Data Sources:")
         for source_prefix, name in [('TNX', '10-Year Treasury'), ('NQF', 'Nasdaq-100 Futures'), ('USD', 'USD Index')]:
             source_features = [i for i in metrics['feature_importance']['feature'] if source_prefix in str(i)]

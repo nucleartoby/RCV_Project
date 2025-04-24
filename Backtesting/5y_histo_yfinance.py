@@ -5,7 +5,7 @@ import datetime as dt
 import matplotlib.pyplot as plt
 import plotly.express as px
 
-ticker = 'AAPL' # ticker for the stock to analyse
+ticker = 'SMT.L' # ticker for the stock to analyse
 
 ticker_data = yf.Ticker(ticker) # function to get the ticker data
 

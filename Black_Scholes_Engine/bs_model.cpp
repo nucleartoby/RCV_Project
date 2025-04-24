@@ -37,11 +37,10 @@ int main() {
     double sigma = 0.2; // Volatility (20%)
     double T = 0.27;     // until expiration (3 months roughly)
 
-    // Calculate and display results
-    double call_price = black_scholes_price(CALL, S, K, r, sigma, T);
+    double call_price = black_scholes_price(CALL, S, K, r, sigma, T); // Calculate call/put prices.
     double put_price = black_scholes_price(PUT, S, K, r, sigma, T);
 
-    std::cout << "Black-Scholes Option Pricing Model" << std::endl;
+    std::cout << "Black-Scholes Option Pricing Model" << std::endl; // Prints results.
     std::cout << "==================================" << std::endl;
     std::cout << "Stock Price (S): $" << S << std::endl;
     std::cout << "Strike Price (K): $" << K << std::endl;

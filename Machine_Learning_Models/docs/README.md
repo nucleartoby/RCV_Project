@@ -1,1 +1,1 @@
-I guess its fine.
+ANN model that predicts the price of the NASDAQ Composite using the VIX, US Tresury 10-year, US Tech Index and Nasdaq Futures-100 as variables.

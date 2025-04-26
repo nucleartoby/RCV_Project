@@ -9,10 +9,7 @@ from tensorflow.keras.callbacks import EarlyStopping
 from .ann import build_ann_model
 
 def train_model(X, y, test_size=0.2, random_state=42):
-    """
-    Train and evaluate the Artificial Neural Network model with proper scaling
-    of both features and target variables
-    """
+
     if X is None or y is None:
         raise ValueError("Invalid input data: X or y is None")
         

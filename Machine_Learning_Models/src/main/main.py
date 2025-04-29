@@ -18,7 +18,6 @@ from src.visualisations.graphs import (
 def main():
     try:
         print("Getting market data including Treasury yields, Nasdaq futures, and USD index...")
-
         merged_data = fetch_additional_market_data()
         merged_data = market_data()
         

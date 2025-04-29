@@ -2,12 +2,10 @@ import tensorflow as tf
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Dropout
 from tensorflow.keras.regularizers import l2
+from tensorflow.keras.optimizers import Adam  # Fix: Import Adam optimizer
 
 def build_ann_model(input_shape):
-    """
-    Build an enhanced Artificial Neural Network model with additional capacity
-    for handling more features
-    """
+
     model = Sequential([
         Dense(128, activation='relu', input_shape=(input_shape,), 
               kernel_regularizer=tf.keras.regularizers.l2(0.001)),
@@ -37,5 +35,5 @@ def build_ann_model(input_shape):
     return model
 
 if __name__ == "__main__":
-      print("module is not meant to be run directly")
-      print("import and use functions in main script")
+    print("module is not meant to be run directly")
+    print("import and use functions in main script")

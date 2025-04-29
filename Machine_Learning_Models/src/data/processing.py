@@ -2,23 +2,22 @@ import pandas as pd
 import numpy as np
 
 def prepare_model_data(df):
-    """Prepare features and target variable for modeling"""
     try:
         if df is None or len(df.index) == 0:
-            print("Error: Input DataFrame is empty")
+            print("Error, input df is empty")
             return None, None
 
         essential_cols = ['Close', 'Daily_Return', 'Volatility', 'RSI']
         missing_cols = [col for col in essential_cols if col not in df.columns]
         if missing_cols:
-            print(f"Error: Missing essential columns: {missing_cols}")
+            print(f"Error, missing columns: {missing_cols}")
             return None, None
 
         feature_cols = [col for col in df.columns 
                        if col != 'Close' and not df[col].isnull().all()]
 
         if len(feature_cols) < 5:
-            print("Error: Insufficient features available")
+            print("Error, insufficient features")
             return None, None
 
         X = df[feature_cols].copy()
@@ -28,7 +27,7 @@ def prepare_model_data(df):
         has_nulls_y = y.isnull().values.any()
         
         if has_nulls_x or has_nulls_y:
-            print("Error: Dataset contains NaN values")
+            print("Error, dataset contains NaN values")
             return None, None
             
         print(f"Data prepared successfully. X shape: {X.shape}, y shape: {y.shape}")

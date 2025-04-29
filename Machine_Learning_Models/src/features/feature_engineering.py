@@ -9,10 +9,9 @@ def calculate_rsi(price_series, window=14):
     return 100 - (100 / (1 + rs))
 
 def create_features(df):
-    """Create additional features for the model including the new data sources"""
     try:
         if df is None or df.empty:
-            print("Error: Empty input DataFrame")
+            print("Error, empty input df")
             return pd.DataFrame()
 
         data = df.copy()
@@ -36,7 +35,7 @@ def create_features(df):
 
         essential_cols = ['Close', 'Daily_Return', 'Volatility', 'RSI']
         if data[essential_cols].isnull().any().any():
-            print("Error: Missing values in essential columns")
+            print("Error, missing values in columns")
             return pd.DataFrame()
             
         print(f"Successfully created features. Shape: {data.shape}")

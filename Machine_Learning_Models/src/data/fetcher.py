@@ -3,14 +3,10 @@ import numpy as np
 import yfinance as yf
 from datetime import datetime, timedelta
 
-def fetch_additional_market_data(ticker='^IXIC', vix_ticker='^VIX', 
+def market_data(ticker='^IXIC', vix_ticker='^VIX', 
                                 treasury_ticker='^TNX', nasdaq_futures_ticker='NQ=F',
                                 usd_index_ticker='DX-Y.NYB',
                                 start_date=None, end_date=None):
-    """
-    Fetch additional market data including high-frequency, financial ratios, 
-    options market data, 10-year treasury yields, Nasdaq-100 futures, and USD index
-    """
     try:
         if end_date is None: # Set default date range: today and 7 years prior
             end_date = datetime.today().strftime('%Y-%m-%d')
@@ -18,7 +14,7 @@ def fetch_additional_market_data(ticker='^IXIC', vix_ticker='^VIX',
         if start_date is None:
             start_date = (datetime.today() - timedelta(days=365*7)).strftime('%Y-%m-%d')
             
-        print(f"Fetching data from {start_date} to {end_date}")
+        print(f"Getting data from {start_date} to {end_date}")
         
         nasdaq_data = yf.download(ticker, start=start_date, end=end_date)
         vix_data = yf.download(vix_ticker, start=start_date, end=end_date)
@@ -73,7 +69,7 @@ def fetch_additional_market_data(ticker='^IXIC', vix_ticker='^VIX',
             nasdaq_data['PE_Ratio'] = price_to_earnings
             nasdaq_data['Price_to_Book'] = price_to_book
         except Exception as e:
-            print(f"Error fetching financial ratios: {e}")
+            print(f"Error getting financial ratios: {e}")
             nasdaq_data['PE_Ratio'] = np.nan
             nasdaq_data['Price_to_Book'] = np.nan
 

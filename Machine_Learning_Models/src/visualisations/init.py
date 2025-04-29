@@ -1,11 +1,11 @@
 from .plots import (
-    visualize_feature_importance,
-    visualize_training_history,
-    visualize_cross_asset_relationships
+    visualise_feature_importance,
+    visualise_training_history,
+    visualise_cross_asset_relationships
 )
 
 __all__ = [
-    'visualize_feature_importance',
-    'visualize_training_history',
-    'visualize_cross_asset_relationships'
+    'visualise_feature_importance',
+    'visualise_training_history',
+    'visualise_cross_asset_relationships'
 ]

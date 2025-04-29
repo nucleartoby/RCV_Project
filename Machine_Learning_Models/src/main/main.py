@@ -17,11 +17,11 @@ from .visualization.plots import (
 
 def main():
     try:
-        print("Fetching market data including Treasury yields, Nasdaq futures, and USD index...")
+        print("Getting market data including Treasury yields, Nasdaq futures, and USD index...")
         merged_data = fetch_additional_market_data()
         
         if merged_data is None:
-            print("Failed to fetch market data. Exiting.")
+            print("Failed to get market data. Exiting.")
             return
 
         print("Creating features from the data...")
@@ -53,7 +53,7 @@ def main():
         print(f"Feature scaler saved as {feature_scaler_filename}")
         print(f"Target scaler saved as {target_scaler_filename}")
 
-        print("\nTop 15 Most Important Features:")
+        print("\nMost Important Features:")
         print(metrics['feature_importance'].head(15))
 
         last_features = X.iloc[-1].values.reshape(1, -1)
@@ -65,10 +65,10 @@ def main():
         last_close_value = float(y.iloc[-1])
 
         if next_day_prediction > last_close_value * 1.1:
-            print("Warning: Prediction seems unreasonably high")
+            print("Warning, prediction seems unreasonably high")
             next_day_prediction = last_close_value * 1.01
         elif next_day_prediction < last_close_value * 0.9:
-            print("Warning: Prediction seems unreasonably low")
+            print("Warning, prediction seems unreasonably low")
             next_day_prediction = last_close_value * 0.99
         
         predicted_change = ((next_day_prediction - last_close_value) / last_close_value) * 100
@@ -84,7 +84,7 @@ def main():
         percent_diff = ((next_day_prediction - current_nasdaq_level) / current_nasdaq_level) * 100
         print(f"Prediction differs from current by: {percent_diff:.2f}%")
         if abs(percent_diff) > 10:
-            print("WARNING: Prediction deviates significantly from current market levels")
+            print("WARNING, prediction deviates significantly from current market levels")
 
         print("\nContribution of New Data Sources:")
         for source_prefix, name in [('TNX', '10-Year Treasury'), ('NQF', 'Nasdaq-100 Futures'), ('USD', 'USD Index')]:

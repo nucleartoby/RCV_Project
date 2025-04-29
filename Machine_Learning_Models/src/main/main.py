@@ -9,6 +9,7 @@ from src.data.fetcher import market_data
 from src.features.feature_engineering import create_features
 from src.data.processing import prepare_model_data
 from src.models.training import train_model
+from src.data.market_prices import get_current_nasdaq_level
 from src.visualisations.graphs import (
     visualise_feature_importance,
     visualise_training_history,
@@ -18,7 +19,6 @@ from src.visualisations.graphs import (
 def main():
     try:
         print("Getting market data including Treasury yields, Nasdaq futures, and USD index...")
-        merged_data = fetch_additional_market_data()
         merged_data = market_data()
         
         if merged_data is None:
@@ -39,8 +39,7 @@ def main():
         print(f"Mean Squared Error: {metrics['mse']}")
         print(f"R-squared Score: {metrics['r2']}")
 
-        # Create output directory if it doesn't exist
-        output_dir = "Machine_Learning_Models/output"
+        output_dir = "model_outputs"
         os.makedirs(output_dir, exist_ok=True)
         
         timestamp = datetime.now().strftime("%Y%m%d")
@@ -81,9 +80,10 @@ def main():
         print(f"Predicted Close: {next_day_prediction:.2f}")
         print(f"Predicted Change: {predicted_change:.2f}%")
 
-        current_nasdaq_level = 15900
+        current_nasdaq_level = get_current_nasdaq_level()
         print(f"\nSanity Check:")
-        print(f"Current Nasdaq Level (Apr 2025): ~{current_nasdaq_level}")
+        current_date = datetime.now().strftime("%b %Y")
+        print(f"Current Nasdaq Level ({current_date}): ~{current_nasdaq_level:.2f}")
         percent_diff = ((next_day_prediction - current_nasdaq_level) / current_nasdaq_level) * 100
         print(f"Prediction differs from current by: {percent_diff:.2f}%")
         if abs(percent_diff) > 10:

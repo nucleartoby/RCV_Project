@@ -17,8 +17,8 @@ from src.visualisations.graphs import (
 
 def main():
     try:
-        print("Getting market data including Treasury yields, Nasdaq futures, and USD index...")
-        merged_data = market_data()
+        print("Fetching market data including Treasury yields, Nasdaq futures, and USD index...")
+        merged_data = fetch_additional_market_data()
         
         if merged_data is None:
             print("Failed to get market data. Exiting.")
@@ -55,7 +55,7 @@ def main():
         print(f"Feature scaler saved as {feature_scaler_filename}")
         print(f"Target scaler saved as {target_scaler_filename}")
 
-        print("\nTop 15 Most Important Features:")
+        print("\nMost Important Features:")
         print(metrics['feature_importance'].head(15))
 
         last_features = X.iloc[-1].values.reshape(1, -1)

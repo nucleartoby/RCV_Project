@@ -6,7 +6,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import mean_squared_error, r2_score
 from tensorflow.keras.callbacks import EarlyStopping
 
-from .ann import build_ann_model
+from src.models.ann import build_ann_model
 
 def train_model(X, y, test_size=0.2, random_state=42):
 

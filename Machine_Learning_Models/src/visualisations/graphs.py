@@ -5,7 +5,7 @@ import numpy as np
 def visualise_feature_importance(feature_importance):
     plt.figure(figsize=(14, 8))
     feature_importance.head(15).plot(x='feature', y='importance', kind='bar')
-    plt.title('Top 15 Feature Importances in Neural Network')
+    plt.title('Top Features')
     plt.xlabel('Features')
     plt.ylabel('Importance')
     plt.tight_layout()
@@ -13,7 +13,6 @@ def visualise_feature_importance(feature_importance):
     plt.close()
 
 def visualise_training_history(history):
-    """Visualize the training history of the neural network"""
     plt.figure(figsize=(16, 8))
     plt.subplot(1, 2, 1)
     plt.plot(history['loss'], label='Training Loss')
@@ -36,13 +35,12 @@ def visualise_training_history(history):
     plt.close()
 
 def visualise_cross_asset_relationships(df):
-    """Visualize relationships between different asset classes"""
     try:
         required_cols = ['Close', 'TNX_Close', 'USD_Close', 'NQF_Close']
         missing_cols = [col for col in required_cols if col not in df.columns]
         
         if missing_cols:
-            print(f"Warning: Missing columns for visualization: {missing_cols}")
+            print(f"Warning, missing columns: {missing_cols}")
             return
 
         plt.figure(figsize=(18, 12))

@@ -1,6 +1,6 @@
 from qwen3_client import Qwen3Client
 
-API_KEY = "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"
+API_KEY = "put api key here"
 
 client = Qwen3Client(api_key=API_KEY)
 

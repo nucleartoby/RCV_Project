@@ -1,0 +1,326 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PvCoHIEWN7RR86uMQHaqMLe1TX9AxURelmsvNKbwFGRRAOLQkQ8ecvLv4VKoMrq5
+ 2dYqlLxUEICrPZCOoeuJ2w==
+
+<SEC-DOCUMENT>0000320193-96-000006.txt : 19960416
+<SEC-HEADER>0000320193-96-000006.hdr.sgml : 19960416
+ACCESSION NUMBER:		0000320193-96-000006
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19960410
+ITEM INFORMATION:		Changes in control of registrant
+FILED AS OF DATE:		19960412
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLE COMPUTER INC
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10030
+		FILM NUMBER:		96546487
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20525 MARIANI AVE
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4089961010
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<TEXT>
+
+
+                              
+___________________________________________________________________________
+
+              SECURITIES AND EXCHANGE COMMISSION
+                  Washington, D. C.  20549
+                              
+                              
+                          FORM 8-K
+                              
+                              
+                        CURRENT REPORT
+                              
+                              
+ Pursuant to Section 13 or 15(d) of  the Securities Exchange Act of 1934
+                              
+                              
+               Date of Report:    April 10, 1996
+               Date of earliest
+                event reported:   March 27, 1996
+                              
+                              
+                    Apple Computer, Inc.
+   (Exact name of registrant as specified in its charter)
+                              
+                              
+         California              0-10030      94-2404110
+(State or other jurisdiction  (Commission File Number)   (I.R.S.
+    of incorporation or                        Employer
+       organization)                         Identificatio
+                                                n No.)
+                              
+                              
+                              
+        1 Infinite Loop, Cupertino, California 95014
+          (Address of principal executive offices)
+                              
+                              
+ Registrant's telephone number, including area code:   (408) 996-1010
+                              
+                              
+                       Not Applicable
+(Former name or former address, if changed since last report.)
+                   Exhibit Index on Page 3
+                              
+                              1
+<PAGE>
+
+          Item 5.   Other Events.
+
+      (i)   Reference is made to the press release issued to the public  by
+the  registrant on March 27, 1996, the text of which is attached hereto  as
+an  exhibit, for a description of the events reported pursuant to this Form
+8-K.
+
+      (ii)   Reference is made to the short-term borrowings of Apple Japan,
+Inc.  and Apple Computer B.V., subsidiaries of the registrant, referred  to
+in the registrant's Form 10-Q for the period ending December 31, 1995.  All
+but  a  non-material amount of the referenced Apple Computer B.V. loan  and
+Apple  Japan, Inc. loans, have been extended or replaced with funding  from
+other financial institutions, for periods with maturity dates ranging  from
+June  28,  1996  to September 29, 1996.  The remainder of these  short-term
+borrowings were repaid at maturity.
+
+Item 7.   Financial Statements, Pro Forma Financial Information and
+          Exhibits.
+
+          (c)  Exhibits
+
+               99.1 Text of press release dated March 27, 1996.
+
+                          SIGNATURE
+
+Pursuant  to the requirements of the Securities Exchange Act of  1934,  the
+registrant  has duly caused this report to be signed on its behalf  by  the
+undersigned, thereunto duly authorized.
+
+
+                                   APPLE COMPUTER, INC.
+                                   
+                                   
+                                   
+                                   By:
+                                     Name:   Fred D. Anderson
+                                     Title:  Executive Vice
+                                   	     President and
+                                             Chief Financial
+                                             Officer
+                                   
+
+
+Date:  April 10, 1996
+                              2
+<PAGE>
+
+                        EXHIBIT INDEX
+                              
+Exhibit   Document                                     Page
+99.1.     Text of Press Release dated March 27, 1996   4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              3
+<PAGE>
+
+Apple Chairman Gil Amelio Issues Statement On Second Quarter Outlook
+
+    CUPERTINO, California--March 27, 1996--Following his first seven
+weeks as chairman and chief executive officer of Apple Computer,
+Inc., Dr. Gilbert F. Amelio issued a statement today discussing
+his assessments of the Company's business situation and financial
+outlook for the second fiscal quarter which ends March 29, 1996.
+    "After my first couple of months on the job, I feel that it's time
+for me to provide an update on Apple," said Dr. Amelio. "As has
+been widely noted, the market for personal computers is unsettled.
+    "We find ourselves facing three major challenges. First, we
+anticipate that revenues and unit shipments will be substantially
+below the levels of last year's second quarter. Secondly, the
+slowdown in sales relative to our initial forecasts will
+contribute to sizable charges related to inventory valuation
+adjustments. Finally, as we've mentioned before, we will incur
+significant restructuring charges in order to realign the company
+for the future.
+    "These factors will contribute to an anticipated second fiscal
+quarter net after-tax loss of around $700 million, more than half
+of which will be related to inventory write-downs and about a
+quarter of which will be related to restructuring charges. The
+inventory write-downs and restructuring charges are critical first
+steps in orchestrating the comeback of the Company.
+    "I'm confident at this point that I know what the problems are and
+that they are fixable. The strategic and operating plans we are
+currently developing will enable us to build upon Apple's
+fundamental strengths and competitive position, reinforce our
+customer appeal, and realize the company's long-term earnings
+potential. We plan to aggressively address these issues and take
+the necessary corrective actions. We will begin to articulate our
+plans by early May.
+    "I'd also like to add that I'm greatly encouraged by the
+expressions of support I've received over the past two months from
+thousands of Apple customers, business partners, developers, and
+employees around the world who share our commitment to successfully meeting
+our current challenges and achieving a great future."
+    The statements herein concerning second quarter results are
+preliminary   and   are  based  on  partial  information   and   management
+assumptions.  Apple will be prepared to discuss details of its actual financial
+results when it issues its second quarter earnings during the third week of
+April.
+
+                              4
+<PAGE>
+
+
+    Except for the historical information contained herein, the
+matters discussed in this news release are forward-looking
+statements that involve risks and uncertainties. Potential risks
+and uncertainties include without limitation the effect of adverse
+publicity (including this announcement) on demand for the
+company's products; the effect of continued losses on the
+Company's liquidity; continued competitive pressures in the
+marketplace; the effect on inventory valuations of decreased
+demand and lowered prices; and the effect of any business
+restructuring actions. Further information on potential factors
+that could affect the company's financial results can be found in
+the company's Form 10-Q for its 1996 first quarter, filed with the
+SEC.
+
+Apple Computer, Inc., a recognized innovator in the information
+industry and leader in multimedia technologies, creates powerful
+solutions based on easy-to-use personal computers, servers,
+peripherals, software, online services, and personal digital
+assistants. Headquartered in Cupertino, California, Apple (NASDAQ: AAPL)
+develops,   manufactures,   licenses  and  markets   solutions,   products,
+technologies and  services for business, education, consumer, entertainment,  
+scientific and engineering and government customers in over 140 countries.
+
+Press Contacts:
+Nancy Paxton                             Lynne Keast
+Apple Computer, Inc.                     Apple Computer, Inc.
+(408) 974-5420                         (408) 974-5431
+paxton1@applelink.apple.com           keast.l@applelink.apple.com
+
+Gabi Schindler
+Apple Computer, Inc.
+(408) 974-6941
+schindler.g@applelink.apple.com
+
+Investor Relations Contacts:
+Debbie VanOlst-Robinson                    Bill Slakey
+Apple Computer, Inc.                          Apple Computer, Inc.
+(408) 862-5590                              (408) 974-3488
+devo@applelink.apple.com                      slakey1@applelink.apple.com
+
+                              5
+ <PAGE>
+
+
+NOTE TO EDITORS: If you are interested in receiving Apple press
+releases by fax call 1-800-AAPL-FAX (1-800-227-5329) and enter
+your PIN number. If you do not have a PIN number, please call the
+Public Relations Hotline at (408) 974-2042. If you would like to
+receive Apple press releases by email, please send an email
+message to pressrel@thing2.info.apple.com. Include the text
+"subscribe [your full name]" in the body of the message.
+
+Apple and the Apple logo are registered trademarks of Apple Computer,Inc.,
+in the USA and other countries.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              6
+ <PAGE>
+
+</TEXT>
+
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

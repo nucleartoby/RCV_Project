@@ -1,0 +1,464 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ D4VXVkIWxtq1ksnpNKvOJ9lc0X8kBIVWecyXvaygqIV4Xpb/BgfwOL3qmJ5e1aAU
+ SRZjhrQnUklMrsHgo46Bww==
+
+<SEC-DOCUMENT>0000320193-97-000007.txt : 19970411
+<SEC-HEADER>0000320193-97-000007.hdr.sgml : 19970411
+ACCESSION NUMBER:		0000320193-97-000007
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19970410
+ITEM INFORMATION:		Financial statements and exhibits
+FILED AS OF DATE:		19970410
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLE COMPUTER INC
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10030
+		FILM NUMBER:		97577834
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4089961010
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<TEXT>
+
+
+As filed with the Securities and Exchange Commission on April 10, 1997
+
+
+
+		  SECURITIES AND EXCHANGE COMMISSION
+			 Washington, DC  20549
+
+
+				FORM 8-K
+
+			Current Report Pursuant
+		     to Section 13 or 15(d) of the
+		    Securities Exchange Act of 1934
+
+
+
+		    Date of Report:  March 14, 1997
+
+
+			 APPLE COMPUTER, INC.
+      (Exact Name of Registrant as Specified in its Charter)
+
+
+
+			      CALIFORNIA
+	  (State or Other Jurisdiction of Incorporation)
+
+
+	   0-10030			94-2404110
+(Commission File Number)		(I.R.S. Employer 
+                                         Identification Number)
+
+
+
+
+1 INFINITE LOOP, CUPERTINO, CALIFORNIA      95014
+(Address of Principal Executive Offices)   (Zip Code)                        
+                            
+
+
+
+			   (408) 996-1010
+      (Registrant's Telephone Number, Including Area Code)
+
+
+
+	    The Index to Exhibits appears on page 4.
+
+<PAGE>                               1
+
+		INFORMATION INCLUDED IN THIS REPORT
+
+
+ITEMS 1 THROUGH 4, 6 AND 8 NOT APPLICABLE.
+
+ITEM 5.	OTHER EVENTS.
+
+	(i)	Reference is made to the press release issued to the 
+public by the Registrant on March 14, 1997, the text of which is attached
+hereto as Exhibit 99.1, for a description of the events reported pursuant 
+to this Form 8-K.
+
+	(ii)	Reference is made to the press release issued to the 
+public by the Registrant on March 14, 1997, the text of which is attached 
+hereto as Exhibit 99.2, for a  description of the events reported pursuant
+to this Form 8-K.
+
+ITEM 7.	FINANCIAL STATEMENTS AND EXHIBITS.
+
+	(a)	Financial Statements of Businesses Acquired.
+
+		NOT APPLICABLE.
+	
+	(b)	Pro Forma Financial Information.
+
+		NOT APPLICABLE.
+
+	(c)	Exhibits.
+
+		99.1	Text of press release dated March 14, 1997.
+		99.2	Text of press release dated March 14, 1997.
+
+
+
+<PAGE>                               2
+SIGNATURES
+
+
+Pursuant to the requirements of the Securities Exchange Act of 
+1934, the registrant has duly caused this report to be signed on 
+its behalf by the undersigned hereunto duly authorized.
+
+
+					    APPLE COMPUTER, INC.
+
+
+DATE:  April 10, 1997			By: /s/Fred D. Anderson    	
+				      Name: Fred D. Anderson
+				     Title: Executive Vice President 
+                                            and Chief Financial Officer
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>                               3
+
+INDEX TO EXHIBITS
+
+
+
+Exhibit	Description										Page  
+
+
+
+99.1		Text of press release dated March 14, 1997	  
+99.2		Text of press release dated March 14, 1997
+
+
+
+
+
+
+
+
+
+
+<PAGE>                               4
+
+</TEXT>
+
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<TEXT>
+
+		
+				[Exhibit 99.1]    
+For Immediate Release
+
+Apple Computer Details Restructuring Plans
+
+Company Paves Return Road to Leadership With 
+Focus on Its Distinctive Product Strengths
+
+CUPERTINO, Calif. March 14, 1997 Apple 
+Computer, Inc. Chairman and CEO Gilbert F. Amelio 
+today detailed a restructuring plan that sharpens 
+the Company's focus on strengths that have been at 
+the heart of its success exceptionally easy-to-use 
+personal and mobile computers with unique 
+multimedia and Internet capabilities.
+	
+The top priorities guiding our reorganization are 
+the rapid delivery of distinctive products for our 
+loyal business, education, and home customers, and 
+the development of a robust next-generation 
+operating system to carry them into the future,  
+Amelio said.  We can best achieve these goals by 
+streamlining our organization, simplifying our 
+product lines to deliver fewer but much stronger 
+models, and stopping investments in activities that 
+are not central to these core businesses. 
+	
+Apple began the reorganization last month with a 
+new streamlined organization that focuses research 
+and development efforts on products that are 
+central to its key businesses, unifies Apple's 
+multiple marketing groups, aligns the Company's 
+sales teams to its market strengths, and fully 
+integrates Apple's and NeXT's resources. This 
+simpler organization has two charters: first, to bring 
+distinctive products to market quickly and to 
+market them aggressively to customers in Apple's 
+key markets, and second, to deliver the Company's 
+next-generation operating system, code-named 
+Rhapsody, while continuing to enhance the Mac(R) 
+OS.
+
+<PAGE>                  5	
+The Company simultaneously accelerated moves to 
+simplify its product line and deliver fewer, but 
+more competitive models, such as the recently 
+announced high-end Power Macintosh(R) and 
+Power Book(R) 3400 computers and the new entry-
+level products, scheduled to be announced in April. 
+	
+The Company has also re-evaluated the funding of 
+certain activities and technologies that are not 
+central to Apple's core business strategy, or that 
+can be better achieved through industry standards, 
+or that represent a strong business opportunity for 
+developers. 
+		
+The resulting restructuring includes the lay-off of 
+approximately 2,700 Apple employees with 
+notifications scheduled to begin later this month, 
+and an estimated $155 million increase to the 
+Company's restructuring reserves to be charged to 
+the Company's second fiscal quarter earnings. The 
+majority of the total restructuring cost is 
+attributable to the workforce reduction, and the 
+remainder to the cancellation of contracts and 
+leases and to asset writeoffs.
+
+While re-evaluating the funding of certain activities 
+and technologies, the Company reiterated its 
+commitment to deliver Rhapsody in 1998, and to 
+continue to enhance the Mac OS. Technologies that 
+will be maintained as part of the Mac OS but will 
+receive reduced investments for future upgrades 
+include Open Doc(R) component software technology, 
+Cyberdog(R), Open Transport(R), Game Sprockets, and 
+Mac OS Development Tools. Some other technologies 
+that are not part of the Mac OS, such as the speech 
+technologies, will be maintained without further 
+major upgrades planned.
+
+Other activities and technologies that Apple will not 
+continue to fund include the Video Conferencing 
+Solution and AIX Server Software. Apple is also 
+exploring a wide range of options for still other 
+technologies and activities, including discussions 
+with prospective licensees and business partners.
+<PAGE>                  6
+	
+As part of its renewed focus, the Company also said 
+that it is altering the delivery schedule for Mac OS 
+releases beyond Mac OS 8, scheduled for 
+introduction in July 1997. Instead of two full retail 
+releases of Mac OS in 1998, as previously 
+announced, Apple plans to ship one complete 
+release in mid-1998 (Allegro), and a full release 
+yearly from then on. Between the full releases, the 
+latest system improvements will be made readily 
+available through updates; Apple plans to ship two 
+system updates between Mac OS 8 and Allegro. The 
+change makes more resources available for work on 
+the next-generation operating system and directly 
+answers customers' cost and logistics concerns for 
+frequent major releases.
+
+ With this restructuring, and the painful decisions 
+that have come with it, we are addressing the 
+problem of resource fragmentation and the 
+resulting weakness,  Amelio continued.  We will 
+limit our focus and put significant muscle behind 
+targeted efforts in order to successfully develop 
+and market winning solutions that have made 
+Macintosh customers some of the most passionate 
+and loyal in the industry. We fully intend to keep 
+that spirit alive. 
+	
+Apple Computer, Inc., a recognized innovator in the 
+information industry and leader in multimedia 
+technologies, creates powerful solutions based on 
+easy-to-use personal computers, servers, 
+peripherals, software, information appliances, and 
+Internet technologies. Headquartered in Cupertino, 
+Calif., Apple develops, manufactures, licenses, and 
+markets solutions, products, technologies, and 
+services in the areas of business, education, home 
+use, entertainment, scientific, engineering, and 
+government for customers in more than 140 
+countries.
+
+Press Contacts:
+Katie Cotton
+Apple Computer, Inc.
+(408) 974-7269
+email: katiec@apple.com
+<PAGE>                 7	
+
+
+Russell Brady
+Apple Computer, Inc.
+(408) 974-6877
+email: brady2@apple.com
+
+Investors Relations
+Nancy Paxton
+Apple Computer, Inc.
+(408) 974-5420
+email: paxton1@apple.com
+
+NOTE TO EDITORS: To access Apple press releases, 
+background material, and contact information on 
+the web, visit The Source at: 
+http://www.apple.com/source/. If you are 
+interested in receiving Apple press releases by fax, 
+call 1-800-AAPL-FAX (1-800-227-5329) and enter 
+your PIN number. If you do not have a PIN 
+number, contact Apple's Media Helpline at 
+(408)974-2042 to request one. If you would like to 
+receive Apple press releases by email, please send 
+an email message to pressrel@thing2.info.apple.com. 
+In the subject field, type the text  subscribe [your 
+full name]. 
+
+
+
+
+
+
+
+<PAGE>                 8	
+
+</TEXT>
+
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<TEXT>
+
+				[Exhibit 99.2]
+
+For Immediate Release
+
+Apple Discusses Q2 Revenue Outlook
+
+CUPERTINO, Calif. March 14, 1997 In a conference 
+call with financial analysts today, Apple Computer, 
+Inc. executive vice president and chief financial 
+officer Fred Anderson indicated that the Company 
+expects revenues for its second fiscal quarter 
+ending March 28, 1997 to be between $1.6 and $1.7 
+billion dollars.
+
+ As we've previously discussed,  said Anderson  we 
+exited the first quarter with surplus channel 
+inventory. We've been extremely pleased with the 
+results of channel sell through of that inventory 
+this quarter, particularly in the Americas. However, 
+this surplus channel sell-off has been off-set by 
+reduced sell-in during the quarter to restore a more 
+normalized channel inventory level. This 
+phenomenon coupled with the traditional seasonal 
+softness of demand in our second quarter suggests 
+that we will generate lower revenues than those we 
+achieved in our first fiscal quarter,  Anderson 
+stated.
+
+Apple expects to release the results of its second 
+fiscal quarter in mid-April. 
+
+Apple Computer, Inc., a recognized innovator in the 
+information industry and leader in multimedia 
+technologies, creates powerful solutions based on 
+easy-to-use personal computers, servers, 
+peripherals, software, handheld computers and 
+Internet content. Headquartered in Cupertino, 
+California, Apple develops, manufactures, licenses 
+and markets solutions, products, technologies and 
+services for business, education, consumer, 
+entertainment, scientific and engineering and 
+government customers in more than 140 countries.
+
+<PAGE>                  9
+	
+Press Contacts:
+Investor Relations
+Nancy Paxton
+Apple Computer, Inc.
+(408) 974-5420
+email: paxton1@apple.com
+
+Katie Cotton
+Apple Computer, Inc.
+(408) 974-7269
+email: katiec@apple.com
+
+
+
+
+NOTE TO EDITORS: To access Apple press releases, 
+background material, and contact information on 
+the web, visit The Source at: 
+http://www.apple.com/source/. If you are 
+interested in receiving Apple press releases by fax, 
+call 1-800-AAPL-FAX (1-800-227-5329) and enter 
+your PIN number. If you do not have a PIN 
+number, contact Apple's Media Helpline at 
+(408)974-2042 to request one. If you would like to 
+receive Apple press releases by email, please send 
+an email message to pressrel@thing2.info.apple.com. 
+In the subject field, type the text  subscribe [your 
+full name]. 
+
+
+
+Apple, the Apple logo, Macintosh, Performa, Power 
+Macintosh, and PowerBook are registered 
+trademarks of Apple Computer, Inc. Additional 
+company and product names may be trademarks or 
+registered trademarks of the individual companies 
+and are respectfully acknowledged.
+
+ 
+
+<PAGE>                  10	 
+
+</TEXT>
+
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

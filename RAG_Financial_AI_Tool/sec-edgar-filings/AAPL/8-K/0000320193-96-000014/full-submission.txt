@@ -1,0 +1,365 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ E9AjO+jfCQ1RrHFgcsAylqDHavPyJ8mqi79m/IJxFLC6QtEtZ+d5rJ/RMihMNWQM
+ eOG/QN0IfY/Ld3ObYm591A==
+
+<SEC-DOCUMENT>0000320193-96-000014.txt : 19960618
+<SEC-HEADER>0000320193-96-000014.hdr.sgml : 19960618
+ACCESSION NUMBER:		0000320193-96-000014
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19960614
+ITEM INFORMATION:		Changes in control of registrant
+FILED AS OF DATE:		19960617
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLE COMPUTER INC
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10030
+		FILM NUMBER:		96581858
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4089961010
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<TEXT>
+
+
+___________________________________________________________________________
+ 		SECURITIES AND EXCHANGE COMMISSION  
+		    Washington, D. C.  20549  
+ 
+ 
+			    FORM 8-K
+ 
+ 
+ 			CURRENT REPORT  
+ 
+ 
+ Pursuant to Section 13 or 15(d) of  the Securities Exchange Act of 1934  
+ 
+ 
+		Date of Report:   June 14, 1996
+		Date of earliest 
+ 		event reported:   June 3, 1996
+
+
+		       Apple Computer, Inc.
+       (Exact name of registrant as specified in its charter)  
+
+
+	California	 		0-10030		  94-2404110
+(State or other jurisdiction of	  (Commission File 	(I.R.S. Employer 
+ incorporation or organization)		Number)		Identification No.)
+
+
+		1 Infinite Loop, Cupertino, California 95014
+		  (Address of principal executive offices) 
+
+
+ Registrant's telephone number, including area code:  (408) 996-1010
+
+
+			    Not Applicable
+     (Former name or former address, if changed since last report.)    
+
+
+
+			Exhibit Index on Page 4
+
+				        1   
+<PAGE>
+
+		Information Included in this Report
+
+Items 1 through 4, 6 and 8 Not Applicable.
+
+Item 5.	Other Events.
+
+	(i)   Reference is made to the press release issued to the public by 
+	      the registrant on June 3, 1996, the text of which is attached 
+	      hereto as an exhibit, for a description of the events reported 
+              pursuant to this Form 8-K.
+
+	(ii)  Reference is made to the press release issued to the public by
+	      the registrant on June 4, 1996, the text of which is attached 
+	      hereto as an exhibit, for a description of the events reported 
+	      pursuant to this Form 8-K. 
+
+	(iii) Reference is made to the press release issued to the public by
+              the registrant on June 10, 1996, the text of which is attached
+	      hereto as an exhibit, for a description of the events reported
+	      pursuant to this Form 8-K. 
+
+Item 7.	Financial Statements, Pro Forma Financial Information and Exhibits.
+
+		(c)	Exhibits
+
+			99.1	Text of press release dated June 3, 1996.
+
+			99.2	Text of press release dated June 4, 1996.
+
+			99.3	Text of press release dated June 10, 1996.
+
+
+					2
+<PAGE>
+
+	
+
+				SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the 
+registrant has duly caused this report to be signed on its behalf by the 
+undersigned, thereunto duly authorized.
+
+
+					APPLE COMPUTER, INC.
+
+
+
+					By:/s/ Fred D. Anderson						
+					Fred D. Anderson,
+					Executive Vice President and Chief 
+					Financial Officer
+
+Date:  June 14, 1996
+
+
+					3
+<PAGE>
+
+
+				INDEX TO EXHIBITS 
+
+Exhibit	Document				        Page
+99.1	Text of Press Release dated June 3, 1996	5
+99.2	Text of Press Release dated June 4, 1996	6
+99.3	Text of Press Release dated June 10, 1996	7
+
+					4
+<PAGE>
+
+				  Exhibit 99.1
+
+For Immediate Release
+
+
+Apple Computer, Inc. Announces Intention to Place Convertible Subordinated 
+Notes Due 2001
+
+CUPERTINO, California--June 3, 1996--Apple Computer, Inc. (NASDAQ: AAPL) 
+
+today announced that it intends to issue, through an underwritten offering, 
+
+Convertible Subordinated Notes due 2001 (the "Notes") in the United States 
+
+and internationally.  In the United States, the Notes will be sold only to 
+
+qualified institutional buyers pursuant to Rule 144A and to a limited number
+
+of institutional accredited investors.  The final terms and size of the 
+
+offering are expected to be announced the morning of Tuesday, June 4th.  The
+
+transaction is expected to close in early June.
+
+
+The Notes will be redeemable at the option of the Company after three years 
+
+and will be convertible into Common Stock of the Company.
+
+
+The Company intends to use the proceeds from the sale of the Notes for working
+
+capital and other general corporate purposes.
+
+
+The Notes and the Common Stock issuable upon the conversion thereof have not 
+
+been registered under the Securities Act of 1933 or state securities laws and
+
+may not be sold in the United States absent registration or qualification or 
+
+an applicable exemption from registration or qualifications requirements.
+
+Contact:
+Nancy Paxton
+Apple Computer, Inc.
+(408) 974-5420
+email:paxtonl@applelink.apple.com
+
+					5
+<PAGE>
+
+
+				Exhibit 99.2
+
+
+June 4, 1996
+
+Apple Computer, Inc. Announces $575,000,000 Convertible Subordinated Notes 
+Due 2001 Placement
+
+CUPERTINO, California--June 4, 1996--Apple Computer, Inc. (NASDAQ: AAPL) 
+
+today announced that it is issuing, through an underwritten offering, $575 
+
+million aggregate principal amount of Convertible Subordinated Notes due 2001
+
+(the "Notes") in the United States and internationally.  In the United States,
+
+the Notes will be sold only to qualified institutional buyers pursuant to Rule
+
+144A and to a limited number of institutional accredited investors.  The 
+
+transaction is expected to close on June 7, 1996.
+
+
+The Notes will be redeemable at the option of the company after three years,
+
+will have a 6.00% coupon and will be convertible into Common Stock of the 
+
+company at a conversion price of $29.205 per share.  The company also granted
+
+the underwriters an option for 30 days to purchase up to an additional $86.25
+
+million of Notes to cover over-allotments.
+
+
+The Company intends to use the proceeds from the sales of the Notes for working
+
+capital and other general corporate purposes.
+
+
+The Notes and the Common Stock issuable upon the conversion thereof have not 
+
+been registered under the Securities Act of 1933 or state securities laws and
+
+may not be sold in the United States absent registration or qualification or
+
+an applicable exemption from registration or qualification requirements.
+
+
+Press Information Contact:
+
+Nancy Paxton
+Apple Computer, Inc.
+(408) 974-5420
+email: paxtonl@applelink.apple.com
+
+Apple's home page on the World Wide Web: http//www.apple.com/
+
+					6
+<PAGE>
+
+
+				Exhibit 99.3
+
+June 10, 1996
+
+Apple Completes $661.25 Million Convertible Debt Placement
+
+
+CUPERTINO, California--June 10, 1996--Apple Computer, Inc. (NASDAQ: AAPL) 
+
+announced today the successful completion of a $661.25 million private 
+
+placement of convertible subordinated debentures due June 1, 2001.
+
+
+"Completion of this transaction brings Apple's cash balance to approximately
+
+$1.3 billion and significantly reinforces the Company's capital structure,
+
+" said Apple Executive Vice President and Chief Financial Officer Fred 
+
+Anderson.  "Moreover, we expect it will provide us with sufficient liquidity
+
+to execute against our newly-formed strategic plans which are designed to 
+
+return the company to profitability."
+
+
+On May 13, Apple Chairman and Chief Executive Officer Dr. Gilbert F. Amelio 
+
+described the framework of Apple's new strategic direction.  Among the key 
+
+elements of the strategy are capitalization on the convergence of computing 
+
+and communications, a focus on Internet products and solutions, renewed 
+
+emphasis on providing superior value to customers and a commitment to 
+
+disciplined business practices.
+
+
+On May 31, the Company announced a realignment of its organization to support
+
+its new strategy.  The new organization structure promotes managerial 
+
+accountability, streamlined decision-making and customer orientation.
+
+
+
+The notes and the common stock issuable upon the conversion thereof have not
+
+been registered under the Securities Act of 1933 or state securities laws and
+
+may not be sold in the United States absent registration or qualification or 
+
+an applicable exemption from registration or qualification requirements.
+
+
+Apple Computer, Inc., a recognized innovator in the information industry and 
+
+leader in multimedia technologies, creates powerful solutions based on 
+
+easy-to-use personal computers, servers, peripherals, software, personal 
+
+digital assistants and Internet content.  Headquartered in Cupertino, 
+
+California, Apple develops, manufactures, licenses and markets solutions, 
+
+products, technologies and services for business, education, consumer, 
+
+entertainment, scientific and engineering and government customers in more 
+
+than 140 countries.
+
+
+Press and Investor Relations Contact:
+Nancy Paxton
+Apple Computer, Inc.
+(408) 974-5420
+email: paxtonl@applelink.apple.com
+
+					7
+
+</TEXT>
+
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,585 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ STyGuJxkrRmxF+2tmBK8/M2vghadUg6dvSoy0Zg1nx1O5WczQs64zG5kKiqdHySA
+ F1h1+oM6VQA4rgH6CuQbaQ==
+
+<SEC-DOCUMENT>0001181431-05-033177.txt : 20050611
+<SEC-HEADER>0001181431-05-033177.hdr.sgml : 20050611
+<ACCEPTANCE-DATETIME>20050606132504
+ACCESSION NUMBER:		0001181431-05-033177
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20050606
+ITEM INFORMATION:		Other Events
+FILED AS OF DATE:		20050606
+DATE AS OF CHANGE:		20050606
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLE COMPUTER INC
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10030
+		FILM NUMBER:		05879999
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4089961010
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>rrd81625.htm
+<TEXT>
+
+
+<html><head>
+<title>Prepared By R.R. Donnelley Financial -- Form 8-K</title>
+</head>
+<body Bgcolor="white">
+
+<hr Size="4" Noshade Color="#000000" Align="left">
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="4" Color="#000000">
+<b>UNITED STATES </b></font></div>
+
+<div Align="center"><font Face="times New Roman" Size="4" Color="#000000">
+<b>SECURITIES AND EXCHANGE COMMISSION </b></font></div>
+
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>Washington D.C., 20549 </b></font></div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="5" Color="#000000">
+<b>Form 8-K </b></font></div> <div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="4" Color="#000000">
+<b>Current Report </b></font></div>
+
+<div Align="center"><font Face="times New Roman" Size="4" Color="#000000">
+<b>Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 </b></font></div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+<b>Date Of Report (Date Of Earliest Event Reported):&nbsp;&nbsp;06/06/2005 </b></font></div>
+
+
+
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="5" Color="#000000">
+<b>APPLE COMPUTER INC </b></font></div>
+
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>(Exact Name of Registrant as Specified in its Charter)</b></font></div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+<b>Commission File Number:&nbsp;&nbsp;000-10030</b></font></div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><table Cellspacing="0" Cellpadding="0" Width="100%" Border="0">
+<tr>
+<td Valign="bottom" Width="59%" Align="center">
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000"><b>CA</b></font>
+</div>
+</td>
+<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;&nbsp;</font>
+</td>
+<td Valign="bottom" Width="59%" Align="center">
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000"><b>94-2404110</b></font>
+</div>
+</td>
+</tr>
+
+<tr>
+<td Valign="top" Align="center" Width="59%">
+<div Style="margin-left:2%; Text-indent:-2%" Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>(State or Other Jurisdiction of</b></font>
+</div>
+</td>
+<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;&nbsp;</font>
+</td>
+<td Valign="bottom" Align="center" Width="59%">
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000"><b>(I.R.S. Employer</b></font>
+</div>
+</td>
+</tr>
+
+<tr>
+<td Valign="top" Align="center" Width="59%">
+<div Style="margin-left:2%; Text-indent:-2%" Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>Incorporation or Organization)</b></font>
+</div>
+</td>
+<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;&nbsp;</font>
+</td>
+<td Valign="bottom" Align="center" Width="59%">
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>Identification No.)</b></font>
+</div>
+</td>
+</tr>
+
+</table></div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+<b>1 Infinite Loop, Cupertino, CA 95014</b></font></div>
+
+
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>(Address of Principal Executive Offices, Including Zip Code)</b></font>
+</div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+<b>(408) 996-1010 </b></font>
+</div>
+
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>(Registrant&#146;s Telephone Number, Including Area Code) </b></font>
+</div>
+
+
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+<b> </b></font>
+</div>
+
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>(Former name or former address, if changed since last report) </b></font>
+</div>
+
+
+<div><font Size="1">&nbsp;</font>
+</div>
+
+
+
+
+<div Align="left"><font Face="times New Roman" Size="2" Color="#000000">
+<b>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:<BR><BR>
+</b></font>
+
+
+</div>
+
+
+
+<div Align="left"><font Face="times New Roman" Size="2" Color="#000000">
+<b>[&nbsp;&nbsp;]&nbsp;&nbsp;
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)<BR><BR>
+
+[&nbsp;&nbsp;]&nbsp;&nbsp;
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act(17CFR240.14a-12)<BR><BR>
+
+
+[&nbsp;&nbsp;]&nbsp;&nbsp;
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act(17CFR240.14d-2(b))<BR><BR>
+
+
+[&nbsp;&nbsp;]&nbsp;&nbsp;
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act(17CFR240.13e-4(c))
+</b>
+
+</font>
+</div>
+
+
+
+
+
+<div><font Size="1">&nbsp;</font>
+</div>
+
+<hr Size="4" Noshade Color="#000000" Align="left">
+
+
+<p Style='page-break-before:always'>
+<p Align="center"><font Size="2">
+Items to be Included in this Report</b>
+</font>
+
+
+
+
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div align="left"><font Face="times New Roman" Size="2" Color="#000000">
+<b>Item 8.01.&nbsp;&nbsp;&nbsp;&nbsp;Other Events</b></font>
+</div>
+
+<div><font Size="1">&nbsp;</font>
+</div>
+
+<div  align="left" Style="text-indent:4%"><font Face="times New Roman" Size="2" Color="#000000">
+On June 6, 2005, Apple Computer, Inc. (Apple) issued a press release regarding Apple's plans to deliver Macintosh products using Intel microprocessors. A copy of Apple's press release is attached hereto as Exhibit 99.<p>The press release contains forward-looking statements about the Company's plans to deliver Macintosh products using Intel microprocessors by this time next year, the Company's current plans to transition all Macs to Intel microprocessors by the end of 2007, and the expectation that Microsoft and Adobe will create future versions of Microsoft Office and Creative Suite, respectively, for the Mac that support both Power PC and Intel processors.  These statements involve risks and uncertainties and actual results may differ.  Potential risks and uncertainties include the Company's ability to make timely delivery of the new products with Intel microprocessors and related hardware and software technological changes and innovations to support Intel microprocessors; the development and availability o
+f components and services essential to enable the Company to deliver such products in a timely manner; the effect that the Company's dependency on manufacturing and logistics services provided by third parties may have on the timing, quality, quantity or cost of products manufactured or services rendered; the Company's ability to evolve its operating system and attract sufficient Macintosh developers; the Company's dependency on third-party software developers such as Microsoft and Adobe to timely develop future applications that run on Macs that support Intel microprocessors and Power PC microprocessors; the effect competitive and economic factors and the Company's reaction to them may have on consumer and business buying decisions with respect to the Company's products; and the potential negative impact the transition of all Macs to Intel microprocessors by the end of 2007, or the announcement of such transition, might have on sales of current or future Mac products with Power PC processors.  More informat
+ion on potential factors that could affect the Company's financial results is included from time to time in the Company's public reports filed with the SEC, including the Company's Form 10-K for the fiscal year ended September 25, 2004, the Company's Form 10-Q for the quarter ended December 25, 2004 and the Company's Form 10-Q for the quarter ended March 26, 2005.  The Company assumes no obligation to update any forward-looking statements or information, which speak only as of their respective dates.&nbsp;&nbsp;&nbsp;<p></font>
+</div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+
+
+<hr  Size="3" Color="#cceeff" Width="100%" Align="center">
+<p Align="center"><font Size="2">&nbsp;</font>
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>Signature(s) </b></font>
+</div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div align="left" Style="text-indent:4%"><font Face="times New Roman" Size="2" Color="#000000">
+Pursuant to the Requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this Report to be signed on its behalf by the Undersigned hereunto
+duly authorized. </font>
+</div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div><table Cellspacing="0" Cellpadding="0" Width="100%" Border="0">
+
+
+
+
+<tr>
+	<td Valign="top" Colspan="3" Width="53%"> <div Style="margin-left:2%; Text-indent:-2%"><font Face="times New Roman" Size="2" Color="#000000"></font>
+	</div>
+	</td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font>
+	</td>
+	<td> <font Size="1">&nbsp;</font>
+	</td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font>
+	</td>	<td Valign="top" Align="center" Width="3%">
+	<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+	</font>
+	</div>
+	</td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td Valign="top" Width="53%">
+	<div Style="margin-left:2%; Text-indent:-2%"><font Face="times New Roman" Size="2" Color="#000000">
+	APPLE COMPUTER INC</font>
+	</div>	</td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+	<td Valign="top" Colspan="3" Width="53%"> <div Style="margin-left:2%; Text-indent:-2%"><font Face="times New Roman" Size="2" Color="#000000">
+	Date: June 06, 2005.</font>
+	</div>
+	</td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font>
+	</td>
+	<td> <font Size="1">&nbsp;</font>
+	</td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font>
+	</td>	<td Valign="top" Align="center" Width="3%">
+	<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+	By:</font>
+	</div>
+	</td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td Valign="top" Width="53%">
+	<div Style="margin-left:2%; Text-indent:-2%"><font Face="times New Roman" Size="2" Color="#000000">
+	/s/&nbsp;&nbsp;&nbsp;&nbsp;Peter Oppenheimer</font>
+	</div>
+	<hr Noshade Align="left" Color="#000000">
+	</td>
+</tr>
+
+<tr>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="53%">
+	<div Style="margin-left:2%; Text-indent:-2%"><font Face="times New Roman" Size="2" Color="#000000">
+	Peter Oppenheimer</font>
+	</div>
+	</td>
+</tr>
+
+<tr>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="53%">
+	<div><font Face="times New Roman" Size="2" Color="#000000">Senior Vice President and Chief Financial Officer</font>
+	</div>
+</td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td></tr>
+
+
+
+</table></div>
+
+
+
+
+
+<p Style='page-break-before:always'>
+<hr  Size="3" Color="#cceeff" Width="100%" Align="center">
+
+<p Align="center"><font Size="2">&nbsp;</font>
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+<b>Exhibit Index </b></font>
+</div>
+
+<div><font Size="2">&nbsp;</font></div>
+
+<div Align="center">
+<table Cellspacing="0" Cellpadding="0" Width="100%" Border="0">
+
+
+
+
+<tr>
+	<td Valign="top" Align="left">
+	<div Align="left"><font Face="times New Roman" Size="2" Color="#000000">
+	<b>Exhibit&nbsp;No.</b></font>
+	</div>
+		<hr Size="2" Noshade Width="48" Color="#000000">
+	</td>
+	<td Valign="top" Width="3%" Align="left"><font Face="times New Roman" Size="2">&nbsp;&nbsp;</font></td>
+	<td Valign="top" Width="100%" Align="left">
+	<div><font Face="times New Roman" Size="2" Color="#000000">
+	<b>Description</b></font>
+	</div>
+	<hr Size="2" Noshade Width="73" Align="left" Color="#000000">
+	</td>
+</tr>
+
+
+
+
+<tr>
+	<td Valign="top" Align="left">
+	<div Align="top"><font Face="times New Roman" Size="1" Color="#000000">
+	EX-99.</font>
+	</div>
+
+	</td>
+	<td Valign="top" Width="3%" Align="left"><font Face="times New Roman" Size="2">&nbsp;&nbsp;</font></td>
+	<td Valign="top" Width="100%" Align="left">
+	<div><font Face="times New Roman" Size="2" Color="#000000">
+	Text of press release issued by Apple Computer, Inc. dated June 6, 2005. </font>
+	</div>
+		</td>
+</tr>
+
+
+
+
+
+</div></table>
+
+
+
+</body></html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.
+<SEQUENCE>2
+<FILENAME>rrd81625_6244.htm
+<DESCRIPTION>TEXT OF PRESS RELEASE ISSUED BY APPLE COMPUTER, INC. DATED JUNE 6, 2005.
+<TEXT>
+
+
+
+<HTML>
+
+
+<HEAD>
+
+
+
+
+
+
+
+
+<TITLE>Apple Confidential</TITLE>
+
+
+</HEAD>
+
+
+<BODY>
+
+
+
+
+
+<B><FONT FACE="Times" SIZE=6 COLOR="#0000ff"><P>Apple to Use Intel Microprocessors Beginning in 2006</P>
+
+
+</B></FONT><FONT COLOR="#0000ff"><P><BR>
+
+
+</FONT><FONT FACE="Times" COLOR="#0000ff">WWDC 2005, SAN FRANCISCO--June 6, 2005--At its Worldwide Developer Conference today, Apple&reg; announced plans to deliver models of its Macintosh&reg; computers using Intel microprocessors by this time next year, and to transition all of its Macs to using Intel microprocessors by the end of 2007.&nbsp; Apple previewed a version of its critically acclaimed operating system, Mac OS&reg; X Tiger, running on an Intel-based Mac&reg; to the over 3,800 developers attending CEO Steve Jobs' keynote address. Apple also announced the availability of a Developer Transition Kit, consisting of an Intel-based Mac development system along with preview versions of Apple's software, which will allow developers to prepare versions of their applications which will run on both PowerPC and Intel-based Macs.<BR>
+
+
+<BR>
+
+
+&quot;Our goal is to provide our customers with the best personal computers in the world, and looking ahead Intel has the strongest processor roadmap by far,&quot; said Steve Jobs, Apple's CEO. &quot;It's been ten years since our transition to the PowerPC, and we think Intel's technology will help us create the best personal computers for the next ten years.&quot;<BR>
+
+
+<BR>
+
+
+&quot;We are thrilled to have the world's most innovative personal computer company as a customer,&quot; said Paul Otellini, president and CEO of Intel. &quot;Apple helped found the PC industry and throughout the years has been known for fresh ideas and new approaches. We look forward to providing advanced chip technologies, and to collaborating on new initiatives, to help Apple continue to deliver innovative products for years to come.&quot;<BR>
+
+
+<BR>
+
+
+&quot;We plan to create future versions of Microsoft Office for the Mac that&nbsp;support both PowerPC and Intel processors,&quot; said Roz Ho, general manager of&nbsp;Microsoft's Macintosh Business Unit. &quot;We have a strong relationship with Apple and will work closely with them to continue our long tradition of making great applications for a great platform.&quot;<BR>
+
+
+<BR>
+
+
+&quot;We think this is a really smart move on Apple's part and plan to&nbsp;create future versions of our Creative Suite for Macintosh that&nbsp;support both PowerPC and Intel processors,&quot; said Bruce Chizen, CEO of&nbsp;Adobe.<BR>
+
+
+<BR>
+
+
+The Developer Transition Kit is available starting today for $999 to all Apple Developer Connection Select and Premier members. Further information for Apple Developer Connection members is available at developer.apple.com. Intel plans to provide industry leading development tools support for Apple later this year, including the Intel C/C++ Compiler for Apple, Intel Fortran Compiler for Apple, Intel Math Kernel Libraries for Apple and Intel Integrated Performance Primitives for Apple.<BR>
+
+
+<BR>
+
+
+Intel (www.intel.com</FONT><FONT FACE="Times"> &lt;</FONT><FONT FACE="Times" COLOR="#0000ff">http://www.intel.com/</FONT><FONT FACE="Times">&gt; </FONT><FONT FACE="Times" COLOR="#0000ff">), the world's largest chip maker, is also a leading manufacturer of computer, networking and communications products.<BR>
+
+
+<BR>
+
+
+Apple ignited the personal computer revolution in the 1970s with the Apple II and reinvented the personal computer in the 1980s with the Macintosh. Today, Apple continues to lead the industry in innovation with its award-winning desktop and notebook computers, OS X operating system, and iLife and professional applications. Apple is also spearheading the digital music revolution with its iPod portable music players and iTunes online music store.<BR>
+
+
+<BR>
+
+
+<B>Press Contacts:<BR>
+
+
+</B>Natalie Kerris<BR>
+
+
+Apple<BR>
+
+
+(408) 974-6877<BR>
+
+
+nat@apple.com</FONT><U><FONT COLOR="#0000ff"><BR>
+
+
+</U><BR>
+
+
+</FONT><FONT FACE="Times" COLOR="#0000ff">Steve Dowling<BR>
+
+
+Apple<BR>
+
+
+(408) 974-1896<BR>
+
+
+dowling@apple.com<BR>
+
+
+<BR>
+
+
+Tom Beermann<BR>
+
+
+Intel<BR>
+
+
+(408) 765-6855<BR>
+
+
+tom.beermann@intel.com<BR>
+
+
+<BR>
+
+
+NOTE TO EDITORS: For additional information visit Apple's PR website (www.apple.com/pr/</FONT><FONT FACE="Times"> &lt;</FONT><FONT FACE="Times" COLOR="#0000ff">http://www.apple.com/pr/</FONT><FONT FACE="Times">&gt; </FONT><FONT FACE="Times" COLOR="#0000ff">), or call Apple's Media Helpline at (408) 974-2042.<BR>
+
+
+</P>
+
+
+<P>&copy; 2005 Apple Computer, Inc. All rights reserved. Apple, the Apple logo, Mac, Mac OS and Macintosh are trademarks of Apple. Other company and product names may be trademarks of their respective owners.&nbsp;</P></FONT></BODY>
+
+
+</HTML>
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

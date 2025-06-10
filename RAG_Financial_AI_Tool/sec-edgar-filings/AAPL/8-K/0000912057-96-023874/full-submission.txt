@@ -1,0 +1,324 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LKjkpX2pJ/WA11gftIcOQT1x6KEfAAkDXs/xzWAVJ9EcuyUcGh9G5PxL4qOzs3xY
+ YrU6K5LX/zMt3rXbH8pkJQ==
+
+<SEC-DOCUMENT>0000912057-96-023874.txt : 19961029
+<SEC-HEADER>0000912057-96-023874.hdr.sgml : 19961029
+ACCESSION NUMBER:		0000912057-96-023874
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19961028
+ITEM INFORMATION:		Other events
+ITEM INFORMATION:		Financial statements and exhibits
+FILED AS OF DATE:		19961028
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLE COMPUTER INC
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10030
+		FILM NUMBER:		96648703
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4089961010
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>8-K
+<TEXT>
+
+<PAGE>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                              Washington, DC  20549
+
+
+                                    FORM 8-K
+
+                             Current Report Pursuant
+                          to Section 13 or 15(d) of the
+                         Securities Exchange Act of 1934
+
+
+
+                        Date of Report:  October 28, 1996
+
+
+                              APPLE COMPUTER, INC.
+             (Exact Name of Registrant as Specified in its Charter)
+
+
+
+                                   CALIFORNIA
+                 (State or Other Jurisdiction of Incorporation)
+
+
+        0-10030                                        94-2404110
+(Commission File Number)                (I.R.S. Employer Identification Number)
+
+
+
+  1 INFINITE LOOP, CUPERTINO, CALIFORNIA                      95014
+ (Address of Principal Executive Offices)                   (Zip Code)
+
+
+
+                                 (408) 996-1010
+              (Registrant's Telephone Number, Including Area Code)
+
+
+
+                    The Index to Exhibits appears on page 4.
+
+
+                                   Page 1 of 7
+
+<PAGE>
+
+                       INFORMATION INCLUDED IN THIS REPORT
+
+
+ITEMS 1 THROUGH 4, 6 AND 8 NOT APPLICABLE.
+
+ITEM 5.   OTHER EVENTS.
+
+     On October 16, 1996, the Registrant issued a press release announcing its
+quarterly results for its fourth quarter ended September 27, 1996.
+
+ITEM 7.   FINANCIAL STATEMENTS AND EXHIBITS.
+
+     (a)  FINANCIAL STATEMENTS OF BUSINESSES ACQUIRED.
+
+          NOT APPLICABLE.
+
+     (b)  PRO FORMA FINANCIAL INFORMATION.
+
+          NOT APPLICABLE.
+
+     (c)  EXHIBITS.
+
+          99.1   Press release dated October 16, 1996 announcing quarterly
+                 results for its fourth quarter ended September 27, 1996.
+
+
+                                   Page 2 of 7
+
+<PAGE>
+
+                                   SIGNATURES
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+                                        APPLE COMPUTER, INC.
+
+
+DATE:  October 28, 1996                 By:    /s/ SUSAN L. THORNER
+                                            ------------------------------------
+                                              Name:  Susan L. Thorner
+                                              Title: Director, Corporate Law and
+                                                     Assistant Secretary
+
+
+                                   Page 3 of 7
+
+<PAGE>
+
+                                INDEX TO EXHIBITS
+
+
+
+Exhibit   Description                                                       Page
+- -------   -------------------------------------------------------------     ----
+
+
+99.1      Press release dated October 16, 1996 announcing Apple Computer,      5
+          Inc.'s quarterly results for its fourth quarter ended
+          September 27, 1996.
+
+
+                                   Page 4 of 7
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+
+<PAGE>
+
+                                                                    Exhibit 99.1
+
+FOR IMMEDIATE RELEASE
+
+
+
+                   APPLE COMPUTER ANNOUNCES QUARTERLY RESULTS
+
+              COMPANY POSTS $25 MILLION PROFIT; REVENUES, MARGINS,
+                  AND CASH FLOW REFLECT CONTINUED IMPROVEMENT
+
+          CUPERTINO, California--Oct. 16, 1996--Apple Computer, Inc. today
+announced results for its fourth fiscal quarter ended Sept. 27, 1996. For the
+quarter, Apple's revenues were $2.321 billion, a decrease of $682 million from
+the fourth quarter a year ago, but a sequential increase of $142 million from
+the quarter ended June 30, 1996. Unit shipments for the quarter were
+approximately 932,000, a decline of 26 percent from the year ago quarter but a
+sequential increase of 11 percent from the June 1996 quarter. International
+revenues represented 47 percent of the quarterly total.
+
+          Net income for the quarter was $25 million, or $.20 per share,
+compared with $60 million, or $.48 a share, in the same quarter a year ago. The
+Company's operating income for the quarter was $34 million, a sequential
+improvement of $150 million from its $116 million operating loss in the June
+1996 quarter. Included in the fourth quarter's operating results was an
+adjustment of prior period restructuring charges which reduced pre-tax operating
+expenses by $28 million. Without this adjustment, net earnings would have been
+approximately $8 million, or $.06 per share.
+
+          The Company experienced continued sequential growth in gross margins
+and reductions in operating expenses. Gross margins were 22 percent, compared to
+18.5 percent in the June quarter, while operating expenses before the
+restructuring adjustment declined to $505 million from $519 million in the June
+quarter.
+
+          "We continue to make progress in strengthening Apple's financial
+condition, as our $410 million in positive cash flow from operations during the
+quarter suggests," said Apple Executive Vice President and Chief Financial
+Officer Fred D. Anderson. "We've reduced inventories by nearly $400 million
+since June and completed the quarter with over $1.7 billion in cash and
+short-term investments. Gross margins increased due to several factors,
+including declining component costs, improved manufacturing efficiencies, and
+sales of previously reserved inventory. We achieved further sequential
+reductions in operating expenses, primarily in general and administrative
+functions."
+
+          "By increasing revenues sequentially and fortifying Apple's financial
+position in each of the last two quarters, we have achieved two very critical
+goals of Apple's transformation," said Apple Chairman and Chief Executive
+Officer Dr. Gilbert F. Amelio.
+
+
+                                   Page 5 of 7
+
+<PAGE>
+
+"We remain confident about reaching sustainable profitability by the end of
+Q2'97. As we move forward, our challenges will be to extend our competitive
+leadership in key markets and to reclaim the mantle of industry pioneer and
+innovator.
+
+          "The question before us is not 'Will Apple survive?'," said Dr.
+Amelio,"but rather, 'How will Apple establish leadership in the emerging digital
+era of the Internet and multimedia?' We plan to do so with strong management, a
+relentless dedication to quality, and a passionate commitment to our role as
+industry innovator."
+
+          For the Company's fiscal year ended Sept. 27, 1996, revenues were
+$9.833 billion, an 11 percent decrease from the prior year. The net loss for the
+year was $816 million, or a loss of $6.59 per share, compared with net income of
+$424 million or $3.45 per share in fiscal 1995. The largest contributors to the
+fiscal 1996 loss during the year were after-tax inventory writedowns of $388
+million in the second quarter, net restructuring charges of $113 million during
+the year, and after-tax warranty and related expenses that were approximately
+$126 million greater than historical rates would suggest.
+
+          For the year, international revenues accounted for 52 percent of
+Apple's net sales, compared to 48 percent in fiscal 1995.
+
+          Except for the historical information contained herein, the statements
+regarding establishing competitive leadership, effecting innovation, addressing
+quality issues, introducing new products, continuing focus on certain industry
+growth areas, and the timing of execution of the Company's business plans are
+forward-looking statements that involve risks and uncertainties. Potential risks
+and uncertainties include, without limitation, continued competitive pressures
+in the marketplace; the effect competitive factors and the Company's reaction to
+them may have on consumer and business buying decisions with respect to the
+Company's products; the consequences competitive factors and buying decisions
+may have on current inventory valuations; the ability of the Company to make
+timely delivery of successful technological innovations to the marketplace; the
+ability of the Company to successfully resolve its quality issues; the effect of
+any future losses on the Company's needs for liquidity; the effect of the
+announced business restructuring on the future performance of the Company,
+especially the performance of the Company's employees; and the need for any
+future restructuring, and the effect that it might have on the performance of
+the Company. More information on potential factors that could affect the
+Company's financial results is included in the Company's Form 10-Q for the third
+fiscal quarter and will also be included in the Company's Form 10-K for the 1996
+fiscal year, to be filed with the SEC.
+
+          Apple Computer, Inc., a recognized pioneer and innovator in the
+information industry, creates powerful solutions based on easy-to-use personal
+computers, servers, peripherals, software, and personal digital assistants.
+Headquartered in Cupertino, Calif., Apple (NASDAQ:AAPL) develops, manufactures,
+licenses, and markets products, technologies, and services for the business,
+education, consumer, scientific, engineering, and government markets in over 140
+countries.
+
+
+                                   Page 6 of 7
+
+<PAGE>
+
+- ------------------------------------------------
+Press Contact:
+Katie Cotton
+(408) 974-7269
+email: katiec@apple.com
+
+Investor Relations Contact:
+Nancy Paxton
+(408) 974-5420
+email: paxton1@apple.com
+
+NOTE TO EDITORS:  To access Apple press releases, background material, and
+contact information on the web, visit The Source at:  www.apple.com/source/.  If
+you are interested in receiving Apple press releases by fax, call 1-800-AAPL-FAX
+(1-800-227-5329) and enter your PIN number.  If you do not have a PIN number,
+contact Apple's Media Helpline at (408) 974-2042 to request one.  If you would
+like to receive Apple press releases by email, please send an email message to
+listproc@guisel.austin.apple.com.  Include the text "subscribe pressrel [your
+full name]" in the body of the message.  To remove your address from the mailing
+list send an email message to listproc@guisel.austin.apple.com.  Include the
+text "remove pressrel" in the body of the message.
+
+Apple's home page on the World Wide Web:  http://www.apple.com/
+
+
+
+Apple, the Apple logo, Macintosh, and Mac OS are registered trademarks of Apple
+Computer, Inc.  All other brand names mentioned are registered trademarks or
+trademarks of their respective holders, and are hereby acknowledge.
+
+
+                                   Page 7 of 7
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

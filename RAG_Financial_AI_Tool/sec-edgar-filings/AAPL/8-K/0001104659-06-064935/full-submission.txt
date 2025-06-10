@@ -1,0 +1,518 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ P2+jyHUTIRJxaqPKaZ4nw8z1xTVKjwEy4DKE9qJyo46V/SdDwK04llmzJy1AvTtm
+ rtuZXxibGTHPmx0Az8F/+g==
+
+<SEC-DOCUMENT>0001104659-06-064935.txt : 20061004
+<SEC-HEADER>0001104659-06-064935.hdr.sgml : 20061004
+<ACCEPTANCE-DATETIME>20061004172534
+ACCESSION NUMBER:		0001104659-06-064935
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20060930
+ITEM INFORMATION:		Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20061004
+DATE AS OF CHANGE:		20061004
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLE COMPUTER INC
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10030
+		FILM NUMBER:		061129214
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4089961010
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a06-20744_18k.htm
+<DESCRIPTION>CURRENT REPORT OF MATERIAL EVENTS OR CORPORATE CHANGES
+<TEXT>
+<html>
+
+<head>
+
+
+
+
+
+
+</head>
+
+<body lang="EN-US">
+
+<div style="font-family:Times New Roman;">
+ <div style="border:none;border-top:double windowtext 6.0pt;padding:0pt 0pt 0pt 0pt;"> <p style="border:none;margin:0pt 0pt .0001pt;padding:0pt;"><a name="scotch"></a></p> </div>
+
+<p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-weight:bold;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;">UNITED STATES<br>
+SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+
+<p style="font-weight:bold;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">Washington, D.C. 20549</font></b></p>
+
+<p style="line-height:9.0pt;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div style="line-height:9.0pt;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><hr size="1" width="160" noshade color="black" align="center" style="width:120.0pt;"></div>
+
+<p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-weight:bold;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;">FORM 8-K</font></b></p>
+
+<p style="font-weight:bold;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><b><font size="3" face="Times New Roman">&nbsp;</font></b></p>
+
+<p style="font-weight:bold;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;">CURRENT REPORT<br>
+PURSUANT TO SECTION 13 OR 15(D) OF THE<br>
+SECURITIES EXCHANGE ACT OF 1934</font></b></p>
+
+<p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date of Report (Date of earliest event reported): <b>September 30, 2006</b></font></p>
+
+<p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-weight:bold;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;">Apple Computer, Inc.</font></b></p>
+
+<p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Exact name of registrant as specified in its charter)</font></p>
+
+<p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr style="page-break-inside:avoid;">
+  <td width="33%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:33.34%;">
+  <p align="center" style="font-size:10.0pt;margin:0pt 0pt .0001pt;text-align:center;"><!-- SET mrlNoTableShading --><b>California</b></p>
+  </td>
+  <td width="33%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:33.34%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">000-10030</font></b></p>
+  </td>
+  <td width="33%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:33.34%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">94-2404110</font></b></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="33%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:33.34%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(State or other
+  jurisdiction<br>
+  of incorporation)</font></p>
+  </td>
+  <td width="33%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:33.34%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Commission File
+  Number)</font></p>
+  </td>
+  <td width="33%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:33.34%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(I.R.S. Employer<br>
+  Identification Number)</font></p>
+  </td>
+ </tr>
+</table>
+
+<p style="font-weight:bold;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></p>
+
+<p style="font-weight:bold;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">1 Infinite Loop, Cupertino,
+CA 95014</font></b></p>
+
+<p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Address of principal executive offices) (Zip Code)</font></p>
+
+<p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Registrant&#146;s telephone number, including area code: <b>(408) 996-1010</b></font></p>
+
+<p style="font-weight:bold;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></b></p>
+
+<p style="font-weight:bold;margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">N/A</font></b></p>
+
+<p style="margin:0pt 0pt .0001pt;page-break-after:avoid;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Former name or former address, if changed since last
+report.)</font></p>
+
+<p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0pt 0pt 12.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check the appropriate box below if the Form 8-K filing
+is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:</font></p>
+
+<p style="font-size:10.0pt;margin:0pt 0pt 12.0pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font>&nbsp;Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</p>
+
+<p style="font-size:10.0pt;margin:0pt 0pt 12.0pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font>&nbsp;Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</p>
+
+<p style="font-size:10.0pt;margin:0pt 0pt 12.0pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font>&nbsp;Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR
+240.14d-2(b))</p>
+
+<p style="font-size:10.0pt;margin:0pt 0pt .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font>&nbsp;Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR
+240.13e-4(c))</p>
+
+<p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+
+ <div style="border:none;border-bottom:double windowtext 6.0pt;padding:0pt 0pt 0pt 0pt;"> <p style="border:none;margin:0pt 0pt .0001pt;padding:0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p> </div>
+</div><br><hr size="3" width="100%" noshade color="#010101" align="center">
+
+<!-- SEQ.=1,FOLIO='',FILE='C:\fc\277111939520_D11851_1397596\20744-1-ba.htm',USER='jmsproofassembler',CD='Oct  4 11:19 2006' -->
+
+
+
+<br clear="all" style="page-break-before:always;">
+
+<div>
+ <p style="margin:0pt 0pt .0001pt;text-align:center;"></p>
+
+<p style="margin:0pt 0pt .0001pt 72.0pt;text-indent:-72.0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+
+<p style="margin:0pt 0pt 12.0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">ITEM 5.02&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; DEPARTURE OF DIRECTORS OR PRINCIPAL
+OFFICERS; ELECTION OF DIRECTORS;<br>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; APPOINTMENT
+OF PRINCIPAL OFFICERS.</font></b></p>
+
+<p style="margin:0pt 0pt 12.0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">(b)</font></b></p>
+
+<p style="margin:0pt 0pt 12.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On
+September 30, 2006, Fred D. Anderson resigned from the Board of Directors of
+Apple Computer, Inc. (the &#147;Company&#148;).</font></p>
+
+<p style="margin:0pt 0pt 12.0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">ITEM 8.01&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; OTHER EVENTS.</font></b></p>
+
+<p style="margin:0pt 0pt 12.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On
+October 4, 2006, the Company announced that the special committee of its Board
+of Directors has reported its findings after a three month investigation into
+the Company&#146;s stock option practices. A copy of the press release issued by the
+Company in connection with the special committee&#146;s report and Mr. Anderson&#146;s
+resignation from the Board of Directors is attached hereto as Exhibit 99.1 and
+is incorporated herein by reference.</font></p>
+
+<p style="margin:0pt 0pt 12.0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">ITEM 9.01&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; FINANCIAL
+STATEMENTS AND EXHIBITS.</font></b></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;font-family:Times New Roman;width:100.0%;">
+ <tr style="page-break-inside:avoid;">
+  <td width="7%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:7.14%;">
+  <p align="left" style="font-size:8.0pt;font-weight:bold;line-height:normal;margin:0pt 0pt .0001pt;text-align:left;">Exhibit <br>
+  Number</p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="font-weight:bold;line-height:normal;margin:0pt 0pt .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></b></p>
+  </td>
+  <td width="90%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:90.48%;">
+  <p style="font-weight:bold;line-height:normal;margin:0pt 0pt .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;">Description</font></b></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="7%" valign="top" style="border:none;padding:0pt .7pt 0pt 0pt;width:7.14%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">99.1</font></p>
+  </td>
+  <td width="2%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:2.38%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="90%" valign="top" style="border:none;padding:0pt .7pt 0pt 0pt;width:90.48%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Text of Press Release issued by Apple Computer, Inc.
+  dated October 4, 2006.</font></p>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="margin:0pt 0pt 12.0pt;page-break-after:avoid;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+
+ <p style="font-size:10.0pt;margin:24.0pt 0pt .0001pt;text-align:center;"><font face="Times New Roman">2</font></p> <br><hr size="3" width="100%" noshade color="#010101" align="center">
+
+<!-- SEQ.=1,FOLIO='2',FILE='C:\fc\27711369216_D11851_1397596\20744-1-de.htm',USER='jmsproofassembler',CD='Oct  4 11:36 2006' -->
+<br clear="all" style="page-break-before:always;">
+ <p style="margin:0pt 0pt .0001pt;text-align:center;"></p>
+
+
+<p style="margin:0pt 0pt .0001pt 72.0pt;text-indent:-72.0pt;"><a name="_092143"></a><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+
+<p style="font-weight:bold;margin:0pt 0pt 12.0pt;page-break-after:avoid;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">SIGNATURES</font></b></p>
+
+<p style="margin:0pt 0pt 12.0pt;page-break-after:avoid;text-autospace:none;text-indent:36.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pursuant to the requirements of the
+Securities Exchange Act of 1934, as amended, the Registrant has duly caused
+this report to be signed on its behalf by the undersigned hereunto duly
+authorized.</font></p>
+
+<p style="margin:0pt 0pt 12.0pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date: October 4, 2006</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr style="page-break-inside:avoid;">
+  <td width="52%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:52.42%;">
+  <p style="font-size:10.0pt;margin:0pt 0pt .0001pt;"></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:5.96%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="41%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:41.62%;">
+  <p align="center" style="margin:0pt 0pt .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">APPLE COMPUTER,
+  INC.<br>
+  (Registrant)</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="52%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:52.42%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:5.96%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="41%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:41.62%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="52%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:52.42%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:5.96%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="41%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:41.62%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="52%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:52.42%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:5.96%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">By:</font></p>
+  </td>
+  <td width="41%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:41.62%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/ PETER OPPENHEIMER</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="52%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:52.42%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:5.96%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Name:</font></p>
+  </td>
+  <td width="41%" valign="top" style="border:none;padding:0pt .7pt 0pt 0pt;width:41.62%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Peter Oppenheimer</font></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="52%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:52.42%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:5.96%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Title:</font></p>
+  </td>
+  <td width="41%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:41.62%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Senior Vice President and Chief Financial Officer</font></p>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="margin:0pt 0pt 12.0pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+
+ <p style="font-size:10.0pt;margin:24.0pt 0pt .0001pt;text-align:center;"><font face="Times New Roman">3</font></p> <br><hr size="3" width="100%" noshade color="#010101" align="center">
+
+<!-- SEQ.=1,FOLIO='3',FILE='C:\fc\27711369216_D11851_1397596\20744-1-de.htm',USER='jmsproofassembler',CD='Oct  4 11:36 2006' -->
+<br clear="all" style="page-break-before:always;">
+ <p style="margin:0pt 0pt .0001pt;text-align:center;"></p>
+
+
+<p style="margin:0pt 0pt .0001pt 72.0pt;text-indent:-72.0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+
+<p align="center" style="margin:0pt 0pt 12.0pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">EXHIBIT INDEX</font></b></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;font-family:Times New Roman;width:100.0%;">
+ <tr style="page-break-inside:avoid;">
+  <td width="7%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:7.14%;">
+  <p align="left" style="font-size:8.0pt;font-weight:bold;line-height:normal;margin:0pt 0pt .0001pt;text-align:left;">Exhibit <br>
+  Number</p>
+  </td>
+  <td width="3%" valign="bottom" style="padding:0pt .7pt 0pt 0pt;width:3.4%;">
+  <p style="font-weight:bold;line-height:normal;margin:0pt 0pt .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></b></p>
+  </td>
+  <td width="89%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0pt .7pt 0pt 0pt;width:89.46%;">
+  <p style="font-weight:bold;line-height:normal;margin:0pt 0pt .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;">Description</font></b></p>
+  </td>
+ </tr>
+ <tr style="page-break-inside:avoid;">
+  <td width="7%" valign="top" style="border:none;padding:0pt .7pt 0pt 0pt;width:7.14%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">99.1</font></p>
+  </td>
+  <td width="3%" valign="top" style="padding:0pt .7pt 0pt 0pt;width:3.4%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="89%" valign="top" style="border:none;padding:0pt .7pt 0pt 0pt;width:89.46%;">
+  <p style="margin:0pt 0pt .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Text of Press Release issued by Apple Computer, Inc.
+  dated October 4, 2006.</font></p>
+  </td>
+ </tr>
+</table>
+
+<p style="margin:0pt 0pt 12.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0pt 0pt 12.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+
+ <p style="font-size:10.0pt;margin:24.0pt 0pt .0001pt;text-align:center;"><font face="Times New Roman">4</font></p>
+</div><br><hr size="3" width="100%" noshade color="#010101" align="center">
+
+<!-- SEQ.=1,FOLIO='4',FILE='C:\fc\27711369216_D11851_1397596\20744-1-de.htm',USER='jmsproofassembler',CD='Oct  4 11:36 2006' -->
+
+
+</body>
+
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a06-20744_1ex99d1.htm
+<DESCRIPTION>EX-99
+<TEXT>
+<html>
+
+<head>
+
+
+
+
+
+
+</head>
+
+<body lang="EN-US">
+
+<div>
+ <p style="margin:0pt 0pt .0001pt;text-align:center;"></p>
+
+<p align="right" style="font-weight:bold;margin:0pt 0pt 12.0pt 10.0pt;page-break-after:avoid;text-align:right;text-indent:-10.0pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">Exhibit 99.1</font></b></p>
+
+<p style="color:black;margin:0pt 0pt 12.0pt;page-break-after:avoid;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Apple&#146;s Special Committee
+Reports Findings of Stock Option Investigation</font></p>
+
+<p style="margin:0pt 0pt 12.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Fred Anderson Resigns from Apple Board of Directors</font></p>
+
+<p style="color:black;margin:0pt 0pt 12.0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">CUPERTINO, California &#151; October 4, 2006 &#151; Apple&#174; today
+announced that the special committee of its board of directors has reported its
+findings after a three month investigation into Apple&#146;s stock option practices.
+The special committee of outside directors, together with independent counsel
+and accountants, examined more than 650,000 emails and documents, and conducted
+interviews with more than 40 current and former employees, directors and
+advisors. Apple initiated this voluntary independent investigation after a
+management review discovered irregularities in past stock option grants.</font></p>
+
+<p style="color:black;margin:0pt 0pt 12.0pt;page-break-after:avoid;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">The independent investigation&#146;s key findings
+are:</font></p>
+
+<p style="font-family:Times New Roman;font-size:10.0pt;margin:0pt 0pt 12.0pt 40.0pt;text-indent:-20.0pt;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>The
+investigation found no misconduct by any member of Apple&#146;s current management
+team.</p>
+
+<p style="font-family:Times New Roman;font-size:10.0pt;margin:0pt 0pt 12.0pt 40.0pt;text-indent:-20.0pt;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>The most
+recent evidence of irregularities relates to a January 2002 grant.</p>
+
+<p style="font-family:Times New Roman;font-size:10.0pt;margin:0pt 0pt 12.0pt 40.0pt;text-indent:-20.0pt;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>Stock option
+grants made on 15 dates between 1997 and 2002 appear to have grant dates that
+precede the approval of those grants.</p>
+
+<p style="font-family:Times New Roman;font-size:10.0pt;margin:0pt 0pt 12.0pt 40.0pt;text-indent:-20.0pt;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>In a few
+instances, Apple CEO Steve Jobs was aware that favorable grant dates had been
+selected, but he did not receive or otherwise benefit from these grants and was
+unaware of the accounting implications.</p>
+
+<p style="font-family:Times New Roman;font-size:10.0pt;margin:0pt 0pt 12.0pt 40.0pt;text-indent:-20.0pt;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>The
+investigation raised serious concerns regarding the actions of two former
+officers in connection with the accounting, recording and reporting of stock
+option grants. The company will provide all details regarding their actions to
+the SEC.</p>
+
+<p style="color:black;margin:0pt 0pt 12.0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">&#147;I apologize to Apple&#146;s shareholders and employees for these
+problems, which happened on my watch. They are completely out of character for
+Apple,&#148; said Steve Jobs, Apple&#146;s CEO.&#148; We will now work to resolve the
+remaining issues as quickly as possible and to put the proper remedial measures
+in place to ensure that this never happens again.&#148;</font></p>
+
+<br><hr size="3" width="100%" noshade color="#010101" align="center">
+
+<!-- SEQ.=1,FOLIO='',FILE='C:\fc\27716183516_D11780_1398302\20744-1-kg.htm',USER='jmsproofassembler',CD='Oct  4 16:18 2006' -->
+<br clear="all" style="page-break-before:always;">
+ <p style="margin:0pt 0pt .0001pt;text-align:center;"></p>
+
+
+<p style="color:black;margin:0pt 0pt 12.0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">The company also announced that Fred Anderson, Apple&#146;s former
+CFO, has resigned from its board of directors. Mr.&nbsp;Anderson, who served as
+CFO from 1996 until 2004, informed the company that he believes it is in Apple&#146;s
+best interests that he resign from the board at this time.</font></p>
+
+<p style="color:black;margin:0pt 0pt 12.0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">The company and its independent auditors are reviewing the
+findings of the independent investigation. Management continues to believe, and
+the audit committee agrees, that Apple will likely need to restate its
+historical financial statements to record non-cash charges for compensation
+expense relating to past stock option grants. The company and its independent
+auditors are reviewing recent accounting guidance published by the SEC, and
+have not yet determined the amount of such charges, the resulting tax and
+accounting impact, or which periods may require restatement. The company
+continues to proactively inform the SEC of its findings.</font></p>
+
+<p style="color:black;margin:0pt 0pt 12.0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">Apple ignited the personal computer revolution in the 1970s
+with the Apple II and reinvented the personal computer in the 1980s with the
+Macintosh. Today, Apple continues to lead the industry in innovation with its
+award-winning desktop and notebook computers, OS&nbsp;X operating system, and
+iLife and professional applications. Apple is also spearheading the digital
+music revolution with its iPod portable music players and iTunes online music
+store.</font></p>
+
+<p style="margin:0pt 0pt 12.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Press Contacts:<br>
+Steve Dowling<br>
+Apple<br>
+(408) 974-1896<br>
+dowling@apple.com</font></p>
+
+<p style="color:black;margin:0pt 0pt 12.0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">NOTE TO EDITORS: For additional information
+visit Apple&#146;s PR website (www.apple.com/pr/), or call Apple&#146;s Media Helpline at
+(408) 974-2042.</font></p>
+
+<p style="color:black;line-height:normal;margin:0pt 0pt 12.0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">&#169; 2006
+Apple Computer, Inc. All rights reserved. Apple, the Apple logo, Mac, Mac OS,
+Macintosh are trademarks of Apple. Other company and product names may be
+trademarks of their respective owners.</font></p>
+
+<p style="color:black;line-height:normal;margin:0pt 0pt 12.0pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;">&nbsp;</font></p>
+
+</div><br><hr size="3" width="100%" noshade color="#010101" align="center">
+
+<!-- SEQ.=1,FOLIO='',FILE='C:\fc\27716183516_D11780_1398302\20744-1-kg.htm',USER='jmsproofassembler',CD='Oct  4 16:18 2006' -->
+
+
+</body>
+
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

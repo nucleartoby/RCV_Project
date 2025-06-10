@@ -1,0 +1,559 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CT7fAsARZvaobKsFPpIP2KWZlcvS/4xDkqkVjG8vonLpqlOh+ZZyp5Fc09KqvCIS
+ aB/nLdl7yCIhQKOc6SDAqA==
+
+<SEC-DOCUMENT>0001181431-05-056604.txt : 20051014
+<SEC-HEADER>0001181431-05-056604.hdr.sgml : 20051014
+<ACCEPTANCE-DATETIME>20051014164924
+ACCESSION NUMBER:		0001181431-05-056604
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20051014
+ITEM INFORMATION:		Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers
+FILED AS OF DATE:		20051014
+DATE AS OF CHANGE:		20051014
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLE COMPUTER INC
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10030
+		FILM NUMBER:		051139329
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4089961010
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>rrd94436.htm
+<TEXT>
+
+
+<html><head>
+<title>Prepared By R.R. Donnelley Financial -- Form 8-K</title>
+</head>
+<body Bgcolor="white">
+
+<hr Size="4" Noshade Color="#000000" Align="left">
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="4" Color="#000000">
+<b>UNITED STATES </b></font></div>
+
+<div Align="center"><font Face="times New Roman" Size="4" Color="#000000">
+<b>SECURITIES AND EXCHANGE COMMISSION </b></font></div>
+
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>Washington D.C., 20549 </b></font></div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="5" Color="#000000">
+<b>Form 8-K </b></font></div> <div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="4" Color="#000000">
+<b>Current Report </b></font></div>
+
+<div Align="center"><font Face="times New Roman" Size="4" Color="#000000">
+<b>Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 </b></font></div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+<b>Date Of Report (Date Of Earliest Event Reported):&nbsp;&nbsp;10/14/2005 </b></font></div>
+
+
+
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="5" Color="#000000">
+<b>APPLE COMPUTER INC </b></font></div>
+
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>(Exact Name of Registrant as Specified in its Charter)</b></font></div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+<b>Commission File Number:&nbsp;&nbsp;000-10030</b></font></div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><table Cellspacing="0" Cellpadding="0" Width="100%" Border="0">
+<tr>
+<td Valign="bottom" Width="59%" Align="center">
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000"><b>CA</b></font>
+</div>
+</td>
+<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;&nbsp;</font>
+</td>
+<td Valign="bottom" Width="59%" Align="center">
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000"><b>94-2404110</b></font>
+</div>
+</td>
+</tr>
+
+<tr>
+<td Valign="top" Align="center" Width="59%">
+<div Style="margin-left:2%; Text-indent:-2%" Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>(State or Other Jurisdiction of</b></font>
+</div>
+</td>
+<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;&nbsp;</font>
+</td>
+<td Valign="bottom" Align="center" Width="59%">
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000"><b>(I.R.S. Employer</b></font>
+</div>
+</td>
+</tr>
+
+<tr>
+<td Valign="top" Align="center" Width="59%">
+<div Style="margin-left:2%; Text-indent:-2%" Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>Incorporation or Organization)</b></font>
+</div>
+</td>
+<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;&nbsp;</font>
+</td>
+<td Valign="bottom" Align="center" Width="59%">
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>Identification No.)</b></font>
+</div>
+</td>
+</tr>
+
+</table></div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+<b>1 Infinite Loop, Cupertino, CA 95014</b></font></div>
+
+
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>(Address of Principal Executive Offices, Including Zip Code)</b></font>
+</div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+<b>(408) 996-1010 </b></font>
+</div>
+
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>(Registrant&#146;s Telephone Number, Including Area Code) </b></font>
+</div>
+
+
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+<b> </b></font>
+</div>
+
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>(Former name or former address, if changed since last report) </b></font>
+</div>
+
+
+<div><font Size="1">&nbsp;</font>
+</div>
+
+
+
+
+<div Align="left"><font Face="times New Roman" Size="2" Color="#000000">
+<b>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:<BR><BR>
+</b></font>
+
+
+</div>
+
+
+
+<div Align="left"><font Face="times New Roman" Size="2" Color="#000000">
+<b>[&nbsp;&nbsp;]&nbsp;&nbsp;
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)<BR><BR>
+
+[&nbsp;&nbsp;]&nbsp;&nbsp;
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act(17CFR240.14a-12)<BR><BR>
+
+
+[&nbsp;&nbsp;]&nbsp;&nbsp;
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act(17CFR240.14d-2(b))<BR><BR>
+
+
+[&nbsp;&nbsp;]&nbsp;&nbsp;
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act(17CFR240.13e-4(c))
+</b>
+
+</font>
+</div>
+
+
+
+
+
+<div><font Size="1">&nbsp;</font>
+</div>
+
+<hr Size="4" Noshade Color="#000000" Align="left">
+
+
+<p Style='page-break-before:always'>
+<p Align="center"><font Size="2">
+Items to be Included in this Report</b>
+</font>
+
+
+
+
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div align="left"><font Face="times New Roman" Size="2" Color="#000000">
+<b>Item 5.02.&nbsp;&nbsp;&nbsp;&nbsp;Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers</b></font>
+</div>
+
+<div><font Size="1">&nbsp;</font>
+</div>
+
+<div  align="left" Style="text-indent:4%"><font Face="times New Roman" Size="2" Color="#000000">
+On October 14, 2005, Apple Computer, Inc. ("Apple"), announced the appointment of Timothy D. Cook, Executive Vice President, Worldwide Sales and Operations, as Chief Operating Officer.<p> <p>Mr. Cook (age 44) joined Apple in 1998 and has served as Executive Vice President, Worldwide Sales and Operations, since 2002. In 2004, his responsibilities were expanded to include Apple's Macintosh Division. From 1998 to 2002, Mr. Cook served in the position of Senior Vice President, Worldwide Operations, Sales, Service and Support. Prior to joining Apple, Mr. Cook held the position of Vice President, Corporate Materials for Compaq Computer Corporation. Mr. Cook also spent 12 years with IBM.</div><div align="left" style="text-indent:4%"> <p>The full text of the press release is attached as Exhibit 99.</div><div align="left" style="text-indent:4%"></font>
+</div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+
+
+<hr  Size="3" Color="#cceeff" Width="100%" Align="center">
+<p Align="center"><font Size="2">&nbsp;</font>
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>Signature(s) </b></font>
+</div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div align="left" Style="text-indent:4%"><font Face="times New Roman" Size="2" Color="#000000">
+Pursuant to the Requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this Report to be signed on its behalf by the Undersigned hereunto
+duly authorized. </font>
+</div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div><table Cellspacing="0" Cellpadding="0" Width="100%" Border="0">
+
+
+
+
+<tr>
+	<td Valign="top" Colspan="3" Width="53%"> <div Style="margin-left:2%; Text-indent:-2%"><font Face="times New Roman" Size="2" Color="#000000"></font>
+	</div>
+	</td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font>
+	</td>
+	<td> <font Size="1">&nbsp;</font>
+	</td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font>
+	</td>	<td Valign="top" Align="center" Width="3%">
+	<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+	</font>
+	</div>
+	</td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td Valign="top" Width="53%">
+	<div Style="margin-left:2%; Text-indent:-2%"><font Face="times New Roman" Size="2" Color="#000000">
+	APPLE COMPUTER INC</font>
+	</div>	</td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+	<td Valign="top" Colspan="3" Width="53%"> <div Style="margin-left:2%; Text-indent:-2%"><font Face="times New Roman" Size="2" Color="#000000">
+	Date: October 14, 2005.</font>
+	</div>
+	</td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font>
+	</td>
+	<td> <font Size="1">&nbsp;</font>
+	</td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font>
+	</td>	<td Valign="top" Align="center" Width="3%">
+	<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+	By:</font>
+	</div>
+	</td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td Valign="top" Width="53%">
+	<div Style="margin-left:2%; Text-indent:-2%"><font Face="times New Roman" Size="2" Color="#000000">
+	/s/&nbsp;&nbsp;&nbsp;&nbsp;Peter Oppenheimer</font>
+	</div>
+	<hr Noshade Align="left" Color="#000000">
+	</td>
+</tr>
+
+<tr>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="53%">
+	<div Style="margin-left:2%; Text-indent:-2%"><font Face="times New Roman" Size="2" Color="#000000">
+	Peter Oppenheimer</font>
+	</div>
+	</td>
+</tr>
+
+<tr>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="53%">
+	<div><font Face="times New Roman" Size="2" Color="#000000">Senior Vice President and Chief Financial Officer</font>
+	</div>
+</td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td></tr>
+
+
+
+</table></div>
+
+
+
+
+
+<p Style='page-break-before:always'>
+<hr  Size="3" Color="#cceeff" Width="100%" Align="center">
+
+<p Align="center"><font Size="2">&nbsp;</font>
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+<b>Exhibit Index </b></font>
+</div>
+
+<div><font Size="2">&nbsp;</font></div>
+
+<div Align="center">
+<table Cellspacing="0" Cellpadding="0" Width="100%" Border="0">
+
+
+
+
+<tr>
+	<td Valign="top" Align="left">
+	<div Align="left"><font Face="times New Roman" Size="2" Color="#000000">
+	<b>Exhibit&nbsp;No.</b></font>
+	</div>
+		<hr Size="2" Noshade Width="48" Color="#000000">
+	</td>
+	<td Valign="top" Width="3%" Align="left"><font Face="times New Roman" Size="2">&nbsp;&nbsp;</font></td>
+	<td Valign="top" Width="100%" Align="left">
+	<div><font Face="times New Roman" Size="2" Color="#000000">
+	<b>Description</b></font>
+	</div>
+	<hr Size="2" Noshade Width="73" Align="left" Color="#000000">
+	</td>
+</tr>
+
+
+
+
+<tr>
+	<td Valign="top" Align="left">
+	<div Align="top"><font Face="times New Roman" Size="1" Color="#000000">
+	EX-99.</font>
+	</div>
+
+	</td>
+	<td Valign="top" Width="3%" Align="left"><font Face="times New Roman" Size="2">&nbsp;&nbsp;</font></td>
+	<td Valign="top" Width="100%" Align="left">
+	<div><font Face="times New Roman" Size="2" Color="#000000">
+	Apple Press Release</font>
+	</div>
+		</td>
+</tr>
+
+
+
+
+
+</div></table>
+
+
+
+</body></html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.
+<SEQUENCE>2
+<FILENAME>rrd94436_8974.htm
+<DESCRIPTION>APPLE PRESS RELEASE
+<TEXT>
+
+
+
+<HTML>
+
+
+<HEAD>
+
+
+
+
+
+
+
+
+<TITLE>Tim Cook Named COO of Apple</TITLE>
+
+
+</HEAD>
+
+
+<BODY>
+
+
+
+
+
+<FONT FACE="Myriad Apple Bold,Times New Roman" SIZE=6><P>Tim Cook Named COO of Apple</P>
+
+
+</FONT><P>&nbsp;</P>
+
+
+<FONT FACE="Myriad Apple Bold,Times New Roman" SIZE=4><P>Jon Rubinstein to Retire March 31 and be Succeeded by&nbsp;Tony Fadell</P>
+
+
+</FONT>
+
+
+<FONT FACE="Myriad Apple Text,Times New Roman"><P>CUPERTINO, California--October 14, 2005--Apple&reg; today named&nbsp;Tim Cook its chief operating officer.&nbsp;Cook, who has been Apple's executive vice president of Worldwide Sales and Operations since 2002,&nbsp;will continue to report to Steve Jobs, Apple's CEO.&nbsp;</P>
+
+
+</FONT>
+
+
+<P>&quot;<FONT FACE="Myriad Apple Text,Times New Roman">Tim has been doing this job for over two years now, and it's high time we officially recognized it with this promotion,&quot; said Steve Jobs, Apple's CEO. &quot;Tim and I have worked together for over seven years now, and I am looking forward to working even more closely with him to help Apple reach some exciting goals during the coming years.&quot;</P>
+
+
+</FONT>
+
+
+<FONT FACE="Myriad Apple Text,Times New Roman"><P>Cook will continue to be responsible for all of the company's worldwide sales and operations, and will continue to lead the company's Macintosh Division. In addition, he will work closely with Jobs and the executive team to lead Apple's overall business.&nbsp;&nbsp;</P>
+
+
+</FONT>
+
+
+<FONT FACE="Myriad Apple Text,Times New Roman"><P>Apple also announced that&nbsp;Jon Rubinstein, Apple's senior vice president of the iPod Division will retire on March 31 and be succeeded Tony Fadell.&nbsp;Fadell will report to Steve Jobs and take over all aspects of iPod engineering.&nbsp;</P>
+
+
+</FONT>
+
+
+<P>&quot;<FONT FACE="Myriad Apple Text,Times New Roman">I've worked with Jon for over 15 years, and we're going to miss him.&nbsp;Jon has done an excellent job as a member of Apple's senior management team, as well as building our world-class iPod engineering team and running our hardware engineering team prior to that,&quot;&nbsp;said Steve Jobs, Apple's CEO. &quot;Tony has been doing a superb job running a large part of the iPod engineering team, and we're expecting a very smooth transition.&quot;</P>
+
+
+</FONT>
+
+
+<FONT FACE="Myriad Apple Text,Times New Roman"><P>Cook joined Apple in 1998 as senior vice president of Operations, and was promoted to executive vice president of Worldwide Sales and Operations in 2002.&nbsp;His responsibilities were expanded to include leading Apple's Macintosh Division in 2004.&nbsp;Before joining Apple, Cook was a vice president at Compaq and also spent 12 years with IBM.&nbsp;Cook earned an M.B.A. from Duke University, where he was a Fuqua Scholar, and a Bachelor of Science degree in Industrial Engineering from Auburn University.</P>
+
+
+
+
+
+<P>Fadell joined Apple's iPod Engineering team in 2001 and was promoted to vice president of iPod engineering in 2004.&nbsp;Prior to joining Apple,&nbsp;Fadell worked at Philips Electronics.&nbsp; Prior to joining Philips, Fadell&nbsp;was a hardware and software architect at General Magic. He graduated with a BS degree in Computer Engineering from the University of Michigan in 1991.</P>
+
+
+</FONT>
+
+
+<FONT FACE="Myriad Apple Text,Times New Roman"><P>Apple ignited the personal computer revolution in the 1970s with the Apple II and reinvented the personal computer in the 1980s with the Macintosh. Today, Apple continues to lead the industry in innovation with its award-winning desktop and notebook computers, OS X operating system, and iLife and professional applications. Apple is also spearheading the digital music revolution with its iPod portable music players and iTunes online music store.</P>
+
+
+</FONT>
+
+
+<FONT FACE="Myriad Apple Bold,Times New Roman"><P>Press Contact:</P>
+
+
+</FONT><FONT FACE="Myriad Apple Text,Times New Roman"><P>Steve Dowling</P>
+
+
+<P>Apple</P>
+
+
+<P>(408) 974-1896</P>
+
+
+<P>dowling@apple.com</P>
+
+
+</FONT>
+
+
+<FONT FACE="Myriad Apple Text,Times New Roman"><P>NOTE TO EDITORS: For additional information visit Apple's PR website (www.applw.com/pr/), or call Apple's Media Helpline at (408) 974-2042.</P>
+
+
+</FONT>
+
+
+<FONT FACE="Myriad Apple Text,Times New Roman" SIZE=1><P>&copy; 2005 Apple Computer, Inc. All rights reserved. Apple, the Apple logo, Mac, Mac OS, Macintosh and Power Mac are trademarks of Apple. Other company and product names may be trademarks of their respective owners. </P></FONT></BODY>
+
+
+</HTML>
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,781 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HABBcNe/LO/7LHXnZ4yzGzDmJ42WOB6bfxEl1LTw+tqWMZn4UmM5r4JMrH4OovpH
+ KXy/AQHpFvjodfucUDVxwg==
+
+<SEC-DOCUMENT>0001181431-09-028400.txt : 20090602
+<SEC-HEADER>0001181431-09-028400.hdr.sgml : 20090602
+<ACCEPTANCE-DATETIME>20090602170246
+ACCESSION NUMBER:		0001181431-09-028400
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20090527
+ITEM INFORMATION:		Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year
+FILED AS OF DATE:		20090602
+DATE AS OF CHANGE:		20090602
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLE INC
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10030
+		FILM NUMBER:		09868986
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4089961010
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APPLE COMPUTER INC
+		DATE OF NAME CHANGE:	19970808
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>rrd244383.htm
+<TEXT>
+
+
+<html><head>
+<title>Prepared By R.R. Donnelley Financial -- Form 8-K</title>
+</head>
+<body Bgcolor="white">
+
+<hr Size="4" Noshade Color="#000000" Align="left">
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="4" Color="#000000">
+<b>UNITED STATES </b></font></div>
+
+<div Align="center"><font Face="times New Roman" Size="4" Color="#000000">
+<b>SECURITIES AND EXCHANGE COMMISSION </b></font></div>
+
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>Washington, D.C. 20549 </b></font></div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="5" Color="#000000">
+<b>Form 8-K </b></font></div> <div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="4" Color="#000000">
+<b>Current Report </b></font></div>
+
+<div Align="center"><font Face="times New Roman" Size="4" Color="#000000">
+<b>Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 </b></font></div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+<b>Date of Report (Date of earliest event reported):&nbsp;&nbsp;05/27/2009 </b></font></div>
+
+
+
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="5" Color="#000000">
+<b>APPLE INC. </b></font></div>
+
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>(Exact name of registrant as specified in its charter)</b></font></div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+<b>Commission File Number:&nbsp;&nbsp;000-10030</b></font></div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><table Cellspacing="0" Cellpadding="0" Width="100%" Border="0">
+<tr>
+<td Valign="bottom" Width="59%" Align="center">
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000"><b>CA</b></font>
+</div>
+</td>
+<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;&nbsp;</font>
+</td>
+<td Valign="bottom" Width="59%" Align="center">
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000"><b>94-2404110</b></font>
+</div>
+</td>
+</tr>
+
+<tr>
+<td Valign="top" Align="center" Width="59%">
+<div Style="margin-left:2%; Text-indent:-2%" Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>(State or other jurisdiction of</b></font>
+</div>
+</td>
+<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;&nbsp;</font>
+</td>
+<td Valign="bottom" Align="center" Width="59%">
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000"><b>(IRS Employer</b></font>
+</div>
+</td>
+</tr>
+
+<tr>
+<td Valign="top" Align="center" Width="59%">
+<div Style="margin-left:2%; Text-indent:-2%" Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>incorporation)</b></font>
+</div>
+</td>
+<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;&nbsp;</font>
+</td>
+<td Valign="bottom" Align="center" Width="59%">
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>Identification No.)</b></font>
+</div>
+</td>
+</tr>
+
+</table></div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+<b>1 Infinite Loop, Cupertino, CA 95014</b></font></div>
+
+
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>(Address of principal executive offices, including zip code)</b></font>
+</div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+<b>(408) 996-1010 </b></font>
+</div>
+
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>(Registrant&#146;s telephone number, including area code)</b></font>
+</div>
+
+
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+<b> </b></font>
+</div>
+
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>(Former name or former address, if changed since last report) </b></font>
+</div>
+
+
+<div><font Size="1">&nbsp;</font>
+</div>
+
+
+
+
+<div Align="left"><font Face="times New Roman" Size="2" Color="#000000">
+<b>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:<BR><BR>
+</b></font>
+
+
+</div>
+
+
+
+<div Align="left"><font Face="times New Roman" Size="2" Color="#000000">
+<b>[&nbsp;&nbsp;]&nbsp;&nbsp;
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)<BR><BR>
+
+[&nbsp;&nbsp;]&nbsp;&nbsp;
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)<BR><BR>
+
+
+[&nbsp;&nbsp;]&nbsp;&nbsp;
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))<BR><BR>
+
+
+[&nbsp;&nbsp;]&nbsp;&nbsp;
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+</b>
+
+</font>
+</div>
+
+
+
+
+
+<div><font Size="1">&nbsp;</font>
+</div>
+
+<hr Size="4" Noshade Color="#000000" Align="left">
+
+
+<p Style='page-break-before:always'>
+<p Align="center">
+
+
+
+
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div align="left"><font Face="times New Roman" Size="2" Color="#000000">
+<b>Item 5.03.&nbsp;&nbsp;&nbsp;&nbsp;Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year</b></font>
+</div>
+
+<div><font Size="1">&nbsp;</font>
+</div>
+
+<div  align="left" Style="text-indent:4%"><font Face="times New Roman" Size="2" Color="#000000">
+On May 27, 2009, the Board of Directors of Apple Inc. (the "Company") adopted the Amended Bylaws of the Company, amending Article V, Section 5.14 of the Company's existing Bylaws to clarify the requirements for shareholders to disclose their beneficial ownership and derivative positions with respect to shares of the Company's capital stock in any notice to the Company for director nominations and other business intended to be brought before a shareholder meeting, and making other conforming and minor procedural changes.<p>A copy of the Amended Bylaws, effective May 27, 2009, is attached hereto as Exhibit 3.1 and is incorporated herein by reference.</font>
+</div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+
+
+<hr  Size="3" Color="#cceeff" Width="100%" Align="center">
+<p Align="center"><font Size="2">&nbsp;</font>
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>SIGNATURES </b></font>
+</div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div align="left" Style="text-indent:4%"><font Face="times New Roman" Size="2" Color="#000000">
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized. </font>
+</div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div><table Cellspacing="0" Cellpadding="0" Width="100%" Border="0">
+
+
+
+
+<tr>
+	<td Valign="top" Colspan="3" Width="53%"> <div Style="margin-left:2%; Text-indent:-2%"><font Face="times New Roman" Size="2" Color="#000000"></font>
+	</div>
+	</td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font>
+	</td>
+	<td> <font Size="1">&nbsp;</font>
+	</td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font>
+	</td>	<td Valign="top" Align="center" Width="3%">
+	<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+	</font>
+	</div>
+	</td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td Valign="top" Width="53%">
+	<div Style="margin-left:2%; Text-indent:-2%"><font Face="times New Roman" Size="2" Color="#000000">
+	APPLE INC.</font>
+	</div>	</td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+	<td Valign="top" Colspan="3" Width="53%"> <div Style="margin-left:2%; Text-indent:-2%"><font Face="times New Roman" Size="2" Color="#000000">
+	Date: June 02, 2009</font>
+	</div>
+	</td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font>
+	</td>
+	<td> <font Size="1">&nbsp;</font>
+	</td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font>
+	</td>	<td Valign="top" Align="center" Width="3%">
+	<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+	By:</font>
+	</div>
+	</td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td Valign="top" Width="53%">
+	<div Style="margin-left:2%; Text-indent:-2%"><font Face="times New Roman" Size="2" Color="#000000">
+	/s/&nbsp;&nbsp;&nbsp;&nbsp;Daniel Cooperman</font>
+	</div>
+	<hr Noshade Align="left" Color="#000000">
+	</td>
+</tr>
+
+<tr>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="53%">
+	<div Style="margin-left:2%; Text-indent:-2%"><font Face="times New Roman" Size="2" Color="#000000">
+	Daniel Cooperman</font>
+	</div>
+	</td>
+</tr>
+
+<tr>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="53%">
+	<div><font Face="times New Roman" Size="2" Color="#000000">Senior Vice President, General Counsel and Secretary</font>
+	</div>
+</td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td></tr>
+
+
+
+</table></div>
+
+
+
+
+
+<p Style='page-break-before:always'>
+<hr  Size="3" Color="#cceeff" Width="100%" Align="center">
+
+<p Align="center"><font Size="2">&nbsp;</font>
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+<b>Exhibit Index </b></font>
+</div>
+
+<div><font Size="2">&nbsp;</font></div>
+
+<div Align="center">
+<table Cellspacing="0" Cellpadding="0" Width="100%" Border="0">
+
+
+
+
+<tr>
+	<td Valign="top" Align="left">
+	<div Align="left"><font Face="times New Roman" Size="2" Color="#000000">
+	<b>Exhibit&nbsp;No.</b></font>
+	</div>
+		<hr Size="2" Noshade Width="48" Color="#000000">
+	</td>
+	<td Valign="top" Width="3%" Align="left"><font Face="times New Roman" Size="2">&nbsp;&nbsp;</font></td>
+	<td Valign="top" Width="100%" Align="left">
+	<div><font Face="times New Roman" Size="2" Color="#000000">
+	<b>Description</b></font>
+	</div>
+	<hr Size="2" Noshade Width="73" Align="left" Color="#000000">
+	</td>
+</tr>
+
+
+
+
+<tr>
+	<td Valign="top" Align="left">
+	<div Align="top"><font Face="times New Roman" Size="1" Color="#000000">
+	EX-3.1</font>
+	</div>
+
+	</td>
+	<td Valign="top" Width="3%" Align="left"><font Face="times New Roman" Size="2">&nbsp;&nbsp;</font></td>
+	<td Valign="top" Width="100%" Align="left">
+	<div><font Face="times New Roman" Size="2" Color="#000000">
+	Amended Bylaws of the Registrant (as of May 27, 2009)</font>
+	</div>
+		</td>
+</tr>
+
+
+
+
+
+</table></div>
+
+
+
+</body></html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3.1
+<SEQUENCE>2
+<FILENAME>rrd244383_28555.htm
+<DESCRIPTION>AMENDED BYLAWS OF THE REGISTRANT (AS OF MAY 27, 2009)
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>BYLAWS </TITLE>
+</HEAD>
+<BODY>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<B><P ALIGN="CENTER">AMENDED BYLAWS</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">OF</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">APPLE INC.</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">(as of May 27, 2009)</P>
+</B>
+<P>&nbsp;</P>
+<OL TYPE="I">
+<LI><A NAME="_Toc182195483"><B><BR>
+<BR>
+<A NAME="_Toc105565801">CORPORATE OFFICES</A></A></LI>
+<OL>
+<LI><A NAME="_Toc182195484"><A NAME="_Toc105565802"><I>Principal Office</A></A></LI>
+</B></I><P>The Board of Directors shall fix the location of the principal executive office of Apple Inc. (the &quot;<U>Corporation</U>&quot;) at any place within or outside the State of California.  If the principal executive office is located outside California and the Corporation has one or more business offices in California, then the Board of Directors shall fix and designate a principal business office in California.</P>
+<LI><A NAME="_Toc182195485"><A NAME="_Toc105565803"><B><I>Other Offices</A></A></LI></OL>
+</B></I><P>The Board of Directors may at any time establish branch or subordinate offices at any place or places.</P>
+<LI><A NAME="_Toc182195486"><B><BR>
+<BR>
+<A NAME="_Toc105565804">DIRECTORS</A></A></LI>
+<OL>
+<LI><A NAME="_Toc182195487"><A NAME="_Toc105565805"><I>Powers</A></A></LI>
+</B></I><P ALIGN="JUSTIFY">Subject to the provisions of the California Corporation Code (the &quot;<U>Code</U>&quot;), any limitations in the Restated Articles of Incorporation (the &quot;<U>Articles of Incorporation</U>) and these Amended Bylaws (these &quot;<U>Bylaws</U>&quot;) relating to action required to be approved by the shareholders or by the outstanding shares, the business and affairs of the Corporation shall be managed and all corporate powers shall be exercised under the direction of the Board of Directors.  The Board of Directors may delegate the management of the day-to-day operation of the business of the Corporation to a management company or other person provided that the business and affairs of the Corporation shall be managed and all corporate powers shall be exercised under the ultimate direction of the Board of Directors.</P>
+<LI><A NAME="_Toc182195488"><A NAME="_Toc105565806"><B><I>Number</A></A></LI>
+</B></I><P>The number of directors of the Corporation shall be not less than five (5) nor more than nine (9).  The exact number of directors shall be eight (8) until changed within the limits specified above, by a bylaw amending this <U>Section 2.2</U>, duly adopted by the Board of Directors or by the shareholders.  The indefinite number of directors may be changed, or a definite number fixed without provision for an indefinite number, by a duly adopted amendment to the Articles of Incorporation or by amendment to these Bylaws duly adopted by the vote or written consent of holders of a majority of the outstanding shares entitled to vote; provided, however, that an amendment reducing the fixed number or the minimum number of directors to a number less than five (5) cannot be adopted if the votes cast against its adoption at a meeting of the shareholders, or the shares not consenting in the case of action by written consent, are equal to more than sixteen and two-thirds percent (16-2/3%) of the outstanding sha
+res entitled to vote.  No amendment may change the stated maximum number of authorized directors to a number greater than two times the stated minimum number of directors minus one.</P>
+<LI><A NAME="_Toc182195489"><A NAME="_Toc105565807"><B><I>Compensation</A></A></LI>
+</B></I><P>Directors and members of committees may receive such compensation, if any, for their services, and may be reimbursed for expenses, as fixed or determined by resolution of the Board of Directors.  This <U>Section&nbsp;2.3</U> shall not be construed to preclude any director from serving the Corporation in any other capacity and receiving compensation for those services.</P>
+<LI><A NAME="_Toc182195490"><A NAME="_Toc105565808"><B><I>Election and Term of Office</A></A></LI>
+</B></I><P>Each director shall be elected to serve until the annual meeting of shareholders held in the following fiscal year and until his or her successor shall have been duly elected and qualified.</P>
+<LI><A NAME="_Toc182195491"><A NAME="_Toc105565809"><B><I>Vacancies and Resignations</A></A></LI>
+<OL TYPE="a">
+</B></I><P ALIGN="JUSTIFY"><LI>A vacancy or vacancies on the Board of Directors shall be deemed to exist (i) in the event of the death, resignation or removal of any director, (ii) if the authorized number of directors is increased, (iii) if the shareholders fail, at any meeting of shareholders at which any director or directors are elected, to elect the full authorized number of directors to be elected at that meeting or (iv) if the Board of Directors declares vacant the office of a director who has been declared of unsound mind by an order of court or convicted of a felony.</LI></P>
+<P ALIGN="JUSTIFY"><LI>Except for a vacancy caused by the removal of a director as provided in <U>Section&nbsp;2.6</U> of these Bylaws, a vacancy may be filled (i) by a person selected by a majority of the remaining directors then in office, whether or not less than a quorum or (ii) by a sole remaining director.  Vacancies created by the removal of a director shall be filled only by the affirmative vote of shares holding a majority of the voting power represented and voting a duly held meeting at which a quorum is present (which shares voting affirmatively also constitute a least a majority of the voting power required to constitute a quorum), or by the unanimous written consent of all shares entitled to vote thereon.  </LI></P>
+<P ALIGN="JUSTIFY"><LI>The shareholders may elect a director at any time to fill a vacancy or vacancies not filled by the directors, but any such election by written consent, other than to fill a vacancy created by removal, shall require the consent of shares holding a majority of the voting power that are entitled to vote thereon.  A director may not be elected by written consent to fill a vacancy created by removal except by unanimous consent of all shares entitled to vote for the election of directors.</LI></P>
+<P ALIGN="JUSTIFY"><LI>Any director may resign effective upon giving written notice to the General Counsel and Secretary of the Corporation, unless the notice specifies a later time for the effectiveness of such resignation.  If the resignation of a director is effective at a future time, the Board of Directors may elect a successor to take office when the resignation becomes effective.  A reduction of the authorized number of directors shall not remove any director prior to the expiration of such director's term of office.</LI></P></OL>
+<LI><A NAME="_Toc182195492"><A NAME="_Toc105565810"><B><I>Removal</A></A></LI></OL>
+</B></I><P>The entire Board of Directors or any individual director may be removed without cause from office by an affirmative vote of a majority of the outstanding shares entitled to vote; provided that, unless the entire Board of Directors is removed, no director shall be removed when the votes cast against removal, or not consenting in writing to such removal, would be sufficient to elect such director if voted cumulatively (without regard to whether such shares may be voted cumulatively) at an election at which the same total number of votes were cast, or, if such action is taken by written consent, all shares entitled to vote were voted, and either the number of directors elected at the most recent annual meeting of shareholders, or if greater, the number of directors for whom removal is being sought, were then being elected. If any or all directors are so removed, new directors may be elected at the same meeting or at a subsequent meeting. If at any time a class or series of shares is entitled to elect
+ one or more directors under authority granted by the Articles of Incorporation, the provisions of this <U>Section&nbsp;2.6</U> shall apply to the vote of that class or series and not to the vote of the outstanding shares as a whole.</P>
+<LI><A NAME="_Toc182195493"><B><BR>
+<BR>
+<A NAME="_Toc105565811">OFFICERS</A></A></LI>
+<OL>
+<LI><A NAME="_Toc182195494"><A NAME="_Toc105565812"><I>Officers</A></A></LI>
+</B></I><P>The officers of the Corporation shall be a Chief Executive Officer or a President, a Secretary and a Chief Financial Officer.  The Corporation may also have, at the discretion of the Board of Directors, a Chairman of the Board of Directors, one or more Vice Presidents, a Treasurer, one or more Assistant Secretaries and one or more Assistant Treasurers and such officers as may be appointed in accordance with the provisions of <U>Section&nbsp;3.3</U> of these Bylaws.  Any number of offices may be held by the same person.</P>
+<LI><A NAME="_Toc182195495"><A NAME="_Toc105565813"><B><I>Appointment of Officers</A></A></LI>
+</B></I><P>The officers of the Corporation, except such officers as may be appointed in accordance with the provisions of <U>Section 3.3</U> of these Bylaws, shall be chosen by the Board of Directors and serve at the pleasure of the Board of Directors, subject to the rights, if any, of an officer under any contract of employment.</P>
+<LI><A NAME="_Toc182195496"><A NAME="_Toc105565814"><B><I>Subordinate Officers</A></A></LI>
+</B></I><P>The Board of Directors may appoint, or may empower the Chairman of the Board of Directors, the Chief Executive Officer or the President to appoint such other officers as the business of the Corporation may require, each of whom shall hold office for such period, have such authority and perform such duties as are provided in these Bylaws or as the Board of Directors may from time to time determine.</P>
+<LI><A NAME="_Toc182195497"><A NAME="_Toc105565815"><B><I>Term of Office and Compensation</A></A></LI>
+</B></I><P>The term of office and salary of each of said officers and the manner and time of the payment of such salaries shall be fixed and determined by the Board of Directors and may be altered by the Board of Directors from time to time at its pleasure, subject to the rights, if any, of an officer under any contract of employment.</P>
+<LI><A NAME="_Toc182195498"><A NAME="_Toc105565816"><B><I>Removal or Resignation</A></A></LI>
+<OL TYPE="a">
+</B></I><P ALIGN="JUSTIFY"><LI>Subject to the rights, if any, of an officer under any contract of employment, all officers serve at the pleasure of the Board of Directors and any officer may be removed, either with or without cause, by the Board of Directors at any regular or special meeting of the Board of Directors, or, except in the case of an officer chosen by the Board of Directors, by any officer upon whom such power of removal may be conferred by the Board of Directors.</LI></P>
+<LI>Any officer may resign at any time upon written notice to the Corporation, without prejudice to the rights, if any, of the Corporation under any contract to which the officer is a party.  Any resignation shall take effect at the date of the receipt of that notice or at any later time specified in that notice, and, unless otherwise necessary to make it effective, the acceptance of the resignation shall not be necessary to make it effective.</LI></OL>
+<LI><A NAME="_Toc182195499"><A NAME="_Toc105565817"><B><I>Vacancies</A></A></LI>
+</B></I><P>A vacancy in any office because of death, resignation, removal, disqualification or any other cause shall be filled in the manner prescribed by these Bylaws for regular appointments to that office.</P>
+<LI><A NAME="_Toc182195500"><A NAME="_Toc105565818"><B><I>Chairman of the Board</A></A></LI>
+</B></I><P>The Chairman of the Board of Directors, if there be one, shall have the power to preside at all meetings of the Board of Directors and shall have such other powers and shall be subject to such other duties as the Board of Directors may from time to time prescribe or as may be prescribed by these Bylaws.  If there is not a President or a Chief Executive Officer, then the Chairman of the Board of Directors shall also be the chief executive officer of the Corporation and shall have the powers and duties prescribed in <U>Section&nbsp;3.8</U> of these Bylaws.</P>
+<LI><A NAME="_Toc182195501"><A NAME="_Toc105565819"><B><I>Chief Executive Officer</A></A></LI>
+</B></I><P>The powers and duties of the Chief Executive Officer are:</P>
+<OL TYPE="a">
+<P ALIGN="JUSTIFY"><LI>To act as the general manager and chief executive officer of the Corporation and, subject to the control of the Board of Directors, to have general supervision, direction and control of the business and affairs of the Corporation.</LI></P>
+<P ALIGN="JUSTIFY"><LI>To preside at all meetings of the shareholders and, in the absence of the Chairman of the Board of Directors or if there be no Chairman of the Board of Directors, at all meetings of the Board of Directors.</LI></P>
+<P ALIGN="JUSTIFY"><LI>To call meetings of the shareholders and meetings of the Board of Directors to be held at such times and, subject to the limitations prescribed by law or by these Bylaws, at such places as he or she shall deem proper.</LI></P>
+<P ALIGN="JUSTIFY"><LI>To affix the signature of the Corporation to all deeds, conveyances, mortgages, leases, obligations, bonds, certificates and other papers and instruments in writing which have been authorized by the Board of Directors or which, in the judgment of the Chief Executive Officer, should be executed on behalf of the Corporation; to sign certificates for shares of stock of the Corporation; and, subject to the direction of the Board of Directors, to have general charge of the property of the Corporation and to supervise and control all officers, agents and employees of the Corporation.</LI></P></OL>
+<LI><A NAME="_Toc182195502"><A NAME="_Toc105565820"><B><I>President</A></A></LI>
+</B></I><P>The powers and duties of the President are:</P>
+<OL TYPE="a">
+<P ALIGN="JUSTIFY"><LI>To act as the general manager of the Corporation and, subject to the control of the Board of Directors, to have general supervision, direction and control of the business and affairs of the Corporation.</LI></P>
+<P ALIGN="JUSTIFY"><LI>To preside at all meetings of the shareholders and, in the absence of the Chairman of the Board of Directors and the Chief Executive Officer or if there be no Chairman of the Board of Directors or Chief Executive Officer, at all meetings of the Board of Directors.</LI></P>
+<P ALIGN="JUSTIFY"><LI>To affix the signature of the Corporation to all deeds, conveyances, mortgages, leases, obligations, bonds, certificates and other papers and instruments in writing which have been authorized by the Board of Directors or which, in the judgment of the President, should be executed on behalf of the Corporation; to sign certificates for shares of stock of the Corporation; and, subject to the direction of the Board of Directors, to have general charge of the property of the Corporation and to supervise and control all officers, agents and employees of the Corporation.</LI></P></OL>
+<LI><A NAME="_Toc182195503"><A NAME="_Toc105565821"><B><I>President Pro Tem</A></A></LI>
+</B></I><P>If neither the Chairman of the Board of Directors, the Chief Executive Officer, the President, nor any Vice President is present at any meeting of the Board of Directors, a President pro tem may be chosen to preside and act at such meeting. If neither the Chief Executive Officer, the President nor any Vice President is present at any meeting of the shareholders, a President pro tem may be chosen to preside at such meeting.</P>
+<LI><A NAME="_Toc182195504"><A NAME="_Toc105565822"><B><I>Vice President</A></A></LI>
+</B></I><P>The titles, powers and duties of the Vice President or Vice Presidents shall be prescribed by the Board of Directors.  In case of the absence, disability or death of the Chief Executive Officer, the President, the Vice President, or one of the Vice Presidents, shall exercise all his or her powers and perform all his or her duties. If there is more than one Vice President, the order in which the Vice Presidents shall succeed to the powers and duties of the Chief Executive Officer or President shall be as fixed by the Board of Directors.</P>
+<LI><A NAME="_Toc182195505"><A NAME="_Toc105565823"><B><I>Secretary</A></A></LI>
+</B></I><P>The powers and duties of the Secretary are:</P>
+<OL TYPE="a">
+<P ALIGN="JUSTIFY"><LI>To keep a book of minutes at the principal executive office of the Corporation, or such other place as the Board of Directors may order, of all meetings of its directors and shareholders with the time and place of holding, whether regular or special, and, if special, how authorized, the notice thereof given, the names of those present at directors' meetings, the number of shares present or represented at shareholders' meetings and the proceedings thereof.</LI></P>
+<P ALIGN="JUSTIFY"><LI>To keep the seal of the Corporation and to affix the same to all instruments which may require it.</LI></P>
+<P ALIGN="JUSTIFY"><LI>To keep or cause to be kept at the principal executive office of the Corporation, or at the office of the transfer agent or agents, a record of the shareholders of the Corporation, giving the names and addresses of all shareholders and the number and class of shares held by each shareholder, the number and date of certificates issued for shares, appropriate records with respect to uncertificated shares issued, the number and date of cancellation of every certificate surrendered for cancellation and the number and date of every replacement certificate or the appropriate records for uncertificated shares issued for lost, stolen or destroyed certificates.</LI></P>
+<P ALIGN="JUSTIFY"><LI>To keep a supply of certificates for shares of the Corporation, to fill in all certificates issued or prepare the initial transaction statement or written statements for uncertificated shares, and to make a proper record of each such issuance; provided that so long as the Corporation shall have one or more duly appointed and acting transfer agents of the shares, or any class or series of shares, of the Corporation, such duties with respect to such shares shall be performed by such transfer agent or transfer agents.</LI></P>
+<P ALIGN="JUSTIFY"><LI>To transfer upon the share books of the Corporation or in book-entry form in accordance with the direct registration system as provided in <U>Section&nbsp;7.4(b)</U> of these Bylaws any and all shares of the Corporation; provided that so long as the Corporation shall have one or more duly appointed and acting transfer agents of the shares, or any class or series of shares, of the Corporation, such duties with respect to such shares shall be performed by such transfer agent or transfer agents, and the method of transfer of each certificated or uncertificated share shall be subject to the reasonable regulations of the transfer agent to which the certificated or uncertificated shares are presented for transfer and, also, if the Corporation then has one or more duly appointed and acting registrars, subject to the reasonable regulations of the registrar to which a new certificate or a new issuance of uncertificated shares is presented for registration; and provided, further, that no certifi
+cate for shares of stock and no uncertificated shares shall be issued, recorded or delivered or, if issued, recorded or delivered, shall have any validity whatsoever until and unless it has been signed or authenticated, as applicable, in the manner provided in <U>Section&nbsp;7.4</U> of these Bylaws.</LI></P>
+<P ALIGN="JUSTIFY"><LI>To make service and publication of all notices that may be necessary or proper and without command or direction from anyone. In case of the absence, disability, refusal or neglect of the Secretary to make service or publication of any notices, then such notices may be served and/or published by the Chief Executive Officer, the President or a Vice President, or by any person thereunto authorized by either of them or by the Board of Directors or by the holders of a majority of the outstanding shares of the Corporation.</LI></P>
+<P ALIGN="JUSTIFY"><LI>Generally to do and perform all such duties as pertain to such office and as may be required by the Board of Directors or these Bylaws.</LI></P></OL>
+<LI><A NAME="_Toc182195506"><A NAME="_Toc105565824"><B><I>Chief Financial Officer</A></A></LI>
+</B></I><P>The powers and duties of the Chief Financial Officer are:</P>
+<OL TYPE="a">
+<P ALIGN="JUSTIFY"><LI>To supervise and control the keeping and maintaining of adequate and correct accounts of the Corporation's properties and business transactions, including accounts of its assets, liabilities, receipts, disbursements, gains, losses, capital, surplus and shares. The books of account shall at all reasonable times be open to inspection by any director.</LI></P>
+<P ALIGN="JUSTIFY"><LI>To have the custody of all funds, securities, evidences of indebtedness and other valuable documents of the Corporation and, at his or her discretion, to cause any or all thereof to be deposited for the account of the Corporation with such depository as may be designated from time to time by the Board of Directors.</LI></P>
+<P ALIGN="JUSTIFY"><LI>To receive or cause to be received, and to give or cause to be given, receipts and acquittances for moneys paid in for the account of the Corporation.</LI></P>
+<P ALIGN="JUSTIFY"><LI>To disburse, or cause to be disbursed, all funds of the Corporation as may be directed by the Chief Executive Officer, the President or the Board of Directors, taking proper vouchers for such disbursements.</LI></P>
+<P ALIGN="JUSTIFY"><LI>To render to the Chief Executive Officer, the President or to the Board of Directors, whenever either may require, accounts of all transactions as Chief Financial Officer and of the financial condition of the Corporation.</LI></P>
+<P ALIGN="JUSTIFY"><LI>Generally to do and perform all such duties as pertain to such office and as may be required by the Board of Directors or these Bylaws.</LI></P></OL>
+<LI><A NAME="_Toc182195507"><A NAME="_Toc105565825"><B><I>Officers Appointed by Chief Executive Officer</A></A></LI>
+<OL TYPE="a">
+</B></I><P ALIGN="JUSTIFY"><LI>The Chief Executive Officer of the Corporation shall have the power, in the exercise of his or her discretion, to appoint additional persons to hold positions and titles such as vice president of the Corporation or a division of the Corporation or president of a division of the Corporation, or similar such titles, as the business of the Corporation may require, subject to such limits in appointment power as the Board of Directors may determine. The Board of Directors shall be advised of any such appointment at a meeting of the Board of Directors, and the appointment shall be noted in the minutes of the meeting. The minutes shall clearly state that such persons are non-corporate officers appointed pursuant to this <U>Section&nbsp;3.14</U>.</LI></P>
+<P ALIGN="JUSTIFY"><LI>Each such appointee shall have such title, shall serve in such capacity and shall have such authority and perform such duties as the Chief Executive Officer shall determine. Appointees may hold titles such as &quot;president&quot; of a division or other group within the Corporation, or &quot;vice president&quot; of the Corporation or of a division or other group within the Corporation. However, any such appointee, absent specific election by the Board of Directors as an elected corporate officer, (i) shall not be considered an officer elected by the Board of Directors pursuant to this <U>Article III</U> and shall not have the executive powers or authority of corporate officers elected pursuant to this <U>Article III</U>, (ii) shall not be considered (a)&nbsp;an &quot;officer&quot; of the Corporation for the purposes of Rule 3b-2 promulgated under the Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated thereunder (collectively, the &quot;<U>Exchange Ac
+t</U>&quot;) or an &quot;executive officer&quot; of the Corporation for the purposes of Rule 3b-7 promulgated under the Exchange Act, and similarly shall not be considered an &quot;officer&quot; of the Corporation for the purposes of Section 16 of the Exchange Act (as such persons shall not be given the access to inside information of the Corporation enjoyed by officers of the Corporation) or an &quot;executive officer&quot; of the Corporation for the purposes of Section 14 of the Exchange Act or (b) a &quot;corporate officer&quot; for the purposes of Section 312 of the Code, except in any such case as otherwise required by law, and (iii) shall be empowered to represent himself or herself to third parties as an appointed vice president, etc., only, and shall be empowered to execute documents, bind the Corporation or otherwise act on behalf of the Corporation only as authorized by the Chief Executive Officer or the President or by resolution of the Board of Directors.</LI></P>
+<P ALIGN="JUSTIFY"><LI>An elected officer of the Corporation may also serve in an appointed capacity hereunder.</LI></P></OL>
+<LI><A NAME="_Toc182195508"><A NAME="_Toc105565826"><B><I>Removal of Directors</A></A></LI></OL>
+</B></I><P>Unless otherwise restricted by statute, by the certificate of incorporation or by these bylaws, any director or the entire board of directors may be removed, with or without cause, by the holders of a majority of the shares then entitled to vote at an election of directors.  No reduction of the authorized number of directors shall have the effect of removing any director prior to the expiration of such director's term of office.</P>
+<LI><A NAME="_Toc182195509"><B><BR>
+<BR>
+<A NAME="_Toc105565827">COMMITTEES</A></A></LI>
+<OL>
+<LI><A NAME="_Toc182195510"><A NAME="_Toc105565828"><I>Committees of the Board of Directors</A></A></LI>
+</B></I><P>The Board of Directors may, by resolution adopted by a majority of the authorized number of directors, designate one or more committees, each consisting of two (2) or more directors, to serve at the pleasure of the Board of Directors.  The Board of Directors may designate one or more directors as alternate members of any committee, who may replace any absent member at any meeting of the committee.  The appointment of members or alternate members of a committee requires the vote of a majority of the authorized number of directors.  Any such committee shall have authority to act in a manner and to the extent provided in the resolution of the Board of Directors and may have all the authority of the Board of Directors, except with respect to:</P>
+<OL TYPE="a">
+<P ALIGN="JUSTIFY"><LI>the approval of any action which, under the Code, also requires shareholders' approval or approval of the outstanding shares;</LI></P>
+<P ALIGN="JUSTIFY"><LI>the filling of vacancies on the Board of Directors or in any committee;</LI></P>
+<P ALIGN="JUSTIFY"><LI>the fixing of compensation of the director for serving on the Board of Directors or on any committee;</LI></P>
+<P ALIGN="JUSTIFY"><LI>the amendment or repeal of these Bylaws or the adoption of new bylaws;</LI></P>
+<P ALIGN="JUSTIFY"><LI>the amendment or repeal of any resolution of the Board of Directors which by its express terms is not so amendable or repealable;</LI></P>
+<P ALIGN="JUSTIFY"><LI>a distribution to the shareholders of the Corporation, except at a rate, in a periodic amount or within a price range set forth in the Articles of Incorporation or determined by the Board of Directors; and</LI></P>
+<P ALIGN="JUSTIFY"><LI>the appointment or designation of any other committee of the Board of Directors or the members thereof.</LI></P></OL>
+</OL>
+<LI><A NAME="_Toc182195511"><B><BR>
+<BR>
+<A NAME="_Toc105565829">MEETINGS OF SHAREHOLDERS</A></A></LI>
+<OL>
+<LI><A NAME="_Toc182195512"><A NAME="_Toc105565830"><I>Place of Meetings</A></A></LI>
+<OL TYPE="a">
+</B></I><P ALIGN="JUSTIFY"><LI>Meetings (whether regular, special or adjourned) of the shareholders of the Corporation shall be held at the principal executive office for the transaction of business of the Corporation, or at any place within or without the State which may be designated by written consent of all the shareholders entitled to vote thereat, or which may be designated by resolution of the Board of Directors. Any meeting shall be valid wherever held if held by the written consent of all the shareholders entitled to vote thereat, given either before or after the meeting and filed with the Secretary.</LI></P>
+<P ALIGN="JUSTIFY"><LI>A meeting of the shareholders may be conducted in whole or in part, by electronic transmission by and to the Corporation or by electronic video screen communication if:</LI></P>
+<OL TYPE="i">
+<P ALIGN="JUSTIFY"><LI>the Corporation implements reasonable measures to provide shareholders (in person or by proxy) a reasonable opportunity to participate in the meeting and to vote on matters submitted to the shareholders; and</LI></P>
+<P ALIGN="JUSTIFY"><LI>the Corporation maintains a record of the vote or action and any shareholder votes or other shareholder action is taken at the meeting by means of electronic transmission to the Corporation or electronic video screen communication.</LI></P></OL>
+</OL>
+<P>Any request by the Corporation to a shareholder under Section 20(b) of the Code for consent to conduct a meeting of shareholders by electronic transmission must include a notice that absent consent of the shareholder, the meeting will be held at a physical location.</P>
+<P ALIGN="JUSTIFY"><LI><A NAME="_Toc182195513"><A NAME="_Toc105565831"><B><I>Annual Meetings</A></A></LI></P>
+</B></I><P>An annual meeting of shareholders shall be held each year on a date and at a time designated by the Board of Directors.  The annual meeting shall be held for the purpose of electing directors and for making reports of the affairs of the Corporation.  Any other proper business may be transacted at the annual meeting of shareholders.</P>
+<LI><A NAME="_Toc182195514"><A NAME="_Toc105565832"><B><I>Special Meetings</A></A></LI>
+</B></I><P>Special meetings of the shareholders for any purpose or purposes whatsoever may be called at any time by the President or by the Board of Directors, or by two or more members thereof, or by one or more holders of shares entitled to cast not less than ten percent (10%) of the votes on the record date established pursuant to <U>Section 5.9</U> of these Bylaws. Upon request in writing sent by registered mail to the Chief Executive Officer, President, Vice President or Secretary, or delivered to any such officer in person, by any person or persons entitled to call a special meeting of shareholders (such request, if sent by a shareholder or shareholders, to include the information required by <U>Section 5.14</U> of these Bylaws), it shall be the duty of such officer, subject to the immediately succeeding sentence, to cause notice to be given to the shareholders entitled to vote that a meeting will be requested by the person or persons calling the meeting, the date of which meeting, which shall be set b
+y such officer, to be not less than thirty-five (35) days nor more than sixty (60) days after such request or, if applicable, determination of the validity of such request pursuant to the immediately succeeding sentence. Within seven (7) days after receiving such a written request from a shareholder or shareholders of the Corporation, the Board of Directors shall determine whether shareholders owning not less than ten percent (10%) of the shares as of the record date established pursuant to <U>Section&nbsp;5.9</U> of these Bylaws for such request support the call of a special meeting and notify the requesting party or parties of its finding.  Nothing contained in this paragraph of this <U>Section 5.3</U> shall be construed as limiting, fixing or affecting the time when a meeting of shareholders called by action of the Board of Directors may be held.</P>
+<LI><A NAME="_Toc182195515"><A NAME="_Toc105565833"><B><I>Notice of Meetings</A></A></LI>
+</B></I><P>Notice of any meeting of shareholders shall be given in writing not less than ten (10) nor more than sixty (60) days before the date of the meeting to each shareholder entitled to vote thereat by the Secretary or an Assistant Secretary, or other person charged with that duty, or if there be no such officer or person, or in case of his or her neglect or refusal, by any director or shareholder.  The notice shall state the place, date and hour of the meeting and (a)&nbsp;in the case of a special meeting, the general nature of the business to be transacted, and no other business may be transacted, or (b)&nbsp;in the case of the annual meeting, those matters which the Board of Directors, at the time of the mailing of the notice, intends to present for action by the shareholders, but any proper matter may be presented at the meeting for such action except as otherwise provided by Section 601(f) of the Code.  The notice of any meeting at which directors are to be elected shall include the names of nomine
+es intended at the time of the notice to be presented by management for election.  If the meeting is to be held in whole or in part by electronic transmission, the notice shall state the means of electronic transmission by and to the Corporation to electronic video screen communication, if any, by which shareholders may participate in the meeting.</P>
+<LI><A NAME="_Toc182195516"><A NAME="_Toc105565834"><B><I>Manner of Giving Notice; Affidavit of Notice</A></A></LI>
+</B></I><P>Written notice shall be given by the Corporation to any shareholder, either (a) personally or (b) by mail or other means of written communication (including electronic transmission by the Corporation), charges prepaid, addressed to such shareholder at such shareholder's physical or electronic address appearing on the books of the Corporation or given by such shareholder to the Corporation for the purpose of notice.  If a shareholder gives no address or no such address appears on the books of the Corporation, notice shall be deemed to have been given if sent by mail or other means of written communication addressed to the place where the principal executive office of the Corporation is located, or if published at least once in a newspaper of general circulation in the county in which such office is located.  The notice shall be deemed to have been given at the time when delivered personally or deposited in the United States mail, postage prepaid, or sent by other means of written communication and 
+addressed as hereinbefore provided.  An affidavit of delivery or mailing, or other authorized means of transmitting, of any notice in accordance with the provisions of this <U>Section 5.5</U>, executed by the Secretary, Assistant Secretary or any transfer agent, shall be prima facie evidence of the giving of the notice.  If any notice addressed to the shareholder at the address of such shareholder appearing on the books of the Corporation is returned to the Corporation by the United States Postal Service marked to indicate that the United States Postal Service is unable to deliver the notice to the shareholder at such address, all future notices shall be deemed to have been duly given without further mailing if the same shall be available for the shareholder upon written demand of the shareholder at the principal executive office of the Corporation for a period of one year from the date of the giving of the notice to all other shareholders.  Notice shall not be given by electronic transmission by the Corpora
+tion after either one of the following: (i) the Corporation is unable to deliver two consecutive notices to the shareholder by that means or (ii) the inability to so deliver such notices to the shareholder becomes known to the Secretary, any Assistant Secretary, the transfer agent, or other person responsible for the giving of the notice.</P>
+<LI><A NAME="_Toc182195517"><A NAME="_Toc105565835"><B><I>Consent to Shareholders' Meetings</A></A></LI>
+</B></I><P>The transactions of any meeting of shareholders, however called and noticed, and wherever held, are as valid as though had at a meeting duly held after regular call and notice, if a quorum is present either in person or by proxy, and if, either before or after the meeting, each of the shareholders entitled to vote, not present in person or by proxy, signs a written waiver of notice or a consent to the holding of such meeting or an approval of the minutes thereof. All such waivers, consents or approvals shall be filed with the corporate records or made a part of the minutes of the meeting. Attendance of a person at a meeting shall constitute a waiver of notice of such meeting, except when the person objects, at the beginning of the meeting, to the transaction of any business because the meeting is not lawfully called or convened and except that attendance at a meeting is not a waiver of any right to object to the consideration of matters required by law to be included in the notice but not so inclu
+ded, if such objection is expressly made at the meeting. Neither the business to be transacted at nor the purpose of any regular or special meeting of shareholders need be specified in any written waiver of notice, except as to approval of contracts between the Corporation and any of its directors, amendment of the Articles of Incorporation, reorganization of the Corporation or winding up the affairs of the Corporation.</P>
+<LI><A NAME="_Toc182195518"><A NAME="_Toc105565836"><B><I>Quorum</A></A></LI>
+</B></I><P>The presence in person or by proxy of the holders of a majority of the shares entitled to vote at any meeting of shareholders shall constitute a quorum for the transaction of business.  Shares shall not be counted to make up a quorum for a meeting if voting of such shares at the meeting has been enjoined or for any reason they cannot be lawfully voted at the meeting.  The shareholders present at a duly called or held meeting at which a quorum is present may continue to transact business until adjournment notwithstanding the withdrawal of enough shareholders to leave less than a quorum, if any action taken (other than adjournment) is approved by at least a majority of the shares required to constitute a quorum.</P>
+<LI><A NAME="_Toc182195519"><A NAME="_Toc105565837"><B><I>Adjourned Meetings</A></A></LI>
+</B></I><P>Any shareholders' meeting, whether or not a quorum is present, may be adjourned from time to time by the vote of a majority of the shares, the holders of which are either present in person or represented by proxy thereat, but, except as provided in <U>Section 5.7</U> of these Bylaws, in the absence of a quorum, no other business may be transacted at such meeting.  When any meeting of shareholders, either annual or special, is adjourned to another time or place, notice need not be given of the adjourned meeting if its time and place (or the means of electronic transmission by and to the Corporation or electronic video screen communication, if any, by which the shareholders may participate) are announced at the meeting at which the adjournment is taken.  When a meeting is adjourned for more than forty-five (45) days or if after adjournment a new record date is fixed for the adjourned meeting, a notice of the time and place adjourned meeting shall be given to each shareholder of record entitled to vo
+te at a meeting.  At any adjourned meeting the shareholders may transact any business which might have been transacted at the original meeting.</P>
+<LI><A NAME="_Toc182195520"><A NAME="_Toc105565838"><B><I>Record Date for Shareholder Notice; Voting; Giving Consents</A></A></LI>
+<OL TYPE="a">
+</B></I><P ALIGN="JUSTIFY"><LI>In order that the Corporation may determine the shareholders entitled to notice of any meeting or to vote, the Board of Directors may fix, in advance, a record date, which shall not be more than sixty (60) days nor less than ten (10) days prior to the date of such meeting nor more than sixty (60) days before any other action.  Only shareholders of record at the close of business on the record date are entitled to notice of, and to vote at, a meeting of shareholders, notwithstanding any transfer of any shares on the books or the Corporation after the record date, except as otherwise provided by in the Articles of Incorporation or the Code. In the absence of any contrary provision in the Articles of Incorporation or in any applicable statute relating to the election of directors or to other particular matters, each such person shall be entitled to one vote for each share.</LI></P>
+<P ALIGN="JUSTIFY"><LI>A determination of the shareholders of record entitled to notice of, and to vote at, a meeting of shareholders shall apply to any adjournment of the meeting unless the Board of Directors fixes a new record date for the adjourned meeting, but the Board of Directors shall fix a new record date if the meeting is adjourned for more than forty-five (45) days from the date set for the original meeting.</LI></P>
+<LI>If the Board of Directors does not so fix a record date:</LI>
+<OL TYPE="i">
+<P ALIGN="JUSTIFY"><LI>the record date for determining shareholder entitled to notice of or to vote at a meeting of shareholders shall be at the close of business on the business day next preceding the day on which notice is given or, if notice is waived, at the close of business on the business day next preceding the day on which the meeting is held; and</LI></P>
+<P ALIGN="JUSTIFY"><LI>the record date for determining shareholders entitled to given consent to corporate action in writing without a meeting (1) when no prior action by the Board of Directors has been taken, shall be the day on which the first written consent is given, or (2) when prior action by the Board of Directors has been taken, shall be at the close of business on the day on which the Board of Directors adopts the resolution relating thereto, or the sixtieth (60<SUP>th</SUP>) day prior to the date of such other action, whichever is later.</LI></P></OL>
+</OL>
+<LI><A NAME="_Toc182195521"><A NAME="_Toc105565839"><B><I>Action by Written Consent</A></A></LI>
+<OL TYPE="a">
+</B></I><P ALIGN="JUSTIFY"><LI>Any action which may be taken at any annual or special meeting of shareholders may be taken without a meeting and without prior notice, if a consent in writing, setting forth the action so taken, shall be signed by the holders of outstanding shares having not less than the minimum number of votes that would be necessary to authorize or take such action at a meeting at which all shares entitled to vote thereon were present and voted.</LI></P>
+<P ALIGN="JUSTIFY"><LI>If the consents of all shareholders entitled to vote have not been solicited in writing, the Secretary shall give prompt notice of any corporate action approved by the shareholders without a meeting by less than unanimous written consent to those shareholders entitled to vote who have not consented in writing.  Such notice shall be given in the manner specified in <U>Section 5.5</U> of these Bylaws and applicable law.  </LI></P>
+<P ALIGN="JUSTIFY"><LI>In the case of approval of (i) a contract or transaction in which a director has a direct or indirect financial interest, pursuant to Section 310 of the Code, (ii) an amendment of the Articles of Incorporation, pursuant to Section 902 of the Code, (iii) a reorganization of the Corporation, pursuant to Section 1201 of the Code, (iv) a voluntary dissolution of the Corporation pursuant to Section 1900 of the Code or (v) a distribution in dissolution other than in accordance with the rights of any outstanding preferred shares, pursuant to Section 2007 of the Code, the notice shall be given at least ten (10) days before the consummation of any action authorized by that approval, unless the consents of all shareholders entitled to vote have been solicited in writing.  </LI></P>
+<P ALIGN="JUSTIFY"><LI>When written consents are given with respect to any shares, they shall be given by and accepted from the persons in whose names such shares stand on the books of the Corporation at the time such respective consents are given, or any shareholder's proxy holder, or a transferee of the shares or a personal representative of the shareholder or their respective proxy holders, may revoke the consent by a writing received by the Corporation prior to the time that written consents of the number of shares required to authorize the proposed action have been filed with the Secretary, but may not do so thereafter. Such revocation is effective upon its receipt by the Secretary.</LI></P>
+<P ALIGN="JUSTIFY"><LI>Notwithstanding anything to the contrary, directors may not be elected by written consent except by unanimous written consent of all shares entitled to vote for the election of directors; provided that the shareholders may elect a director to fill a vacancy not filled by the Board of Directors, other than a vacancy creased by removal, by the written consent of a majority of the outstanding shares entitled to vote.</LI></P></OL>
+<LI><A NAME="_Toc182195522"><A NAME="_Toc105565840"><B><I>Election of Directors</A></A></LI>
+</B></I><P>In any election of directors, the candidates receiving the highest number of affirmative votes of the shares entitled to be voted for them up to the number of directors to be elected by such shares are elected; votes against the directors and votes withheld with respect to the election of the directors shall have no legal effect. Elections of directors need not be by ballot except upon demand made by a shareholder at the meeting and before the voting begins.</P>
+<LI><A NAME="_Toc182195523"><A NAME="_Toc105565841"><B><I>Proxies</A></A></LI>
+<OL TYPE="a">
+</B></I><LI>Every person entitled to vote or execute consents shall have the right to do so either in person or by one or more agents authorized by a written proxy executed by such person or such person's duly authorized agent and filed with the Secretary.  No proxy shall be valid (a) after revocation thereof, unless the proxy is specifically made irrevocable and otherwise conforms to this <U>Section 5.12</U> and applicable law, or (b) after the expiration of eleven (11) months from the date thereof, unless the person executing it specifies therein the length of time for which such proxy is to continue in force. Revocation may be effected by a writing delivered to the Secretary stating that the proxy is revoked or by a subsequent proxy executed by, or by attendance at the meeting and voting in person by, the person executing the proxy. A proxy is not revoked by the death or incapacity of the maker unless, before the vote is counted, a written notice of such death or incapacity is received by the Corporation.
+ </LI>
+<LI>A proxy which states that it is irrevocable is irrevocable for the period specified therein when it is held by any of the following or a nominee of any of the following: (i) a pledgee, (ii) a person who has purchased or agreed to purchase or holds an option to purchase the shares or a person who has sold a portion of such person's shares in the Corporation to the maker of the proxy, (iii)&nbsp;a creditor or creditors of the Corporation or the shareholder who extended or continued credit to the Corporation or the shareholder in consideration of the proxy if the proxy states that it was given in consideration of such extension or continuation of credit and the name of the person extending or continuing the credit, (iv) a person who has contracted to perform services as an employee of the Corporation, if a proxy is required by the contract of employment and if the proxy states that it was given in consideration of such contract of employment, the name of the employee and the period of employment contracted 
+for, (v) a person designated by or under a close corporation shareholder agreement or a voting trust agreement. In addition, a proxy may be made irrevocable if it is given to secure the performance of a duty or to protect a title, either legal or equitable, until the happening of events which, by its terms, discharge the obligation secured by it. </LI></OL>
+<P>Notwithstanding the period of irrevocability specified, the proxy becomes revocable when the pledge is redeemed, the option or agreement to purchase is terminated or the seller no longer owns any shares of the Corporation or dies, the debt of the Corporation or the shareholder is paid, the period of employment provided for in the contract of employment has terminated or the close corporation shareholder agreement or the voting trust agreement has terminated. In addition, a proxy may be revoked, notwithstanding a provision making it irrevocable, by a purchaser of shares without knowledge of the existence of the provision unless the existence of the proxy and its irrevocability appears on the certificate representing such shares or, in the case of uncertificated shares, on the initial transaction statement and written statements. Every form of proxy or written consent, which provides an opportunity to specify approval or disapproval with respect to any proposal, shall also contain an appropriate space marke
+d &quot;abstain&quot;, whereby a shareholder may indicate a desire to abstain from voting his or her shares on the proposal. A proxy marked &quot;abstain&quot; by the shareholder with respect to a particular proposal shall not be voted either for or against such proposal. In any election of directors, any form of proxy in which the directors to be voted upon are named therein as candidates and which is marked by a shareholder &quot;withhold&quot; or otherwise marked in a manner indicating that the authority to vote for the election of directors is withheld shall not be voted either for or against the election of a director.</P>
+<LI><A NAME="_Toc182195524"><A NAME="_Toc105565842"><B><I>Inspectors of Elections</A></A></LI>
+</B></I><P>Before any meeting of shareholders, the Board of Directors may appoint any persons other than nominees for office to act as inspectors of election at the meeting or its adjournment. If no inspectors of election are so appointed, the Chairman of the meeting may, and on the request of any shareholder or a shareholder's proxy shall, appoint inspectors of election at the meeting. The number of inspectors shall be either one (l) or three (3). If inspectors are appointed at a meeting on the request of one or more shareholders or proxies, the holders of a majority of shares or their proxies present at the meeting shall determine whether one (l) or three (3) inspectors are to be appointed. If any person appointed as inspector fails to appear or fails or refuses to act, the Chairman of the meeting may, and upon the request of any shareholder or a shareholder's proxy shall, appoint a person to fill that vacancy.  These inspectors shall:</P>
+<OL TYPE="a">
+<P ALIGN="JUSTIFY"><LI>determine the number of shares outstanding and the voting power of each, the shares represented at the meeting, the existence of a quorum, and the authenticity, validity, and effect of proxies;</LI></P>
+<P ALIGN="JUSTIFY"><LI>receive votes, ballots, or consents;</LI></P>
+<P ALIGN="JUSTIFY"><LI>hear and determine all challenges and questions in any way arising in connection with the right to vote;</LI></P>
+<P ALIGN="JUSTIFY"><LI>count and tabulate all votes or consents;</LI></P>
+<P ALIGN="JUSTIFY"><LI>determine when the polls shall close;</LI></P>
+<P ALIGN="JUSTIFY"><LI>determine the result; and</LI></P>
+<P ALIGN="JUSTIFY"><LI>do any other acts that may be proper to conduct the election or vote with fairness to all shareholders.</LI></P></OL>
+<LI><A NAME="_Toc182195525"><A NAME="_Toc105565843"><B><I>Advance Notice of Shareholder Business and Nominations</A></A></LI></OL>
+</B></I><P>(a)&#9;Annual Meetings of Shareholders.  </P>
+<P>&#9;(i)&#9;Nominations of persons for election to the Board of Directors and the proposal of business to be considered by the shareholders may be made at an annual meeting of shareholders only (a) pursuant to the Corporation's notice of meeting (or any supplement thereto), (b) by or at the direction of the Board of Directors or any duly authorized committee thereof, or (c) by any shareholder of the Corporation who was a shareholder of record of the Corporation at the time the notice provided for in this Section 5.14 is delivered to the Secretary of the Corporation, who is entitled to vote at the meeting, and who complies with the notice procedures set forth in this Section 5.14.</P>
+<P>&#9;(ii)&#9;For nominations or other business to be properly brought before an annual meeting of shareholders by a shareholder, the shareholder must have given timely notice thereof in proper written form to the Secretary of the Corporation and any such proposed business must constitute a proper matter for shareholder action under the Code.  To be timely, a shareholder's notice shall be delivered to the Secretary at the principal executive offices of the Corporation not later than the close of business on the ninetieth (90th) day nor earlier than the close of business on the one hundred twentieth (120th) day prior to the first anniversary of the preceding year's annual meeting (provided, however, that in the event that the date of the annual meeting is more than thirty days before or more than sixty (60) days after such anniversary date, notice by the shareholder must be so delivered not earlier than the close of business on the one hundred twentieth (120th) day prior to such annual meeting and not later 
+than the close of business on the later of the ninetieth (90th) day prior to such annual meeting or the tenth (10th) day following the day on which public announcement of the date of such meeting is first made by the Corporation).  In no event shall the public announcement of an adjournment or postponement of an annual meeting of shareholders commence a new time period (or extend any time period) for the giving of a shareholder's notice as described above.  To be in proper written form, a shareholder's notice to the Secretary (whether pursuant to this Section 5.14(a)(ii) or Section 5.14(b)) must set forth: </P>
+<P>(A) as to each person, if any, whom the shareholder proposes to nominate for election as a director (x) all information relating to such person that is required to be disclosed in solicitations of proxies for election of directors in an election contest, or is otherwise required, in each case pursuant to and in accordance with Regulation 14A under the Exchange Act and (y) such person's written consent to being named in the proxy statement as a nominee and to serving as a director if elected;</P>
+<P>(B) if the notice relates to any business (other than the nomination of persons for election as directors) that the shareholder proposes to bring before the meeting, (w) a brief description of the business desired to be brought before the meeting, (x) the text of the proposal or business (including the text of any resolutions proposed for consideration and in the event that such business includes a proposal to amend the Bylaws of the Corporation, the language of the proposed amendment), (y) the reasons for conducting such business at the meeting, and (z) any material interest in such business of such shareholder and the beneficial owner, if any, on whose behalf the proposal is made; and</P>
+<P>(C) as to the shareholder giving the notice and the beneficial owner, if any, on whose behalf the nomination or proposal is made (w) the name and address of such shareholder, as they appear on the Corporation's books, and of such beneficial owner, (x) the class or series and number of shares of capital stock of the Corporation that are, directly or indirectly, owned beneficially and of record by such shareholder and by such beneficial owner, (y) any derivative positions with respect to shares of capital stock of the Corporation held or beneficially held by or on behalf of such shareholder and by or on behalf of such beneficial owner, the extent to which any hedging or other transaction or series of transactions has been entered into with respect to the shares of capital stock of the Corporation by or on behalf of such shareholder and by or on behalf of such beneficial owner, and the extent to which any other agreement, arrangement or understanding has been made, the effect or intent of which is to increas
+e or decrease the voting power of such shareholder and such beneficial owner with respect to shares of capital stock of the Corporation,  (z) a representation that the shareholder is a holder of record of stock of the Corporation entitled to vote at such meeting and intends to appear in person or by proxy at the meeting to propose such business or nomination, and (aa) a representation whether the shareholder or the beneficial owner, if any, intends or is part of a group that intends (bb) to deliver a proxy statement and/or form of proxy to holders of at least the percentage of the Corporation's outstanding capital stock required to approve or adopt the proposal or elect the nominee or (cc) otherwise to solicit proxies from shareholders in support of such proposal or nomination.</P>
+<P>The Corporation may require any proposed nominee to furnish such other information as it may reasonably require to determine (x) the eligibility of such proposed nominee to serve as a director of the Corporation, and (y) whether such nominee qualifies as an &quot;independent director&quot; or &quot;audit committee financial expert&quot; under applicable law, securities exchange rule or regulation, or any publicly-disclosed corporate governance guideline or committee charter of the Corporation.  </P>
+<P>&#9;(iii)&#9;Notwithstanding anything in the second sentence of paragraph (a)(ii) of this Section 5.14 to the contrary, in the event that the number of directors to be elected to the Board of Directors of the Corporation at an annual meeting is increased and there is no public announcement by the Corporation naming all of the nominees for director or specifying the size of the increased Board of Directors at least one hundred (100) days prior to the first anniversary of the preceding year's annual meeting, a shareholder's notice required by this Section 5.14 shall also be considered timely, but only with respect to nominees for any new positions created by such increase, if it shall be delivered to the Secretary of the Corporation at the principal executive offices of the Corporation not later than the close of business on the tenth (10th) day following the day on which such public announcement is first made by the Corporation.</P>
+<P>(b)&#9;Special Meetings of Shareholders.  Only such business shall be conducted at a special meeting of shareholders as shall have been brought before the meeting pursuant to the Corporation's notice of meeting.  Nominations of persons for election to the Board of Directors may be made at a special meeting of shareholders at which directors are to be elected pursuant to the Corporation's notice of meeting (1) by or at the direction of the Board of Directors or any duly authorized committee thereof or (2) provided that the Board of Directors or any duly authorized committee thereof has determined that directors shall be elected at such meeting, by any shareholder of the Corporation who is a shareholder of record at the time the notice provided for in this Section 5.14 is delivered to the Secretary of the Corporation, who is entitled to vote at the meeting and upon such election, and who complies with the notice procedures set forth in this Section 5.14.  In the event the Corporation calls a special meeting
+ of shareholders for the purpose of electing one or more directors to the Board of Directors, any such shareholder entitled to vote in such election of directors may nominate a person or persons (as the case may be) for election to such position(s) as specified in the Corporation's notice of meeting, if the shareholder's notice in the same form as required by paragraph (a)(ii) of this Section 5.14 shall be delivered to the Secretary at the principal executive offices of the Corporation not earlier than the close of business on the one hundred twentieth (120th) day prior to such special meeting and not later than the close of business on the later of the ninetieth (90th) day prior to such special meeting or the tenth (10th) day following the day on which public announcement is first made of the date of the special meeting and of the nominees proposed by the Board of Directors to be elected at such meeting.  In no event shall the public announcement of an adjournment or postponement of a special meeting commen
+ce a new time period (or extend any time period) for the giving of a shareholder's notice as described above.</P>
+<P>(c)&#9;General.  </P>
+<P>(i)&#9;Only such persons who are nominated in accordance with the procedures set forth in this Section 5.14 shall be eligible to be elected at an annual or special meeting of shareholders of the Corporation to serve as directors and only such business shall be conducted at a meeting of shareholders as shall have been brought before the meeting in accordance with the procedures set forth in this Section 5.14.  Except as otherwise provided by law, the chairman of the meeting shall have the power and duty (A) to determine whether a nomination or any business proposed to be brought before the meeting was made or proposed, as the case may be, in accordance with the procedures set forth in this Section 5.14 and (B) if any proposed nomination or business was not made or proposed in compliance with this Section 5.14, to declare that such nomination shall be disregarded or that such proposed business shall not be transacted. Notwithstanding the foregoing provisions of this Section 5.14, unless otherwise required b
+y law, if the shareholder (or a qualified representative of the shareholder) does not appear at the annual or special meeting of shareholders of the Corporation to present a nomination or proposed business, such nomination shall be disregarded and such proposed business shall not be considered, notwithstanding that proxies in respect of such vote may have been received by the Corporation.  For purposes of this Section 5.14, to be considered a qualified representative of the shareholder, a person must be authorized by a writing executed by such shareholder or an electronic transmission delivered by such shareholder to act for such shareholder as proxy at the meeting of shareholders and such person must produce such writing or electronic transmission, or a reliable reproduction of the writing or electronic transmission, at the meeting of shareholders.</P>
+<P>(ii)&#9;For purposes of this Section 5.14, &quot;public announcement&quot; shall include disclosure in a press release reported by the Dow Jones News Service, Associated Press, or comparable national news service or in a document publicly filed by the Corporation with the Securities and Exchange Commission pursuant to Section 13, 14, or 15(d) of the Exchange Act.</P>
+<P>(iii)&#9;Nothing in this Section 5.14 shall be deemed to affect any rights (a) of shareholders to request inclusion of proposals or nominations in the Corporation's proxy statement pursuant to Rule 14a-8 (or any successor thereto) promulgated under the Exchange Act or (b) of the holders of any series of Preferred Stock to nominate and elect directors pursuant to and to the extent provided in any applicable provisions of the certificate of incorporation.</P>
+<LI><A NAME="_Toc182195526"><B><BR>
+<BR>
+<A NAME="_Toc105565844">MEETINGS OF DIRECTORS</A></A></LI>
+<OL>
+<LI><A NAME="_Toc182195527"><A NAME="_Toc105565845"><I>Place of Meetings</A></A></LI>
+</B></I><P>Meetings (whether regular, special or adjourned) of the Board of Directors shall be held at the principal office of the Corporation for the transaction of business, as specified in accordance with <U>Section 1.1</U> of these Bylaws, or at any other place within or without the State which has been designated from time to time by resolution of the Board or which is designated in the notice of the meeting.  Any meeting (whether regular, special or adjourned) may be held by conference telephone, electronic video screen communication or electronic communication by and to the Corporation.  Participation in a meeting through the use of conference telephone or electronic video screen communication pursuant to this <U>Section&nbsp;6.1</U> constitutes presence in person at that meeting so long as all members participating in the meeting are able to hear one another.  Participation in a meeting through electronic transmission by and to the Corporation (other than conference telephone and electronic video scr
+een communication), pursuant to this <U>Section&nbsp;6.1</U> constitutes presence in person at that meeting if both of the following apply: </P>
+<P>(a)&#9;each member participating in the meeting can communicate with all of the other members concurrently; and </P>
+<P>(b)&#9;each member is provided the means of participating in all matters before the Board of Directors, including, without limitation, the capacity to propose, or to interpose an objection to, a specific action to be taken by the Corporation.</P>
+<LI><A NAME="_Toc182195528"><A NAME="_Toc105565846"><B><I>Regular Annual Meeting; Regular Meetings</A></A></LI>
+</B></I><P>After the adjournment of each annual meeting of the shareholders, the Board of Directors shall hold a regular meeting (which regular directors' meeting shall be designated the &quot;<U>Regular Annual Meeting</U>&quot;) and no notice need be given for the Regular Annual Meeting unless the Regular Annual Meeting is not held at the principal place of business provided at <U>Section 1.1</U> of these Bylaws.  Regular meetings of the Board of Directors may be held without notice if the time and place of such meetings are fixed by the Board of Directors.</P>
+<LI><A NAME="_Toc182195529"><A NAME="_Toc105565847"><B><I>Special Meetings</A></A></LI>
+</B></I><P>Special meetings of the Board of Directors may be called at any time by the Chairman of the Board, if any, the President or the Chief Executive Officer, any Vice President, the Secretary, or by any two or more directors.</P>
+<LI><A NAME="_Toc182195530"><A NAME="_Toc105565848"><B><I>Notice of Special Meetings</A></A></LI>
+</B></I><P>Special meetings of the Board of Directors shall be held upon no less than four (4) days' notice by mail or forty-eight (48) hours' notice delivered personally or by telephone to each director.  Commencing on January 1, 2011, special meetings of the Board of Directors shall be held upon no less than four (4) days' notice by mail or forty-eight (48) hours' notice delivered personally or by telephone, including voice messaging system or by electronic transmission by the Corporation.  </P>
+<LI><A NAME="_Toc182195531"><A NAME="_Toc105565849"><B><I>Quorum</A></A></LI>
+</B></I><P>A majority of the authorized number of directors shall constitute a quorum for the transaction of business, except to adjourn as provided by <U>Section 6.6</U> of these Bylaws.  Every act or decision done or made by a majority of the directors present at a meeting duly held at which a quorum is present is the act of the Board of Directors, subject to the provisions of Section 310 of the Code (as to the approval of contracts or transactions in which a director has a direct or indirect material financial interest), Section 311 of the Code (as to the appointment of committees), Section&nbsp;317(a) of the Code (as to the indemnification of directors), the Articles of Incorporation or other applicable law.  A meeting at which a quorum is initially present may continue to transact business notwithstanding the withdrawal of directors, if any action taken is approved by at least a majority of the required quorum for such meeting.</P>
+<LI><A NAME="_Toc182195532"><A NAME="_Toc105565850"><B><I>Adjournment</A></A></LI>
+</B></I><P>A majority of the directors present, whether or not a quorum is present, may adjourn any meeting to another time and place.  If the meeting is adjourned for over twenty-four (24) hours, notice of any adjournment to another time and place shall be given prior to the time of the adjourned meeting to the directors who were not present at the time of adjournment.</P>
+<LI><A NAME="_Toc182195533"><A NAME="_Toc105565851"><B><I>Waiver and Notice of Consent</A></A></LI>
+</B></I><P><A NAME="_DV_C93">Notice of a meeting need not be given to a director who provides a waiver of notice or a consent to holding the meeting, or who attends the meeting without protesting, prior thereto or at its commencement, the lack of notice to such director.  All such waivers, consents and approvals shall be filed with the corporate records or made a part of the minutes of the meeting.</A></P>
+<LI><A NAME="_Toc182195534"><A NAME="_Toc105565852"><B><I>Action without a Meeting</A></A></LI>
+</B></I><P>Any action required or permitted by law to be taken by the Board of Directors may be taken without a meeting, if all members of the Board of Directors shall individually or collectively consent in writing to such action. Such written consent or consents shall be filed with the minutes of the proceedings of the Board of Directors. Such action by written consent shall have the same force and effect as the unanimous vote of such directors.</P>
+<LI><A NAME="_Toc182195535"><A NAME="_Toc105565853"><B><I>Committees</A></A></LI></OL>
+</B></I><P>The provisions of this <U>Article VI</U> also apply to committees of the Board of Directors and action by such committees, mutatis mutandis.</P>
+<LI><A NAME="_Toc182195536"><B><BR>
+<BR>
+<A NAME="_Toc105565854">GENERAL MATTERS</A></A></LI>
+<OL>
+<LI><A NAME="_Toc182195537"><A NAME="_Toc105565855"><I>Record Date for Purposes Other than Notice and Voting</A></A></LI>
+</B></I><P>For purposes of determining the shareholders entitled to receive payment of any dividend or other distribution or allotment of any rights or entitled to exercise any rights in respect of any other lawful action (other than with respect to notice or voting at a shareholders' meeting or action by shareholders by written consent without a meeting), the Board of Directors may fix, in advance, a record date, which shall not be more than sixty (60) days prior to any such action.  Only shareholders of record at the close of business on the record date are entitled to receive the dividend, distribution or allotment or rights, or to exercise the rights, as the case may be, notwithstanding any transfer of any shares on the books of the Corporation after the record date, except as otherwise provided for in the Articles of Incorporation or the Code.</P>
+<LI><A NAME="_Toc182195538"><A NAME="_Toc105565856"><B><I>Instruments in Writing</A></A></LI>
+</B></I><P>All checks, drafts, other orders for payments of money, notes or other evidences of indebtedness of the Corporation, and all written contracts of the Corporation, shall be signed by such officer or officers, agent or agents, as the Board of Directors may from time to time designate. No officer, agent, or employee of the Corporation shall have the power to bind the Corporation by contract or otherwise unless authorized to do so by these Bylaws or by the Board of Directors.</P>
+<LI><A NAME="_Toc182195539"><A NAME="_Toc105565857"><B><I>Shares Held by the Corporation</A></A></LI>
+</B></I><P>Shares in other corporations standing in the name of the Corporation may be voted or represented and all rights incident thereto may be exercised on behalf of the Corporation by any officer of the Corporation authorized so to do by resolution of the Board of Directors.  The authority herein granted may be exercised either by such person directly or by any other person authorized to do so by proxy or by power of attorney duly executed by such person having the authority.</P>
+<LI><A NAME="_Toc182195540"><A NAME="_Toc105565858"><B><I>Certificates for Shares</A></A></LI>
+</B></I><P>(a)&#9;Every holder of shares in the Corporation shall be entitled to have a certificate or certificates signed in the name of the Corporation by the Chief Executive Officer or the President and by the Secretary or any Assistant Secretary, certifying the number of shares and the class or series of shares owned by the shareholder.  Any or all of the signatures on the certificate may be facsimile.  In case any officer, transfer agent or registrar who has signed or whose facsimile signature has been placed upon a certificate has ceased to be such officer transfer agent or registrar before such certificate is issued, it may be issued by the Corporation with the same effect as if such person were an officer, transfer agent or registrar at the date of issue.</P>
+<P>(b)&#9;Notwithstanding clause (a) of this <U>Section 7.4</U>, shares of the Corporation may be evidenced by registration in the holder's name in uncertificated, book-entry form in accordance with the direct registration system approved by the United States Securities and Exchange Commission and by the principal securities exchange on which the stock of the Corporation may from time to time be traded, or as may be otherwise authorized by Section 416(b) of the Code or any successor statute, as any of the foregoing may be approved from time to time by the Board of Directors.  Every holder of uncertificated shares of the Corporation shall be entitled to receive a statement of holdings as evidence of share ownership.  As provided in Section 416(b) of the Code, any direct registration system so implemented shall not become effective as to issued and outstanding certificated securities until the certificates therefor have been surrendered to the Corporation.</P>
+<LI><A NAME="_Toc182195541"><A NAME="_Toc105565859"><B><I>Lost Certificates</A></A></LI>
+</B></I><P>Except as provided in this <U>Section&nbsp;7.5</U>, no new stock certificate or uncertificated shares shall be issued to replace a previously issued certificate unless the latter is surrendered to the Corporation or its transfer agent or registrar and cancelled at the same time.  Where the owner of any certificate for shares of the Corporation claims that the certificate has been lost, stolen or destroyed, a new certificate or uncertificated shares, in the Corporation's discretion, shall be issued in place of the original certificate if the owner (a) so requests before the Corporation has notice that the original certificate has been acquired by a bona fide purchaser, (b) files with the Corporation an indemnity bond in such form and in such amount sufficient to protect the Corporation against any claim that may be made against it, including any expense or liability, on account of the alleged loss, theft or destruction of the certificate or the issuance of the replacement certificate or uncertifica
+ted shares as shall be approved by the Chief Executive Officer, the President or a Vice President, and (c) satisfies any other reasonable requirements imposed by the Corporation.  The Board of Directors may adopt such other provisions and restrictions with reference to lost certificates, not inconsistent with applicable law, as it shall in its discretion deem appropriate.</P>
+<LI><A NAME="_Toc182195542"><A NAME="_Toc105565860"><B><I>Certification and Inspection of Bylaws</A></A></LI>
+</B></I><P>The Corporation shall keep at its principal executive or business office the original or a copy of these Bylaws as amended or otherwise altered to date, which shall be open to inspection by the shareholders at all reasonable times during office hours.</P>
+<LI><A NAME="_Toc182195543"><A NAME="_Toc105565861"><B><I>Interpretation</A></A></LI>
+</B></I><P>Reference in these Bylaws to any provision of the Code shall be deemed to include all amendments thereof.</P>
+<LI><A NAME="_Toc182195544"><A NAME="_Toc105565862"><B><I>Construction</A></A></LI></OL>
+</B></I><P>Unless the context requires otherwise, the general provisions, rules of construction and definitions in the Code shall govern the construction of these Bylaws.  Without limiting the generality of the provision, the singular number includes the plural, the plural number includes the singular, and the term &quot;person&quot; includes both a corporation and a natural person.</P>
+<LI><A NAME="_Toc182195545"><B><BR>
+<BR>
+<A NAME="_Toc105565863">CONSTRUCTION OF BYLAWS WITH REFERENCE TO PROVISIONS OF LAW</A></A></LI>
+<OL>
+<LI><A NAME="_Toc182195546"><A NAME="_Toc105565864"><I>Bylaw Provisions Additional and Supplemental to Provisions of Law</A></A></LI>
+</B></I><P>All restrictions, limitations, requirements and other provisions of these Bylaws shall be construed, insofar as possible, as supplemental and additional to all provisions of law applicable to the subject matter thereof and shall be fully complied with in addition to the said provisions of law unless such compliance shall be illegal.</P>
+<LI><A NAME="_Toc182195547"><A NAME="_Toc105565865"><B><I>Bylaw Provisions Contrary to or Inconsistent with Provisions of Law</A></A></LI></OL>
+</B></I><P>Any article, section, subsection, subdivision, sentence, clause or phrase of these Bylaws which, upon being construed in the manner provided in <U>Section&nbsp;8.1</U> of these Bylaws, shall be contrary to or inconsistent with any applicable provision of law, shall not apply so long as said provisions of law shall remain in effect, but such result shall not affect the validity or applicability of any other portions of these Bylaws, it being hereby declared that these Bylaws, and each article, section, subsection, subdivision, sentence, clause, or phrase thereof, would have been adopted irrespective of the fact that any one or more articles, sections, subsections, subdivisions, sentences, clauses or phrases is or are illegal.</P>
+<LI><A NAME="_Toc182195548"><B><BR>
+<BR>
+<A NAME="_Toc105565866">ADOPTION, AMENDMENT OR REPEAL OF BYLAWS</A></A></LI>
+<OL>
+<LI><A NAME="_Toc182195549"><A NAME="_Toc105565867"><I>By Shareholders</A></A></LI>
+</B></I><P>These Bylaws may be adopted, amended or repealed by the vote or written consent of holders of a majority of the outstanding shares entitled to vote.  Any bylaws specifying or changing a fixed number of directors or the maximum or minimum number or changing from a fixed to a variable board or vice versa may only be adopted by the shareholders; provided, however, that a bylaw or amendment of the Articles of Incorporation reducing the number or the minimum number of directors to a number less than five cannot be adopted if the votes cast against its adoption at a meeting or the shares not consenting in the case of action by written consent are equal to more than sixteen and two-thirds percent (16-2/3%) of the outstanding shares entitled to vote.</P>
+<LI><A NAME="_Toc182195550"><A NAME="_Toc105565868"><B><I>By the Board of Directors</A></A></LI></OL>
+</B></I><P>Subject to the right of shareholders to adopt, amend or repeal these Bylaws, other than a bylaw or amendment thereof specifying or changing a fixed number of directors or the maximum or minimum number or changing from a fixed to a variable board or vice versa, may be adopted, amended or repealed by the Board of Directors. A bylaw adopted by the shareholders may restrict or eliminate the power of the Board of Directors to adopt, amend or repeal these Bylaws.</P>
+<LI><A NAME="_Toc182195551"><B><BR>
+<BR>
+<A NAME="_Toc105565869">INDEMNIFICATION</A></A></LI>
+<OL>
+<LI><A NAME="_Toc182195552"><A NAME="_Toc105565870"><I>Indemnification of Directors and Officers</A></A></LI>
+</B></I><P>The Corporation shall, to the maximum extent and in the manner permitted by the Code, indemnify each of its directors and officers against expenses (as defined in Section 317(a) of the Code), judgments, fines, settlements, and other amounts actually and reasonably incurred in connection with any proceeding (as defined in Section 317(a) of the Code), arising by reason of the fact that such person is or was an agent of the Corporation. For purposes of this <U>Article X</U>, a &quot;director&quot; or &quot;officer&quot; of the Corporation includes any person (a) who is or was a director or officer of the Corporation, (b) who is or was serving at the request of the Corporation as a director or officer of another corporation, partnership, joint venture, trust or other enterprise, or (c) who was a director or officer of a corporation which was a predecessor corporation of the Corporation or of another enterprise at the request of such predecessor corporation.</P>
+<LI><A NAME="_Toc182195553"><A NAME="_Toc105565871"><B><I>Indemnification of Others</A></A></LI>
+</B></I><P>The Corporation shall have the power, to the extent and in the manner permitted by the Code, to indemnify each of its employees and agents (other than directors and officers) against expenses (as defined in Section 317(a) of the Code), judgments, fines, settlements, and other amounts actually and reasonably incurred in connection with any proceeding (as defined in Section 317(a) of the Code), arising by reason of the fact that such person is or was an agent of the Corporation.  For purposes of this <U>Article X</U>, an &quot;employee&quot; or &quot;agent&quot; of the Corporation (other than a director or officer) includes any person (a) who is or was an employee or agent of the Corporation, (b) who is or was serving at the request of the Corporation as an employee or agent of another corporation, partnership, joint venture, trust or other enterprise, or (c) who was an employee or agent of a corporation which was a predecessor corporation of the corporation or of another enterprise at the request o
+f such predecessor corporation.</P>
+<LI><A NAME="_Toc182195554"><A NAME="_Toc105565872"><B><I>Payment of Expenses in Advance</A></A></LI>
+</B></I><P>Expenses incurred in defending any proceeding for which indemnification is required pursuant to <U>Section 10.1</U> of these Bylaws or for which indemnification is permitted pursuant to <U>Section 10.2</U> of these Bylaws following authorization thereof by the Board of Directors, may be advanced by the Corporation prior to the final disposition of the proceeding upon receipt of an undertaking by or on behalf of the indemnified party to repay that amount if it shall be determined ultimately that the indemnified person is not entitled to be indemnified as authorized by this <U>Article X</U>.</P>
+<LI><A NAME="_Toc182195555"><A NAME="_Toc105565873"><B><I>Indemnification not Exclusive</A></A></LI>
+</B></I><P><A NAME="_DV_C162">The indemnification provided by this <U>Article X</U> for acts, omissions or transactions while acting in the capacity of, or while serving as, a director or officer of the Corporation but not involving a breach of duty to the Corporation and its shareholders shall not be deemed exclusive of any other rights to those seeking indemnification may be entitled under any bylaw, agreement, vote of shareholders or disinterested directors, or otherwise, to the extent the additional rights to indemnification are authorized in the Articles of Incorporation.</A></P>
+<LI><A NAME="_Toc182195556"><A NAME="_Toc105565874"><B><I>Insurance Indemnification</A></A></LI>
+</B></I><P><A NAME="_DV_C169">The Corporation shall have the power to purchase and maintain insurance on behalf of any agent of the Corporation against any liability asserted against or incurred by the agent in that capacity or arising out of that agent's status as such whether or not the Corporation would have the power to indemnify the agent against that liability under the provisions of this <U>Article X</U>.</A></P>
+<LI><A NAME="_Toc182195557"><A NAME="_Toc105565875"><B><I>Conflicts</A></A></LI></OL>
+</OL>
+</B></I><P><A NAME="_DV_C176">No indemnification or advance shall be made under this <U>Article&nbsp;X</U>, except where the court in which the proceeding is or was pending upon application made by the Corporation or the agent or the attorney or other person rendering services in connection with the defense, whether or not the application by the agent, attorney or other person is opposed by the Corporation:</A></P>
+<P><A NAME="_DV_C177">(a)&#9;that it would be inconsistent with a provision of the Articles of Incorporation, these Bylaws, a resolution of the shareholders or an agreement in effect at the time of the accrual of the alleged cause of the action asserted in the proceeding in which the expenses were incurred or other amounts were paid, which prohibits or otherwise limits indemnification; or </P>
+<P>(b)&#9;that it would be inconsistent with any condition expressly imposed by a court in approving a settlement.</A> </P>
+<B><P ALIGN="CENTER">CERTIFICATE OF ADOPTION OF </P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">AMENDED BYLAWS</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">OF</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">APPLE INC.</P>
+</B><P>The undersigned hereby certifies that he is the duly elected, qualified and acting Senior Vice President, General Counsel and Secretary of Apple Inc., a California corporation (the&nbsp;&quot;<U>Corporation</U>&quot;), and that the foregoing amended and restated bylaws were adopted as the Corporation's bylaws as of May 27, 2009 by the Corporation's Board of Directors. </P>
+<P>The undersigned has executed this Certificate as of May 27, 2009.</P>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<U><P>/s/ Daniel Cooperman</U>_________________</P>
+<P>Daniel Cooperman</P>
+<P>Senior Vice President, General Counsel and Secretary</P>
+<B><I>
+</B><P>&nbsp;</P>
+<P>&nbsp;</P>
+</I><P ALIGN="CENTER">&nbsp;</P></DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

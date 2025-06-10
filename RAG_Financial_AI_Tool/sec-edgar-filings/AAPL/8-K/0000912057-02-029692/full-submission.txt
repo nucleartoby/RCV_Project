@@ -1,0 +1,1674 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SldtsN26q3l53bDHFmCXYTVp3GcWCHZ73ABz5vQOOftup9dObuhJ4jKkXE+jmv54
+ P5MpHLprhde8dRRLxgwoAQ==
+
+<SEC-DOCUMENT>0000912057-02-029692.txt : 20020806
+<SEC-HEADER>0000912057-02-029692.hdr.sgml : 20020806
+<ACCEPTANCE-DATETIME>20020802185957
+ACCESSION NUMBER:		0000912057-02-029692
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20020801
+ITEM INFORMATION:		Other events
+ITEM INFORMATION:		Financial statements and exhibits
+FILED AS OF DATE:		20020805
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLE COMPUTER INC
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10030
+		FILM NUMBER:		02718945
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4089961010
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a2085918z8-k.htm
+<DESCRIPTION>8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" LINK=BLUE  VLINK=PURPLE>
+<BR>
+<FONT SIZE=3 ><A HREF="#02PAL1990_1">QuickLinks</A></FONT>
+<font size=3> -- Click here to rapidly navigate through this document</font>
+
+<!-- TOC_END -->
+<HR NOSHADE>
+<HR NOSHADE>
+<P ALIGN="CENTER"><FONT SIZE=5><B>SECURITIES AND EXCHANGE COMMISSION<BR>  </B></FONT><FONT SIZE=2><B>Washington, D. C. 20549  </B></FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=5><B>FORM 8-K  </B></FONT></P>
+
+<HR NOSHADE ALIGN="CENTER" WIDTH="120">
+<P ALIGN="CENTER"><FONT SIZE=5><B>CURRENT REPORT  </B></FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2>Pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934 </FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2>Date
+of Report (date of earliest event reported): </FONT><FONT SIZE=2><B>August&nbsp;1, 2002</B></FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=5><B>Apple Computer,&nbsp;Inc.<BR>  </B></FONT><FONT SIZE=2>(Exact name of registrant as specified in its charter) </FONT></P>
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="TOP">
+<TD WIDTH="32%" ALIGN="CENTER"><FONT SIZE=2><B>California</B></FONT><FONT SIZE=2><BR>
+(State or other jurisdiction of<BR>
+incorporation or organization)</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="32%" ALIGN="CENTER"><FONT SIZE=2><B>0-10030</B></FONT><FONT SIZE=2><BR>
+(Commission File<BR>
+Number)</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="32%" ALIGN="CENTER"><FONT SIZE=2><B>94-2404110</B></FONT><FONT SIZE=2><BR>
+(I.R.S. Employer<BR>
+Identification No.)</FONT></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+<P ALIGN="CENTER"><FONT SIZE=2><B>1 Infinite Loop, Cupertino, California 95014<BR>  </B></FONT><FONT SIZE=2>(Address of principal executive offices) </FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2>Registrant's
+telephone number, including area code: </FONT><FONT SIZE=2><B>(408)&nbsp;996-1010</B></FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2><B>Not Applicable<BR>  </B></FONT><FONT SIZE=2>(Former name or former address, if changed since last report.) </FONT></P>
+
+<HR NOSHADE>
+<HR NOSHADE>
+<HR NOSHADE>
+<!-- ZEQ.=1,SEQ=1,EFW="2085918",CP="APPLE COMPUTER, INC.",DN="1",CHK=813138,FOLIO='blank',FILE='DISK013:[02PAL0.02PAL1990]BA1990A.;7',USER='JJORGE',CD=';2-AUG-2002;17:35' -->
+<!-- THIS IS THE END OF A COMPOSITION COMPONENT -->
+<!-- TOC_END -->
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="de1990_information_included_in_this_report"> </A>
+<A NAME="toc_de1990_1"> </A>
+<BR></FONT><FONT SIZE=2><B>Information Included in this Report    <BR>  </B></FONT></P>
+
+<P><FONT SIZE=2>Items
+1 through 4, 6, 8 and 9 Not Applicable. </FONT></P>
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="BOTTOM">
+<TD WIDTH="6%"><FONT SIZE=2><B>Item 5.</B></FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="91%"><FONT SIZE=2><B><I>Other Events.</I></B></FONT></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+
+<P><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reference
+is made to the SEC Form&nbsp;4 Statement of Changes in Beneficial Ownership filed with the Securities and Exchange Commission by Mr.&nbsp;Arthur Levinson on
+August&nbsp;2, 2002. A copy of Mr.&nbsp;Levinson's SEC Form&nbsp;4 is attached hereto as an exhibit. </FONT></P>
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="BOTTOM">
+<TD WIDTH="6%"><FONT SIZE=2><B>Item 7.</B></FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=3><FONT SIZE=2><B><I>Financial Statements, Pro Forma Financial Information and Exhibits.</I></B></FONT></TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD WIDTH="6%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="6%"><FONT SIZE=2><BR>
+(c)</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="82%"><FONT SIZE=2><BR>
+Exhibits</FONT></TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD WIDTH="6%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="6%"><FONT SIZE=2><BR>
+99.1.</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="82%"><FONT SIZE=2><BR>
+Mr.&nbsp;Arthur Levinson's SEC Form&nbsp;4 filed August&nbsp;2, 2002.</FONT></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+<HR NOSHADE>
+<!-- ZEQ.=1,SEQ=2,EFW="2085918",CP="APPLE COMPUTER, INC.",DN="1",CHK=931455,FOLIO='blank',FILE='DISK013:[02PAL0.02PAL1990]DE1990A.;9',USER='DPHAMA',CD=';2-AUG-2002;14:17' -->
+<!-- THIS IS THE END OF A COMPOSITION COMPONENT -->
+<!-- TOC_END -->
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="jc1990_signature"> </A>
+<A NAME="toc_jc1990_1"> </A>
+<BR></FONT><FONT SIZE=2><B>SIGNATURE    <BR>  </B></FONT></P>
+
+<P><FONT SIZE=2>Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. </FONT></P>
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="TOP">
+<TD WIDTH="45%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD COLSPAN=3><FONT SIZE=2>APPLE COMPUTER,&nbsp;INC.</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="45%"><FONT SIZE=2><BR>
+&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=2><BR>
+By:</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2><BR>&nbsp;</FONT></TD>
+<TD WIDTH="45%"><FONT SIZE=2><BR>
+/s/&nbsp;&nbsp;</FONT><FONT SIZE=2>FRED ANDERSON</FONT><FONT SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><HR NOSHADE><FONT SIZE=2> Executive Vice President and Chief Financial Officer</FONT></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+
+<P><FONT SIZE=2>Date:
+August&nbsp;1, 2002 </FONT></P>
+
+<HR NOSHADE>
+<!-- ZEQ.=1,SEQ=3,EFW="2085918",CP="APPLE COMPUTER, INC.",DN="1",CHK=327254,FOLIO='blank',FILE='DISK013:[02PAL0.02PAL1990]JC1990A.;3',USER='DPHAMA',CD=';2-AUG-2002;13:52' -->
+<!-- THIS IS THE END OF A COMPOSITION COMPONENT -->
+<!-- TOC_END -->
+<P ALIGN="CENTER"><FONT SIZE=2><A
+NAME="ka1990_index_to_exhibits"> </A>
+<A NAME="toc_ka1990_1"> </A>
+<BR></FONT><FONT SIZE=2><B>INDEX TO EXHIBITS    <BR>  </B></FONT></P>
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="BOTTOM">
+<TH WIDTH="8%" ALIGN="LEFT"><FONT SIZE=1><B>Exhibit<BR> </B></FONT><HR NOSHADE></TH>
+<TH WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TH>
+<TH WIDTH="89%" ALIGN="LEFT"><FONT SIZE=1><B>Document<BR> </B></FONT><HR NOSHADE></TH>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="8%" ALIGN="RIGHT"><FONT SIZE=2>99.1</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH="89%"><FONT SIZE=2>Mr. Arthur Levinson's SEC Form 4 filed August 2, 2002.</FONT></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+<HR NOSHADE>
+<!-- ZEQ.=1,SEQ=4,EFW="2085918",CP="APPLE COMPUTER, INC.",DN="1",CHK=1015813,FOLIO='blank',FILE='DISK013:[02PAL0.02PAL1990]KA1990A.;5',USER='DPHAMA',CD=';2-AUG-2002;14:51' -->
+<!-- THIS IS THE END OF A COMPOSITION COMPONENT -->
+<BR>
+<P><br><A NAME="02PAL1990_1">QuickLinks</A><br></P><!-- TOC_BEGIN -->
+<FONT SIZE=2><A HREF="#toc_de1990_1">Information Included in this Report</A></FONT><BR>
+
+<!-- TOC_BEGIN -->
+<FONT SIZE=2><A HREF="#toc_jc1990_1">SIGNATURE</A></FONT><BR>
+<!-- TOC_BEGIN -->
+<FONT SIZE=2><A HREF="#toc_ka1990_1">INDEX TO EXHIBITS</A></FONT><BR>
+<!-- SEQ=,FILE='QUICKLINK',USER=ATOBAK,SEQ=,EFW="2085918",CP="APPLE COMPUTER, INC.",DN="1" -->
+<!-- TOCEXISTFLAG -->
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>a2085918zex-99_1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" LINK=BLUE  VLINK=PURPLE>
+<BR>
+<FONT SIZE=3 ><A HREF="#02PAL1990_2">QuickLinks</A></FONT>
+<font size=3> -- Click here to rapidly navigate through this document</font>
+<P ALIGN="RIGHT"><FONT SIZE=2><A
+NAME="page_ma1990_1_1"> </A> </FONT></P>
+
+<!-- TOC_END -->
+<P ALIGN="RIGHT"><FONT SIZE=2><A
+NAME="ma1990_exhibit_99.1"> </A>
+<A NAME="toc_ma1990_1"> </A>
+<BR></FONT><FONT SIZE=2><B>Exhibit 99.1    <BR>  </B></FONT></P>
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="TOP">
+<TD WIDTH="19%" ALIGN="CENTER"><HR NOSHADE><FONT SIZE=2><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FORM 4<BR> </B></FONT><HR NOSHADE><FONT SIZE=1><B> <FONT FACE="WINGDINGS">&#111;</FONT> Check this box if no longer subject to Section 16. Form
+4 or Form 5 obligations may continue.</B></FONT><FONT SIZE=1><B><I> See </I></B></FONT><FONT SIZE=1><B>Instruction 1(b).<BR> </B></FONT><FONT SIZE=1><BR>
+(Print or Type Responses)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="54%" ALIGN="CENTER"><FONT SIZE=1><B>UNITED STATES SECURITIES AND EXCHANGE COMMISSION<BR>
+Washington, D.C. 20549<BR>
+<BR> </B></FONT><FONT SIZE=2><B>STATEMENT OF<BR>
+CHANGES IN BENEFICIAL OWNERSHIP<BR> </B></FONT><BR>
+<FONT SIZE=1>Filed pursuant to Section 16(a) of the Securities Exchange Act of 1934,<BR>
+Section 17(a) of the Public Utility Holding Company Act of 1935 or<BR>
+Section 30(f) of the Investment Company Act of 1940</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="25%"><HR NOSHADE><FONT SIZE=2><B>OMB APPROVAL<BR> </B></FONT><HR NOSHADE><FONT SIZE=1><B> OMB Number:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3235-0287<BR>
+Expires: January&nbsp;31, 2005<BR>
+Estimated average burden hours per&nbsp;response&nbsp;....&nbsp;0.5</B></FONT><HR NOSHADE></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+<HR NOSHADE>
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="TOP">
+<TD WIDTH="2%"><FONT SIZE=1>1.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD COLSPAN=5><FONT SIZE=1>Name and Address of Reporting Person*</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>2.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD COLSPAN=5><FONT SIZE=1>Issuer Name</FONT><FONT SIZE=1><B> and </B></FONT><FONT SIZE=1>Ticker or Trading Symbol</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>6.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD COLSPAN=3><FONT SIZE=1>Relationship of Reporting Person(s) to Issuer (Check all applicable)</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>Levinson</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>Arthur</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>D.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD COLSPAN=7><FONT SIZE=1>Apple Computer,&nbsp;Inc. (AAPL)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1><U>&nbsp;&nbsp;X&nbsp;&nbsp;</U> Director</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="15%"><FONT SIZE=1><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> 10% Owner</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=7><HR NOSHADE></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD COLSPAN=7><HR NOSHADE></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="15%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%" ALIGN="CENTER"><FONT SIZE=1>(Last)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%" ALIGN="CENTER"><FONT SIZE=1>(First)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%" ALIGN="CENTER"><FONT SIZE=1>(Middle)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>3.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>I.R.S. Identification Number of Reporting Person, if an entity (voluntary)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>4.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="17%"><FONT SIZE=1>Statement for Month/Year</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> Officer<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(give title<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;below)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="15%"><FONT SIZE=1><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> Other<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(specify<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;below)</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD COLSPAN=5><FONT SIZE=1>1 Infinite Loop</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="17%"><FONT SIZE=1>August 2002</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="15%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=7><HR NOSHADE></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD COLSPAN=3><HR NOSHADE></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD COLSPAN=3><HR NOSHADE></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD COLSPAN=3><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=7 ALIGN="CENTER"><FONT SIZE=1>(Street)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>5.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="17%"><FONT SIZE=1>If Amendment, Date of Original (Month/Year)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>7.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD COLSPAN=3><FONT SIZE=1>Individual or Joint/Group Filing<BR>
+(Check Applicable Line)<BR>
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> Form filed by One Reporting<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Person<BR>
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> Form filed by More than</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>Cupertino,</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>CA</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>95014</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="17%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD COLSPAN=3><FONT SIZE=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One Reporting Person</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=21 ALIGN="CENTER"><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>(City)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>(State)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>(Zip)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="17%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="15%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD COLSPAN=13><FONT SIZE=1><B>Table I &#151; Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned</B></FONT></TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD COLSPAN=21 ALIGN="CENTER" VALIGN="TOP"><HR NOSHADE></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="TOP">
+<TD WIDTH="1%"><FONT SIZE=1>1.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>Title of Security<BR>
+(Instr. 3)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>2.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>Transaction Date</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>3.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD COLSPAN=3><FONT SIZE=1>Transaction Code<BR>
+(Instr. 8)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>4.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD COLSPAN=5><FONT SIZE=1>Securities Acquired (A) or Disposed of (D)<BR>
+(Instr. 3, 4 and 5)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>5.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>Amount of Securities Beneficially Owned at End of Month</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>6.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>Ownership Form: Direct (D) or Indirect (I)<BR>
+(Instr. 4)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>7.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>Nature of Indirect Beneficial Ownership<BR>
+(Instr. 4)</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD COLSPAN=3><FONT SIZE=1>(Month/ Day/ Year)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD COLSPAN=11><HR NOSHADE></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>(Instr. 3 and 4)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>Code</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>V</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=1>Amount</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="7%"><FONT SIZE=1>(A) or (D)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>Price</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=33><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>Common Stock</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>8/1/02</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>P</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=1>5,000</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="7%"><FONT SIZE=1>A</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>$14.87</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>5,000</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>D</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=33><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>Common Stock</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>8/1/02</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>P</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=1>30,000</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="7%"><FONT SIZE=1>A</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>$14.90</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>30,000</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>D</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=33><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>Common Stock</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>8/1/02</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>P</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=1>15,000</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="7%"><FONT SIZE=1>A</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>$14.89</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>15,000</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>D</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=33><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="7%"><FONT SIZE=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><HR NOSHADE></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=33><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="7%"><FONT SIZE=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>50,000</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=33><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="5%"><FONT SIZE=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="7%"><FONT SIZE=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD COLSPAN=33 VALIGN="TOP"><HR NOSHADE></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="TOP">
+<TD WIDTH="84%"><FONT SIZE=1>Reminder: Report on a separate line for each class of securities beneficially owned directly or indirectly.</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="14%" ALIGN="RIGHT"><FONT SIZE=1>(Over)</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="84%"><FONT SIZE=1>* If the form is filed by more than one reporting person, </FONT><FONT SIZE=1><I>see</I></FONT><FONT SIZE=1> Instruction 4(b)(v).</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="14%" ALIGN="RIGHT"><FONT SIZE=1>SEC 1474 (3-00)</FONT></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+<P ALIGN="CENTER"><FONT SIZE=1><B>POTENTIAL PERSONS WHO RESPOND TO THE COLLECTION OF INFORMATION<BR>
+CONTAINED IN THIS FORM ARE NOT REQUIRED TO RESPOND UNLESS THE FORM<BR>
+DISPLAYS A CURRENTLY VALID OMB CONTROL NUMBER.  </B></FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2>Page 1 of 2</FONT></P>
+
+<HR NOSHADE>
+<!-- ZEQ.=1,SEQ=1,EFW="2085918",CP="APPLE COMPUTER, INC.",DN="2",CHK=325731,FOLIO='1',FILE='DISK013:[02PAL0.02PAL1990]MA1990A.;15',USER='JJORGE',CD=';2-AUG-2002;14:34' -->
+<A NAME="page_ma1990_1_2"> </A>
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="TOP">
+<TD WIDTH="10%"><FONT SIZE=1><B>FORM 4 (continued)</B></FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="89%" ALIGN="CENTER"><FONT SIZE=1><B>Table II&#151;Derivative Securities Acquired, Disposed of, or Beneficially Owned<BR>
+(</B></FONT><FONT SIZE=1><B><I>e.g.</I></B></FONT><FONT SIZE=1>, puts, calls, warrants, options, convertible securities)<BR></FONT>
+</TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+<HR NOSHADE>
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="TOP">
+<TD WIDTH="1%"><FONT SIZE=1>1.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>Title of Derivative Security<BR>
+(Instr. 3)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>2.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>Conversion or Exercise Price of Derivative Security</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>3.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="11%"><FONT SIZE=1>Transaction Date<BR>
+(Month/Day/Year)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>4.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD COLSPAN=3><FONT SIZE=1>Transaction Code<BR>
+(Instr. 8)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>5.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD COLSPAN=3><FONT SIZE=1>Number of Derivative Securities Acquired (A) or Disposed of (D)<BR>
+(Instr. 3, 4, and 5)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>6.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD COLSPAN=3><FONT SIZE=1>Date Exercisable and Expiration Date (Month/Day/Year)</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="11%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD COLSPAN=11><HR NOSHADE></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD COLSPAN=5><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="11%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>Code</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>V</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>(A)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>(D)</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>Date<BR>
+Exercisable</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>Expiration Date</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=29><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=29><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="11%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=29><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="11%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=29><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="11%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=29><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="11%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=29><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="11%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=29><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="11%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=29><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="11%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=29><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="11%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=29><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="11%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=29><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="9%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="11%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="4%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="8%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="10%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD COLSPAN=29 VALIGN="TOP"><HR NOSHADE></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="TOP">
+<TD COLSPAN=21><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="2%"><FONT SIZE=1>7.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD COLSPAN=3><FONT SIZE=1>Title and Amount of Underlying Securities<BR>
+(Instr. 3 and 4)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>8.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>Price of Derivative Security<BR>
+(Instr. 5)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>9.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>Number of Derivative Securities Beneficially Owned at End of Month<BR>
+(Instr. 4)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%" ALIGN="RIGHT"><FONT SIZE=1>10.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>Ownership Form<BR>
+of Derivative Security: Direct (D) or Indirect (I)<BR>
+(Instr. 4)</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%" ALIGN="RIGHT"><FONT SIZE=1>11.</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>Nature of Indirect Beneficial Ownership<BR>
+(Instr. 4)</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD COLSPAN=3><HR NOSHADE></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%" ALIGN="CENTER"><FONT SIZE=1>Title</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>Amount or Number of Shares</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=21><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=21><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=21><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=21><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=21><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=21><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=21><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=21><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=21><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=21><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN=21><HR NOSHADE></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="3%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="1%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="13%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD COLSPAN=21 VALIGN="TOP"><HR NOSHADE></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+
+<P><FONT SIZE=1>Explanation
+of Responses: </FONT></P>
+
+<!-- User-specified TAGGED TABLE -->
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR VALIGN="TOP">
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="49%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="31%" ALIGN="CENTER"><FONT SIZE=1>/s/ Arthur D. Levinson</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="14%"><FONT SIZE=1>August 1, 2002</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="2%"><FONT SIZE=1>**</FONT></TD>
+<TD WIDTH="49%"><FONT SIZE=1>Intentional misstatements or omissions of facts constitute Federal Crime Violations.<BR></FONT> <FONT SIZE=1><I>See</I></FONT><FONT SIZE=1> 18 U.S.C. 1001 and 15 U.S.C. 78ff(a).<BR>
+Note: File three copies of this Form, one of which must be manually signed. If space is insufficient, </FONT><FONT SIZE=1><I>see</I></FONT><FONT SIZE=1> Instruction 6 for procedure.</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="31%" ALIGN="CENTER"><HR NOSHADE><FONT SIZE=1> **Signature of Reporting Person</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="14%" ALIGN="CENTER"><HR NOSHADE><FONT SIZE=1> Date</FONT></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="49%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="31%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="2%"><FONT SIZE=1>&nbsp;</FONT></TD>
+<TD WIDTH="14%"><FONT SIZE=1>&nbsp;</FONT></TD>
+</TR>
+</TABLE>
+<!-- end of user-specified TAGGED TABLE -->
+
+<P ALIGN="CENTER"><FONT SIZE=1><B>Potential persons who are to respond to the collection of information<BR>
+contained in this form are not required to respond unless the form<BR>
+displays a currently valid OMB Number.  </B></FONT></P>
+
+<P ALIGN="CENTER"><FONT SIZE=2>Page 2 of 2</FONT></P>
+
+<HR NOSHADE>
+<!-- ZEQ.=2,SEQ=2,EFW="2085918",CP="APPLE COMPUTER, INC.",DN="2",CHK=873847,FOLIO='2',FILE='DISK013:[02PAL0.02PAL1990]MA1990A.;15',USER='JJORGE',CD=';2-AUG-2002;14:34' -->
+<!-- THIS IS THE END OF A COMPOSITION COMPONENT -->
+<BR>
+<P><br><A NAME="02PAL1990_2">QuickLinks</A><br></P><!-- TOC_BEGIN -->
+<UL>
+<FONT SIZE=2><A HREF="#toc_ma1990_1">Exhibit 99.1</A></FONT><BR>
+</UL>
+<!-- SEQ=,FILE='QUICKLINK',USER=ATOBAK,SEQ=,EFW="2085918",CP="APPLE COMPUTER, INC.",DN="2" -->
+<!-- TOCEXISTFLAG -->
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

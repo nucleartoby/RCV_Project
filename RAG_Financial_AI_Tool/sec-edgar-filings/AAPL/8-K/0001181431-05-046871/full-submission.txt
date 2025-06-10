@@ -1,0 +1,561 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ A6riHZDqCCbY5k94Uyzh5u1JsyypuC/WZ5gVbdD9mMxcmbEq+CIW2MPsVv3nPVGg
+ XVTq2env7eVt0+mH8nlofA==
+
+<SEC-DOCUMENT>0001181431-05-046871.txt : 20050815
+<SEC-HEADER>0001181431-05-046871.hdr.sgml : 20050815
+<ACCEPTANCE-DATETIME>20050815170019
+ACCESSION NUMBER:		0001181431-05-046871
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20050809
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+FILED AS OF DATE:		20050815
+DATE AS OF CHANGE:		20050815
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLE COMPUTER INC
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10030
+		FILM NUMBER:		051027612
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4089961010
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>rrd89343.htm
+<DESCRIPTION>NET SHARE SETTLEMENT
+<TEXT>
+
+
+<html><head>
+<title>Prepared By R.R. Donnelley Financial -- Form 8-K</title>
+</head>
+<body Bgcolor="white">
+
+<hr Size="4" Noshade Color="#000000" Align="left">
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="4" Color="#000000">
+<b>UNITED STATES </b></font></div>
+
+<div Align="center"><font Face="times New Roman" Size="4" Color="#000000">
+<b>SECURITIES AND EXCHANGE COMMISSION </b></font></div>
+
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>Washington D.C., 20549 </b></font></div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="5" Color="#000000">
+<b>Form 8-K </b></font></div> <div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="4" Color="#000000">
+<b>Current Report </b></font></div>
+
+<div Align="center"><font Face="times New Roman" Size="4" Color="#000000">
+<b>Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 </b></font></div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+<b>Date Of Report (Date Of Earliest Event Reported):&nbsp;&nbsp;08/09/2005 </b></font></div>
+
+
+
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="5" Color="#000000">
+<b>APPLE COMPUTER INC </b></font></div>
+
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>(Exact Name of Registrant as Specified in its Charter)</b></font></div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+<b>Commission File Number:&nbsp;&nbsp;000-10030</b></font></div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><table Cellspacing="0" Cellpadding="0" Width="100%" Border="0">
+<tr>
+<td Valign="bottom" Width="59%" Align="center">
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000"><b>CA</b></font>
+</div>
+</td>
+<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;&nbsp;</font>
+</td>
+<td Valign="bottom" Width="59%" Align="center">
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000"><b>94-2404110</b></font>
+</div>
+</td>
+</tr>
+
+<tr>
+<td Valign="top" Align="center" Width="59%">
+<div Style="margin-left:2%; Text-indent:-2%" Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>(State or Other Jurisdiction of</b></font>
+</div>
+</td>
+<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;&nbsp;</font>
+</td>
+<td Valign="bottom" Align="center" Width="59%">
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000"><b>(I.R.S. Employer</b></font>
+</div>
+</td>
+</tr>
+
+<tr>
+<td Valign="top" Align="center" Width="59%">
+<div Style="margin-left:2%; Text-indent:-2%" Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>Incorporation or Organization)</b></font>
+</div>
+</td>
+<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;&nbsp;</font>
+</td>
+<td Valign="bottom" Align="center" Width="59%">
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>Identification No.)</b></font>
+</div>
+</td>
+</tr>
+
+</table></div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+<b>1 Infinite Loop, Cupertino, CA 95014</b></font></div>
+
+
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>(Address of Principal Executive Offices, Including Zip Code)</b></font>
+</div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+<b>(408) 996-1010 </b></font>
+</div>
+
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>(Registrant&#146;s Telephone Number, Including Area Code) </b></font>
+</div>
+
+
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+<b> </b></font>
+</div>
+
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>(Former name or former address, if changed since last report) </b></font>
+</div>
+
+
+<div><font Size="1">&nbsp;</font>
+</div>
+
+
+
+
+<div Align="left"><font Face="times New Roman" Size="2" Color="#000000">
+<b>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:<BR><BR>
+</b></font>
+
+
+</div>
+
+
+
+<div Align="left"><font Face="times New Roman" Size="2" Color="#000000">
+<b>[&nbsp;&nbsp;]&nbsp;&nbsp;
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)<BR><BR>
+
+[&nbsp;&nbsp;]&nbsp;&nbsp;
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act(17CFR240.14a-12)<BR><BR>
+
+
+[&nbsp;&nbsp;]&nbsp;&nbsp;
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act(17CFR240.14d-2(b))<BR><BR>
+
+
+[&nbsp;&nbsp;]&nbsp;&nbsp;
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act(17CFR240.13e-4(c))
+</b>
+
+</font>
+</div>
+
+
+
+
+
+<div><font Size="1">&nbsp;</font>
+</div>
+
+<hr Size="4" Noshade Color="#000000" Align="left">
+
+
+<p Style='page-break-before:always'>
+<p Align="center"><font Size="2">
+Items to be Included in this Report</b>
+</font>
+
+
+
+
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div align="left"><font Face="times New Roman" Size="2" Color="#000000">
+<b>Item 1.01.&nbsp;&nbsp;&nbsp;&nbsp;Entry into a Material Definitive Agreement</b></font>
+</div>
+
+<div><font Size="1">&nbsp;</font>
+</div>
+
+<div  align="left" Style="text-indent:4%"><font Face="times New Roman" Size="2" Color="#000000">
+On August 9, 2005, the Compensation Committee of the Board of Directors of Apple Computer, Inc. ("Apple") consented in advance to allow Apple's executive officers to satisfy their tax withholding obligations arising upon the vesting of restricted stock or restricted stock units by electing  to have Apple withhold that number of shares with a fair market value equal to the minimum amount to be withheld under applicable tax laws.  Based on the restricted stock and restricted stock units currently outstanding, the first applicable vesting date occurs during the second quarter of fiscal 2006. <p> <p>An election to have Apple withhold shares to satisfy the tax withholding obligations is permitted under section 16 of the 2003 Employee Stock Plan. An election may be made by completing the Election to Satisfy Withholding Obligation With Stock form attached hereto as Exhibit 99.1.</div><div align="left" style="text-indent:4%"> <p>If an executive officer elects to satisfy the tax withholding obligation arising upon th
+e vesting of his or her restricted stock or restricted stock units by having Apple withhold that number of shares with a fair market value equal to the amount required to be withheld, the shares withheld will be cancelled and will not be available for re-issuance under the 2003 Employee Stock Plan.</font>
+</div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+
+
+<hr  Size="3" Color="#cceeff" Width="100%" Align="center">
+<p Align="center"><font Size="2">&nbsp;</font>
+<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+<b>Signature(s) </b></font>
+</div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div align="left" Style="text-indent:4%"><font Face="times New Roman" Size="2" Color="#000000">
+Pursuant to the Requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this Report to be signed on its behalf by the Undersigned hereunto
+duly authorized. </font>
+</div>
+
+<div><font Size="1">&nbsp;</font></div>
+
+<div><table Cellspacing="0" Cellpadding="0" Width="100%" Border="0">
+
+
+
+
+<tr>
+	<td Valign="top" Colspan="3" Width="53%"> <div Style="margin-left:2%; Text-indent:-2%"><font Face="times New Roman" Size="2" Color="#000000"></font>
+	</div>
+	</td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font>
+	</td>
+	<td> <font Size="1">&nbsp;</font>
+	</td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font>
+	</td>	<td Valign="top" Align="center" Width="3%">
+	<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+	</font>
+	</div>
+	</td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td Valign="top" Width="53%">
+	<div Style="margin-left:2%; Text-indent:-2%"><font Face="times New Roman" Size="2" Color="#000000">
+	APPLE COMPUTER INC</font>
+	</div>	</td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+	<td Valign="top" Colspan="3" Width="53%"> <div Style="margin-left:2%; Text-indent:-2%"><font Face="times New Roman" Size="2" Color="#000000">
+	Date: August 15, 2005.</font>
+	</div>
+	</td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font>
+	</td>
+	<td> <font Size="1">&nbsp;</font>
+	</td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font>
+	</td>	<td Valign="top" Align="center" Width="3%">
+	<div Align="center"><font Face="times New Roman" Size="2" Color="#000000">
+	By:</font>
+	</div>
+	</td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td Valign="top" Width="53%">
+	<div Style="margin-left:2%; Text-indent:-2%"><font Face="times New Roman" Size="2" Color="#000000">
+	/s/&nbsp;&nbsp;&nbsp;&nbsp;Peter Oppenheimer</font>
+	</div>
+	<hr Noshade Align="left" Color="#000000">
+	</td>
+</tr>
+
+<tr>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="53%">
+	<div Style="margin-left:2%; Text-indent:-2%"><font Face="times New Roman" Size="2" Color="#000000">
+	Peter Oppenheimer</font>
+	</div>
+	</td>
+</tr>
+
+<tr>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td> <font Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="3%"><font Face="times New Roman" Size="1">&nbsp;</font></td>
+	<td Valign="bottom" Width="53%">
+	<div><font Face="times New Roman" Size="2" Color="#000000">Senior Vice President and Chief Financial Officer</font>
+	</div>
+</td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td></tr>
+
+
+
+</table></div>
+
+
+
+
+
+<p Style='page-break-before:always'>
+<hr  Size="3" Color="#cceeff" Width="100%" Align="center">
+
+<p Align="center"><font Size="2">&nbsp;</font>
+<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+<b>Exhibit Index </b></font>
+</div>
+
+<div><font Size="2">&nbsp;</font></div>
+
+<div Align="center">
+<table Cellspacing="0" Cellpadding="0" Width="100%" Border="0">
+
+
+
+
+<tr>
+	<td Valign="top" Align="left">
+	<div Align="left"><font Face="times New Roman" Size="2" Color="#000000">
+	<b>Exhibit&nbsp;No.</b></font>
+	</div>
+		<hr Size="2" Noshade Width="48" Color="#000000">
+	</td>
+	<td Valign="top" Width="3%" Align="left"><font Face="times New Roman" Size="2">&nbsp;&nbsp;</font></td>
+	<td Valign="top" Width="100%" Align="left">
+	<div><font Face="times New Roman" Size="2" Color="#000000">
+	<b>Description</b></font>
+	</div>
+	<hr Size="2" Noshade Width="73" Align="left" Color="#000000">
+	</td>
+</tr>
+
+
+
+
+<tr>
+	<td Valign="top" Align="left">
+	<div Align="top"><font Face="times New Roman" Size="1" Color="#000000">
+	EX-99.1</font>
+	</div>
+
+	</td>
+	<td Valign="top" Width="3%" Align="left"><font Face="times New Roman" Size="2">&nbsp;&nbsp;</font></td>
+	<td Valign="top" Width="100%" Align="left">
+	<div><font Face="times New Roman" Size="2" Color="#000000">
+	Form of Election To Satisfy Tax Withholding With Stock</font>
+	</div>
+		</td>
+</tr>
+
+
+
+
+
+</div></table>
+
+
+
+</body></html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>rrd89343_7445.htm
+<DESCRIPTION>FORM OF ELECTION TO SATISFY TAX WITHHOLDING WITH STOCK
+<TEXT>
+
+
+
+<HTML>
+
+
+<HEAD>
+
+
+
+
+
+
+
+
+</HEAD>
+
+
+<BODY>
+
+
+
+
+
+<P ALIGN="RIGHT">&#9;<A NAME="_DV_M0"></A><FONT FACE="Times">Exhibit </P>
+
+
+<B><P ALIGN="CENTER">APPLE COMPUTER, INC.</P>
+
+
+</FONT><P>&#9;</P>
+
+
+<P>&#9;<FONT FACE="Times">ELECTION TO SATISFY TAX WITHHOLDING OBLIGATION WITH STOCK</P>
+
+
+</FONT>
+
+
+</B><P ALIGN="JUSTIFY"><A NAME="OLE_LINK1"><A NAME="OLE_LINK2"><FONT FACE="Times">WHEREAS</A></A>, on _________[DATE], _____________[NAME] was granted _________________ of [restricted stock/restricted stock units] under the 2003 Employee Stock Plan (the &quot;2003 Plan&quot;) (formerly the 1998 Executive officer Stock Plan).</P>
+
+
+<P ALIGN="JUSTIFY"></P>
+
+
+<P ALIGN="JUSTIFY">WHEREAS, Section 16 of the 2003 Plan permits participants, with the consent of the 2003 Plan administrator, to satisfy the withholding obligation arising upon the vesting of a [restricted stock/restricted stock unit] award by electing to have Apple withhold that number of shares with a fair market value equal to the amount required to be withheld.</P>
+
+
+</FONT><P ALIGN="JUSTIFY"></P>
+
+
+<FONT FACE="Times"><P ALIGN="JUSTIFY">WHEREAS, the Compensation Committee of Apple's Board of Directors (the administrator of the 2003 Plan) has consented in advance to the election by _______________[NAME] to satisfy his/her tax withholding obligation arising upon the vesting of the [restricted stock/restricted stock units] by having Apple withhold that number of shares with a fair market value equal to the minimum amount required to be withheld under applicable tax laws.</P>
+
+
+</FONT><P ALIGN="JUSTIFY"></P>
+
+
+<FONT FACE="Times"><P ALIGN="JUSTIFY">NOW, THEREFORE, the parties hereto agree as follows:</P>
+
+
+</FONT><P ALIGN="JUSTIFY"></P>
+
+
+<P ALIGN="JUSTIFY">&#9;<FONT FACE="Times">1.&#9;<U>Tax Withholding Election</U>.  ___________________[NAME] hereby elects to satisfy his/her tax withholding obligation arising upon the vesting of the [restricted stock/restricted stock unit] by having Apple withhold that number of shares with a fair market value equal to the minimum amount required to be withheld under applicable tax laws.</P>
+
+
+</FONT><P ALIGN="JUSTIFY"></P>
+
+
+<FONT FACE="Times"><P ALIGN="JUSTIFY">2.&#9;<U>Agreement</U>.  The [Restricted Stock Unit Award Agreement/Option Cancellation and Restricted Stock Award Agreement] (the &quot;Agreement&quot;) remains in full force and effect.</P>
+
+
+<P ALIGN="JUSTIFY"></P>
+
+
+<P ALIGN="JUSTIFY">3.&#9;<U>Entire Agreement</U>.  This Election, taken together with the Agreement, represents the entire agreement of the parties, supersedes any and all previous contracts, arrangements or understandings between the parties with respect to the [restricted stock/restricted stock unit] award, and may be amended at any time only by mutual written agreement of the parties hereto.</P>
+
+
+</FONT><P ALIGN="JUSTIFY"></P>
+
+
+<FONT FACE="Times"><P ALIGN="JUSTIFY">IN WITNESS WHEREOF, the parties have duly executed this Agreement effective as of ______________[DATE]. </P>
+
+
+</FONT>
+
+
+<P>&nbsp;</P>
+
+
+<FONT FACE="Times"><P>____________________________</P>
+
+
+<P>(NAME OF EXECUTIVE OFFICER)</P>
+
+
+
+
+
+<P>APPLE COMPUTER, INC.</P>
+
+
+
+
+
+<P>By: ____________________________&#9;&#9;&#9;&#9;&#9;&#9;</P>
+
+
+<P>Its: ____________________________</P>
+
+
+</FONT><P>&#9;</P></BODY>
+
+
+</HTML>
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

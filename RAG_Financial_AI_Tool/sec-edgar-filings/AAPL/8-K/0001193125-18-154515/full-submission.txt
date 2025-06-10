@@ -1,0 +1,962 @@
+<SEC-DOCUMENT>0001193125-18-154515.txt : 20180507
+<SEC-HEADER>0001193125-18-154515.hdr.sgml : 20180507
+<ACCEPTANCE-DATETIME>20180507163056
+ACCESSION NUMBER:		0001193125-18-154515
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20180430
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20180507
+DATE AS OF CHANGE:		20180507
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLE INC
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36743
+		FILM NUMBER:		18811649
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE APPLE PARK WAY
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		(408) 996-1010
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE APPLE PARK WAY
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APPLE COMPUTER INC
+		DATE OF NAME CHANGE:	19970808
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d563832d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:15pt; font-family:ARIAL" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:15pt; font-family:ARIAL" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:11pt; font-family:ARIAL" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:17pt; font-family:ARIAL" ALIGN="center"><B>FORM <FONT
+STYLE="white-space:nowrap">8-K</FONT> </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:13pt; font-family:ARIAL" ALIGN="center"><B>CURRENT REPORT </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:13pt; font-family:ARIAL" ALIGN="center"><B>Pursuant to Section&nbsp;13 OR 15(d) of The Securities Exchange Act of 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:11pt; font-family:ARIAL" ALIGN="center"><B>April&nbsp;30, 2018 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center">Date of Report (Date of
+earliest event reported) </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt;margin-bottom:0pt" ALIGN="center">
+
+
+<IMG SRC="g563832g0505090350040.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:21pt; font-family:ARIAL" ALIGN="center"><B>Apple Inc. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center">(Exact name of Registrant as specified in its charter) </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9pt">
+<TD VALIGN="top" ALIGN="center"><B>California</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">001-36743</FONT></B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">94-2404110</FONT></B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top" ALIGN="center">(State or other jurisdiction <BR>of incorporation)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center">(Commission</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center">File
+Number)</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center">(I.R.S. Employer</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL" ALIGN="center">Identification No.)</P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="center"><B>One Apple Park Way </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="center"><B>Cupertino, California 95014 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center">(Address of principal
+executive offices) (Zip Code) </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="center"><B>(408) <FONT STYLE="white-space:nowrap">996-1010</FONT> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center">(Registrant&#146;s telephone number, including area code) </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="center"><B>Not applicable </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center">(Former name or former address,
+if changed since last report.) </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">Check the appropriate box below if the Form <FONT STYLE="white-space:nowrap">8-K</FONT> filing is intended to
+simultaneously satisfy the filing obligation of the Registrant under any of the following provisions: </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">Soliciting material pursuant to Rule <FONT STYLE="white-space:nowrap">14a-12</FONT> under the Exchange Act (17 CFR <FONT
+STYLE="white-space:nowrap">240.14a-12)</FONT> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt"><FONT STYLE="white-space:nowrap">Pre-commencement</FONT> communications pursuant to Rule
+<FONT STYLE="white-space:nowrap">14d-2(b)</FONT> under the Exchange Act (17 CFR <FONT STYLE="white-space:nowrap">240.14d-2(b))</FONT> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt"><FONT STYLE="white-space:nowrap">Pre-commencement</FONT> communications pursuant to Rule
+<FONT STYLE="white-space:nowrap">13e-4(c)</FONT> under the Exchange Act (17 CFR <FONT STYLE="white-space:nowrap">240.13e-4(c))</FONT> </P></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (&#167;230.405 of this
+chapter) or Rule <FONT STYLE="white-space:nowrap">12b-2</FONT> of the Securities Exchange Act of 1934 <FONT STYLE="white-space:nowrap">(&#167;240.12b-2</FONT> of this chapter). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL">Emerging growth company&nbsp;&nbsp;<FONT STYLE="font-family:Times New Roman">&#9744;</FONT> </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new
+or revised financial accounting standards provided pursuant to Section&nbsp;13(a) of the Exchange Act.&nbsp;&nbsp;<FONT STYLE="font-family:Times New Roman">&#9744;</FONT> </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><B>Item&nbsp;8.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Other Events. </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">On April&nbsp;30, 2018, the Superior Court of the State of California for Santa
+Clara County entered an order providing for preliminary approval of a settlement of In re Apple Inc. <FONT STYLE="white-space:nowrap">E-Book</FONT> Derivative Litigation Case No. <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">1-14-CV-269543.</FONT></FONT></FONT> In its order, the Court also approved the form of notice of the settlement, and set a hearing date of July 20, 2018 at 9:00 a.m. to consider the fairness, reasonableness, and adequacy
+of the settlement, and the request for payment of attorneys&#146; fees and expenses to plaintiffs&#146; counsel, the service awards to plaintiffs, and any such other matters as may be appropriate. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">As required by the Court&#146;s order, a copy of the Notice of Proposed Settlement and Settlement Hearing is attached hereto as Exhibit 99.1 and
+incorporated herein by reference. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><B>Item&nbsp;9.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Financial Statements and Exhibits. </B></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">(d)</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">Exhibits. </P></TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD WIDTH="91%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL"><B>Exhibit</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; width:30.25pt; display:inline; font-size:8pt; font-family:ARIAL; "><B>Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL"><B>Exhibit Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9pt">
+<TD VALIGN="top" NOWRAP>99.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d563832dex991.htm">Notice of Proposed Settlement and Settlement Hearing </A></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="center"><B>SIGNATURE </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt">
+
+
+<TR>
+<TD WIDTH="46%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="45%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9pt">
+<TD VALIGN="top">Date: May&nbsp;7, 2018</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Apple Inc.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">/s/ Gene D. Levoff</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Gene D. Levoff</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Secretary</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>d563832dex991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-99.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="right"><B>Exhibit 99.1 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify"><B>TO: ALL CURRENT RECORD HOLDERS AND BENEFICIAL OWNERS OF THE COMMON STOCK OF APPLE INC. (&#147;APPLE&#148; OR THE &#147;COMPANY&#148;)
+AS OF FEBRUARY&nbsp;16, 2018 (&#147;CURRENT APPLE SHAREHOLDERS&#148;). </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify"><B>THIS NOTICE RELATES TO THE PENDENCY AND PROPOSED
+SETTLEMENT OF SHAREHOLDER DERIVATIVE LITIGATION AND CONTAINS IMPORTANT INFORMATION ABOUT YOUR RIGHTS. PLEASE READ THIS NOTICE CAREFULLY AND IN ITS ENTIRETY. THIS IS NOT A &#147;CLASS ACTION.&#148; THUS, THERE IS NO COMMON FUND UPON WHICH YOU CAN
+MAKE A CLAIM FOR A MONETARY PAYMENT. </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify"><B>IF YOU HOLD APPLE COMMON STOCK FOR THE BENEFIT OF ANOTHER, PLEASE PROMPTLY TRANSMIT THIS
+DOCUMENT TO SUCH BENEFICIAL OWNER. </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify"><B>YOU ARE HEREBY NOTIFIED</B>, pursuant to an Order of the Superior Court of the State of
+California, County of Santa Clara (the &#147;Court&#148;), that a proposed Settlement has been reached by the Parties to the shareholder derivative action brought on behalf of Apple, captioned <I>In re Apple Inc.
+<FONT STYLE="white-space:nowrap">E-Book</FONT> Derivative Litigation</I>, Lead Case No. <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">1-14-CV-269543</FONT></FONT></FONT> (the &#147;Action&#148;).
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">The terms of the Settlement are set forth in the Parties&#146; Stipulation of Settlement (the Stipulation&#148;) and summarized in
+this Notice.<SUP STYLE="font-size:85%; vertical-align:top">1</SUP> The term &#147;Settlement&#148; means the terms and conditions contained in the Stipulation. Rather than receiving monetary consideration, the Settlement consists of the Board of
+Director&#146;s agreement to adopt the resolutions set forth in Exhibit A to the Stipulation (the &#147;Antitrust Resolutions&#148;) filed with the Court, which shall be maintained in effect until at least December 31, 2022. Apple acknowledges and
+agrees that adopting the Antitrust Resolutions confers substantial benefits upon Apple and its stockholders. In recognition of the substantial benefits conferred upon Apple as a direct result of the Action and the Settlement, Apple has agreed to pay
+Plaintiffs&#146; attorneys&#146; fees and expenses in the amount of $2,750,000, subject to Court approval, which shall constitute final and complete payment for Plaintiffs&#146; attorneys&#146; fees and expenses that have been incurred or will be
+incurred in connection with the Action and the Settlement. This Notice describes the rights you may have in connection with the Settlement and what steps you may take in relation to the Settlement and this derivative litigation. For a more detailed
+statement of the matters involved in the Action, the Settlement, and the terms discussed in this Notice, the Stipulation may be inspected at the Clerk of Court&#146;s office, 191 N. 1st Street, San Jose, California 95113. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify"><U>The Court will hold a Settlement Hearing before the Honorable Brian C. Walsh on July 20, 2018 at 9:00 a.m. in Department 1 of the
+Superior Court of the State of California, Santa Clara County, located at 191 N. 1st Street, San Jose, California 95113 to consider the fairness, reasonableness, and adequacy of the Settlement, and the request for payment of attorneys&#146; fees and
+expenses to Plaintiffs&#146; Counsel, the service awards to Plaintiffs, and any such other matters as may be appropriate.</U> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">The
+Settlement Hearing may be continued by the Court at the Settlement Hearing, or at any adjourned session thereof without further notice. This Notice is not an expression of any opinion by the Court about the merits of any of the claims or defenses
+asserted by any party in this Action or the fairness or adequacy of the proposed Settlement. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><B>I.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt"><B>BACKGROUND OF THE ACTION </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">This is a derivative action brought by shareholders of Apple, a California corporation, alleging breaches of fiduciary duty by certain
+current and former members of Apple&#146;s Board of Directors (the &#147;Director Defendants&#148;) and Eduardo Cue (&#147;Cue&#148;), Apple&#146;s current Senior Vice President of Internet Software and Services (collectively, the &#147;Individual
+Defendants,&#148; with Apple, the &#147;Defendants&#148;).<B> </B> </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>A.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt"><B>The Antitrust Action</B> </P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">In 2012, after an investigation, the U.S. Department of Justice (&#147;DOJ&#148;) and <FONT STYLE="white-space:nowrap">thirty-two</FONT>
+states&#146; attorneys general commenced an action against Apple and a number of major publishing companies for alleged violations of the Sherman Antitrust Act, 15 U.S.C. &#167;1, and various state laws in connection with a purported price-fixing
+conspiracy to increase electronic book <FONT STYLE="white-space:nowrap">(&#147;e-book&#148;)</FONT> prices. The publisher defendants settled, and Apple proceeded to trial, after which the U.S. District Court for the Southern District of New York
+(the &#147;District Court&#148;) found Apple liable for violating Section&nbsp;1 of the Sherman Act. On July&nbsp;10, 2013, the District Court issued an Opinion and Order concluding that the publishers had conspired with each other to eliminate
+retail price competition in order to raise <FONT STYLE="white-space:nowrap">e-book</FONT> prices, and that Apple played a central role in facilitating and executing that conspiracy. On September&nbsp;5, 2013, the District Court entered the Final
+Judgment and Order Entering Permanent Injunction requiring, among other things, the appointment of an external compliance monitor to review and evaluate Apple&#146;s internal antitrust compliance policies and procedures. The Second Circuit affirmed
+the liability ruling, and its ruling regarding the appointment of the external monitor, and the U.S. Supreme Court denied Apple&#146;s petition for writ of certiorari. In April 2016, Apple paid $450&nbsp;million to settle the claims. </P>
+<P STYLE="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:10%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">1</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">The Stipulation is also available on the websites of Plaintiffs&#146; <FONT STYLE="white-space:nowrap">Co-Lead</FONT>
+Counsel, at www.robbinsarroyo.com/category/notices and www.grantfirm.com. </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="center">1 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>B.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt"><B>Procedural History of this Litigation</B> </P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">On August&nbsp;15, 2014, plaintiff Daryl Burns (&#147;Burns&#148;), an Apple shareholder, filed a derivative complaint in the Court
+captioned <I>Burns v. Cook, et al.</I>, Case No. <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">1-14-cv-269543,</FONT></FONT></FONT> on behalf of Apple against the Director Defendants and defendant
+Cue, seeking damages and other equitable remedies for alleged breaches of fiduciary duty, waste of corporate assets, and unjust enrichment. Burns alleged that, as a result of the Individual Defendants&#146; alleged wrongdoing, Apple participated in
+a conspiracy to set <FONT STYLE="white-space:nowrap">e-book</FONT> prices at artificially high levels, which violated antitrust laws, and that thereafter they failed to comply with Apple&#146;s obligations under the Final Judgment and Order Entering
+Permanent Injunction entered by the District Court on September&nbsp;5, 2013. Burns sought damages and other equitable remedies for the alleged harm Apple sustained due to the alleged conduct of defendant Cue and the alleged compliance and oversight
+failures of the Director Defendants. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">On September&nbsp;4, 2014, plaintiff Destiny Crane filed an action captioned <I>Crane v. Cook,
+et al.</I>,<I> </I>Case No. <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">1-14-CV-270239,</FONT></FONT></FONT> in the Court containing similar allegations. On October&nbsp;2, 2014, the Court
+issued an order consolidating the <I>Burns</I> and<I> Crane</I> actions, appointing lead counsel, and setting a schedule for the filing of a consolidated complaint. On February&nbsp;3, 2015, Plaintiffs filed a Consolidated Shareholder Derivative
+Complaint for Breach of Fiduciary Duty (&#147;Consolidated Complaint&#148;). On March&nbsp;5, 2015, Defendants (except Susan L. Wagner (&#147;Wagner&#148;), who had not yet been named as a defendant) filed a demurrer to the Consolidated Complaint.
+The motion was fully briefed. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">On March&nbsp;6, 2015, plaintiff Steven Berzner (&#147;Berzner&#148;) filed a complaint in this Court
+captioned <I>Berzner v. Cook, et. al.</I>, Case No. <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">1-15-CV-277705,</FONT></FONT></FONT> which was based upon the same or similar facts alleged in the
+Consolidated Complaint. On March&nbsp;24, 2015, Berzner filed a motion to <FONT STYLE="white-space:nowrap">re-open</FONT> the consolidation order and stay the consolidated action. Following a hearing on May&nbsp;1, 2015, the Court granted
+Berzner&#146;s motion and appointed Robbins Arroyo LLP and TheGrantLawFirm, PLLC as <FONT STYLE="white-space:nowrap">co-lead</FONT> counsel for plaintiffs in the Action (&#147;Plaintiffs&#146; <FONT STYLE="white-space:nowrap">Co-Lead</FONT>
+Counsel&#148;), consolidated the actions, and granted Berzner&#146;s request to allow the filing of an amended consolidated complaint. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">On June&nbsp;8, 2015, Plaintiffs filed a Consolidated Shareholder Derivative Complaint (the &#147;FAC&#148;). Apple and the Defendants
+demurred to the FAC. Following full briefing and a hearing, on December&nbsp;21, 2015, the Court issued its Order overruling the FAC Demurrer as to all defendants except Cue. The parties filed motions to reconsider, which were subsequently denied.
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">On May&nbsp;27, 2016, Cue filed a demurrer to the SAC and Apple and the Director Defendants filed a demurrer to the SAC, an
+alternative motion to strike and a motion for judicial notice (together, the &#147;SAC Demurrer&#148;), which were subsequently taken off calendar pending resolution of the Special Litigation Committee of Apple&#146;s Board&#146;s Motion to Stay
+(&#147;Motion to Stay&#148;), discussed further below. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">On December&nbsp;8, 2016, defendant Cue again filed a Demurrer to the SAC
+(the &#147;Cue Demurrer&#148;) and the Director Defendants (other than defendant Wagner) filed another Motion to Strike portions of the SAC (the &#147;Director Defendants&#146; Motion&#148;). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">After a case management conference, on January&nbsp;12, 2017, the Parties filed a stipulation and agreed that, in the interests of
+promoting judicial efficiency and the reasonable disposition of disputes, and without waiving any rights, the hearings on Cue&#146;s Demurrer and the Director Defendants&#146; Motion to Strike would be taken off calendar, and no additional discovery
+would be served or noticed while the Parties were continuing to discuss in good faith a potential resolution of the Action. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>C.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt"><B>Formation of the Special Litigation Committee</B> </P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">On April&nbsp;26, 2016, Apple&#146;s Board of Directors formed a Special Litigation Committee (&#147;SLC&#148;) by unanimous vote, and
+gave it responsibility for the claims asserted in the Action. The April&nbsp;26, 2016, resolution forming the SLC states, in part: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:7%; font-size:9pt; font-family:ARIAL" ALIGN="justify">[T]o the fullest extent permitted by the Bylaws and applicable law, the Special Litigation Committee shall have the authority to
+investigate and evaluate any and all claims and allegations asserted in the Actions and to pursue, litigate, settle, or otherwise dispose of any and all claims and allegations asserted in the Actions, in whatever manner the Special Litigation
+Committee deems reasonable and necessary to enable it to discharge its responsibilities. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">On July&nbsp;17, 2016, Apple&#146;s Board
+approved a resolution confirming the SLC&#146;s authority over the Action. The SLC is composed of two Apple directors, Wagner and James A. Bell. Shortly after the SLC was formed, its members retained the law firm of Shartsis Friese LLP to assist in
+conducting its investigation and evaluation. On June&nbsp;22, 2016, the SLC filed the Motion to Stay all proceedings in this Action until completion of its investigation. On August&nbsp;1, 2016, the Court entered an Order denying the SLC&#146;s
+Motion to Stay. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="center">2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>D.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt"><B>Discovery Efforts</B> </P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">On April&nbsp;15, 2016, the Court lifted the discovery stay that had been in effect since the commencement of the Action. On
+April&nbsp;22, 2016, Plaintiffs served their First Request for Production of Documents to Apple. At an informal discovery conference that was held on July&nbsp;12, 2016, the Court ordered Apple to produce certain discovery to Plaintiffs. In <FONT
+STYLE="white-space:nowrap">mid-2016,</FONT> Plaintiffs received <FONT STYLE="white-space:nowrap">non-public</FONT> documents for review from Apple, including Apple&#146;s internal corporate documents, such as emails, transcripts, deposition
+testimony, and other materials that had been produced and/or created in the Antitrust Action, which Plaintiffs reviewed and analyzed. Plaintiffs also noticed the depositions of nominal defendant Apple and defendant Andrea Jung and served written
+discovery requests to Defendants, including: (i)&nbsp;a Second Request for Production of Documents to Apple; (ii)&nbsp;interrogatories to all Defendants; (iii)&nbsp;First Requests for Admission of Genuineness of Documents to Apple; (iv)&nbsp;first
+Request for Admission of Genuineness of Documents to Defendant Timothy D. Cook; and (v)&nbsp;a Second Request for Admission of Genuineness of Documents to Apple. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>E.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt"><B>Settlement Negotiations</B> </P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">On November&nbsp;15, 2016, the Parties engaged in an <FONT STYLE="white-space:nowrap">all-day,</FONT> in person formal mediation process
+before the Hon. Layn R. Phillips, U.S. District Court Judge (Ret.) (&#147;Judge Phillips&#148;), a mediator with extensive experience handling complex representative actions, including shareholder derivative actions. Prior to the initial <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">face-to-face</FONT></FONT> mediation, the Parties submitted extensive mediation briefs and term sheets to Judge Phillips, and exchanged certain information, including portions of their
+mediation submissions to Judge Phillips and Apple&#146;s insurance policies. Both members of the SLC were present for the full day of mediation. While progress was made, the Parties were unable to resolve the matter at that time; however, the
+Parties subsequently continued to communicate with the mediator regarding a potential resolution of the matter. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">After continued <FONT
+STYLE="white-space:nowrap">arm&#146;s-length</FONT> settlement negotiations under the supervision of Judge Phillips, Plaintiffs and the SLC reached an
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">agreement-in-principle</FONT></FONT> for the resolution of the Action on March&nbsp;3, 2017, as discussed below. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><B>II.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt"><B>PLAINTIFFS&#146; AND PLAINTIFFS&#146; COUNSEL&#146;S POSITION </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">Plaintiffs and Plaintiffs&#146; Counsel believe that the claims asserted in the Action have substantial merit, and Plaintiffs&#146; entry
+into the Stipulation and Settlement is not intended to be and shall not be construed as an admission or concession concerning the relative strength or merit of the allegations and claims asserted in the Action. However, Plaintiffs and
+Plaintiffs&#146; Counsel recognize and acknowledge the significant risk, expense, and length of continued proceedings necessary to prosecute the Action against the Defendants through trial and through possible appeals. Plaintiffs and
+Plaintiffs&#146; Counsel are also mindful of the substantial risks and costs involved in complex shareholder derivative litigation generally, as well as the inherent difficulties of proof of and possible defenses to the claims asserted in the
+Action. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">Plaintiffs&#146; Counsel assert that they have conducted an extensive investigation over the course of several years,
+including: (i)&nbsp;reviewing Apple&#146;s press releases, public statements, SEC filings, and articles and books about Apple and its executives; (ii)&nbsp;reviewing Apple&#146;s court filings in other actions; (iii)&nbsp;reviewing and analyzing
+relevant documents in the Antitrust Action (and related appeals), including (among other things) court filings by Apple and the DOJ and plaintiff states, the opinions and orders of the District Court and the Second Circuit, the Final Judgment and
+Order Entering Permanent Injunction, the four reports of the Monitor, and appellate briefs filed by Apple and the DOJ and the plaintiff states; (iv)&nbsp;reviewing and analyzing internal corporate documents, including Board meeting minutes and
+materials produced by Apple in response to Plaintiffs&#146; inspection demands pursuant to California Corporations Code Section&nbsp;1601; (v) reviewing and analyzing hundreds of thousands of pages of discovery requests, responses, deposition and
+trial transcripts and exhibits, internal Apple emails, and other documents produced in the Antitrust Action, which were subsequently produced to Plaintiffs in this Action; (vi)&nbsp;reviewing Defendants&#146; responses to written discovery served by
+Plaintiffs in the Action, including among other things, Defendants&#146; responses to interrogatories concerning Plaintiffs&#146; claims in the Action; (vii)&nbsp;researching the applicable law with respect to the claims asserted in the Action and
+the potential defenses thereto; (viii)&nbsp;conducting damages analyses; (ix)&nbsp;reviewing and analyzing Apple&#146;s corporate governance documents, including committee charters and Apple&#146;s Corporate Governance Guidelines, and other internal
+corporate documents concerning Apple&#146;s policies and procedures relating to antitrust compliance in place during the relevant period alleged in Plaintiffs&#146; complaints; (x)&nbsp;reviewing Apple&#146;s insurance policies; (xi)&nbsp;conducting
+an <FONT STYLE="white-space:nowrap">in-person</FONT> interview of Michael Bromwich, the District Court-appointed Monitor; (xii)&nbsp;participating in an <FONT STYLE="white-space:nowrap">in-person,</FONT>
+<FONT STYLE="white-space:nowrap">full-day</FONT> mediation and drafting, reviewing, and exchanging briefs and other documents outlining the Parties&#146; respective positions regarding Plaintiffs&#146; claims in the Action; (xiii)&nbsp;reviewing and
+analyzing the SLC&#146;s January&nbsp;19, 2017 report regarding defendant Cue; and (xiv)&nbsp;reviewing and analyzing the SLC&#146;s June&nbsp;24, 2017 report regarding the Director Defendants and Settlement. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">Based on Plaintiffs&#146; Counsel&#146;s thorough investigation, review, analysis, and evaluation of the relevant facts and difficult
+circumstances, allegations, defenses, and controlling legal principles, Plaintiffs and Plaintiffs&#146; Counsel have determined that it is desirable to settle the Action upon the terms and subject to the conditions set forth in the Stipulation.
+Plaintiffs&#146; Counsel believe that the Settlement set forth in the Stipulation is fair, reasonable, and adequate and confers substantial benefits upon Apple and its shareholders. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="center">3 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><B>III.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt"><B>DEFENDANTS&#146; AGREEMENT TO THE SETTLEMENT AND DENIALS OF WRONGDOING AND LIABILITY </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">Defendants have denied and continue to deny all allegations of wrongdoing or liability against them or any of them arising out of, based
+upon, or resulting from any of the conduct, acts, or omissions alleged in the Action. Without limiting the foregoing, Defendants have denied and continue to deny, among other things, that they have breached any duty owed to Apple or its
+shareholders. Defendants also deny that Plaintiffs, Apple, or its shareholders have suffered any damages or were harmed as a result of any alleged breach of duty. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">Nonetheless, Defendants recognize that further defense of the Action could be protracted, expensive, and distracting. Defendants also
+have taken into account the expense, uncertainty, and risks inherent in any litigation, especially in complex cases like the Action. As a result, Defendants have determined that it is desirable and beneficial that the Action, and all of the
+Parties&#146; disputes related thereto, be fully and finally settled in the manner and upon the terms and conditions set forth in the Stipulation. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><B>IV.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt"><B>THE SLC&#146;S POSITION </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">The SLC and its counsel spent eleven months independently investigating and evaluating the claim made on behalf of Apple in the Action
+against the Defendants. The SLC&#146;s counsel reviewed more than 17,000 documents, including the <FONT STYLE="white-space:nowrap">pre-trial,</FONT> trial, and appellate record of the antitrust proceeding in the U.S. District Court for the Southern
+District of New York, titled <I>United States v. Apple Inc.</I>, No. <FONT STYLE="white-space:nowrap">1-12CV-2826</FONT> (the &#147;Antitrust Action&#148;), and internal documents regarding Apple&#146;s antitrust compliance policies from 2009 to the
+present. The SLC conducted fifteen formal interviews, including of percipient witnesses, several defendants, and the Antitrust Compliance Monitor appointed by the court in the Antitrust Action. The SLC formally met nineteen times to review and
+evaluate the evidence. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">The SLC determined that defendant Cue did not breach any duties to Apple or its shareholders in connection
+with the negotiation and execution of the <FONT STYLE="white-space:nowrap">e-books</FONT> contracts in 2009 and 2010. The SLC&#146;s investigation, reasoning, and conclusions are described in an extensive
+<FONT STYLE="white-space:nowrap">72-page</FONT> SLC Report Regarding Cue dated January&nbsp;19, 2017. The SLC further determined that, at all times, all Director Defendants properly discharged their fiduciary duties to Apple and its shareholders.
+The SLC&#146;s investigation, reasoning, and conclusions about the claims against the Director Defendants, as well as the basis for the SLC&#146;s conclusion that this Settlement is in Apple&#146;s best interest, are described in an extensive <FONT
+STYLE="white-space:nowrap">73-page</FONT> SLC Report Regarding Director Defendants and Settlement dated June&nbsp;24, 2017. Based on the evidence obtained and reviewed by the SLC, had this case not settled, the SLC would have sought dismissal of the
+SAC against each of the Defendants. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">The SLC believes it to be in its best interests for the Action to be settled on the terms and
+conditions set forth in the Stipulation because the Settlement will confer substantial benefits upon Apple and its shareholders, avoiding the expense, distraction, and risks posed by continued litigation of the Action. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><B>V.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt"><B>TERMS OF THE PROPOSED SETTLEMENT </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">The full terms and conditions of the Settlement are embodied in the Stipulation. This summary should be read in conjunction with, and is
+qualified in its entirety by reference to, the text of the Stipulation, which has been filed with the Court and is available at www.robbinsarroyo.com/category/notices and www.grantfirm.com. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">Within ninety days following the Effective Date of the Stipulation, Apple&#146;s Board of Directors agrees to adopt the below resolutions
+set forth in Exhibit 1 to the Stipulation (the &#147;Antitrust Resolutions&#148;) and to keep such modifications in force and effect until at least December&nbsp;31, 2022. Apple has acknowledged and agreed that adopting the Antitrust Resolutions
+confers substantial benefits upon Apple and its shareholders. Apple further acknowledges that the benefits conferred by the adoption of these policies and the formal adoption by the Board of the current antitrust compliance policies separately
+described below were directly and proximately caused by the litigation and settlement of this Action. The Settling Parties believe that a settlement at this juncture on the terms and on the conditions set forth in this Stipulation is fair,
+reasonable, and adequate. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">The Antitrust Resolutions provide that: </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(a) The Audit and Finance Committee (AFC) shall meet at least quarterly, and in any event shall meet within four weeks of notice of the
+formal institution of any state or federal antitrust investigation. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(b) Apple&#146;s Antitrust Compliance Officer (ACO) shall attend
+the quarterly <FONT STYLE="white-space:nowrap">in-person</FONT> AFC meetings and advise the AFC regarding significant antitrust issues and legal developments relevant to the Corporation&#146;s business. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(c) The ACO shall provide the AFC with a quarterly written report regarding Apple&#146;s compliance with the Final Judgment, including
+updates concerning: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="7%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">i.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">the status of the Implementation Plan; </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="center">4 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="7%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">ii.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">the status and results of any risk assessment or risk audit performed by the ACO or any employee or third party
+consultant engaged by the ACO to perform or provide assistance to the ACO in performing the risk assessment or audit; </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="7%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">iii.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">an evaluation of Apple&#146;s internal controls, reporting procedures, systems, and policies, including recommendations
+based upon that evaluation; and </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="7%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">iv.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">any complaints or violations of the antitrust laws, or the compliance measures in place at Apple to detect and prevent
+violations of the antitrust laws. </P></TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(d) The AFC shall conduct an annual review (Annual Review) to consider any
+antitrust matters that may impact the Corporation and to determine whether the Corporation&#146;s corporate governance is providing adequate protection with respect to antitrust matters. The Annual Review shall include: </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="7%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">i.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">reviewing an antitrust risk assessment report prepared by the Corporation&#146;s management and/or any other committee or
+employee group dedicated to antitrust compliance, respecting all aspects of the Corporation and all product lines, such that the AFC can properly evaluate the Corporation&#146;s antitrust risk both at the enterprise level and on a product line
+basis; </P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="7%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">ii.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">receiving a written report from the Corporation&#146;s management or a third party consultant regarding the current
+status of any practices implemented because of the Final Judgment and Order Entering Permanent Injunction, or a result of a recommendation from the monitor appointed through that process; and </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="7%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">iii.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">reviewing any recommendations made by the monitor, but not adopted by the Corporation, to determine whether they should
+be adopted at that time, or whether a similar provision may be beneficial to the Corporation. </P></TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(e) Based on the
+Annual Review, the AFC shall determine whether the policies and practices of the Corporation with respect to antitrust compliance are appropriate and sufficient, and whether any new policies need to be adopted, or whether modifications to existing
+policies need to be made. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(f) The AFC shall provide a report to the Board regarding the results of its Annual Review. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(g) The AFC shall meet at least annually with the top executives it deems critical to the success of the Corporation&#146;s antitrust
+compliance policies to discuss the current state of such policies. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(h) Quarterly Board meetings shall include discussion of any
+material litigation or material potential litigation involving alleged antitrust violations. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(i) The ACO shall: </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="7%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">i.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">meet with members of any division at Apple responsible for a new product launch to discuss and evaluate any antitrust
+concerns relating to that new product; and </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="7%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">ii.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">provide a report for the Board and the Chief Executive Officer on a regular basis, addressing any antitrust concerns
+respecting the launch of any new product and indicating the means that the Corporation intends to take to address such concerns. </P></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(j) The ACO shall continue to have access to all Corporation documents and personnel she/he requires to carry out her/his duties. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(k) The Chair of the AFC shall meet with the ACO on a quarterly basis, and review with the ACO the efficacy of any antitrust compliance
+measures. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(l) The Chair of the AFC shall review and provide guidance regarding compensation, hiring and firing related to the ACO,
+and the AFC shall review and provide guidance regarding the scope of the ACO&#146;s duties and responsibilities. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(m) The Board and
+the other Apple employees listed in Sections V.A and V.B of the Final Judgment issued by Judge Cote on September&nbsp;5, 2013, shall receive annual training in antitrust compliance. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(n) The Corporation shall make its antitrust and competition law and policy available to the public on its corporate governance website.
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(o) On an annual basis, the ACO shall retain an independent consultant to update the antitrust compliance program review conducted
+by PricewaterhouseCoopers in 2015. The independent consultant shall identify material deficiencies, if any, in the Corporation&#146;s antitrust compliance program. The independent consultant shall provide a report to the AFC, which shall consider
+the recommendations in the report. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="center">5 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(p) The Corporation shall add language to its proxy statement indicating that antitrust
+compliance experience will be one of the factors considered by the Nominating&nbsp;&amp; Corporate Governance Committee in identifying candidates for the next open position for director. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(q) The Chief Compliance Officer shall meet annually with the AFC to discuss the performance of the ACO. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(r) The ACO shall meet quarterly with the head of the Competition Law Team to discuss significant antitrust issues and legal developments
+relevant to the Corporation&#146;s business. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL"><B>Formal Adoption of the Company&#146;s Antitrust Compliance Program: </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">Additionally, Apple has agreed that its Board will formally adopt the current antitrust compliance policies stated below, which shall also
+remain in place until December 2022: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">1.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">Apple employs an Antitrust Compliance Officer (&#147;ACO&#148;) who is charged with overseeing and executing Apple&#146;s
+Antitrust Compliance Program. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">2.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">Apple has an Antitrust and Competition Law Policy. This policy is maintained and updated by the ACO, in consultation with
+the head of the Competition Law Team, and the Chief Compliance Officer (&#147;CCO&#148;). </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">3.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">Apple has a Business Conduct Policy. There is a dedicated Antitrust and Competition provision in this Policy. This policy
+is maintained and updated by the Business Conduct and Global Compliance Team. The ACO, in consultation with the head of the Competition Law Team, works with the Business Conduct and Global Compliance Team to update the Antitrust and Competition Law
+section of this Policy. A copy of this policy is attached as Exhibit A2. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">4.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">Apple regularly takes steps to ensure that the Antitrust and Competition Law Policy is disseminated, understood, and
+used. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">5.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">Apple has an Antitrust Compliance Program review procedure that provides the timing, substantive, and logistical
+guidelines for revising Apple&#146;s antitrust policies and procedures. This procedure is maintained and updated by the ACO. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">6.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">Apple has a live and online training procedure to address the manner in which the ACO determines the audience, number of
+sessions, substantive materials, and logistical considerations in planning each of the annual live and online training sessions. This procedure is maintained and updated by the ACO. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">7.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">The Competition Law Team provides live training to employees not subject to the terms of the Final Judgment, but who they
+have determined would benefit from live training. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">8.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">To the extent possible, the ACO attends every live antitrust training provided by the Competition Law Team.
+</P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">9.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">Since the Final Judgment, Apple has provided antitrust training to more than 10,000 employees. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">10.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">Apple has a feedback procedure addressing the steps the ACO takes to solicit employee feedback for Apple&#146;s live and
+online antitrust trainings. This procedure is maintained and updated by the ACO. The ACO uses feedback obtained from employees to inform updates to the Antitrust Compliance Program. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">11.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">Apple maintains records of feedback regarding the antitrust live and online training. Apple also electronically tracks
+training attendance. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">12.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">Apple has a procedure setting forth the methods that Apple uses to detect, investigate, and, if necessary, impose
+discipline for violations of the antitrust laws. This procedure is maintained and updated by the ACO, in consultation with the CCO and the head of the Competition Law Team. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">13.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">The ACO disseminates to Apple employees information regarding a number of mechanisms for reporting suspected antitrust
+violations. This includes content in the live and online trainings reiterating this obligation. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">14.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">Apple has an escalation procedure for addressing how information about antitrust issues should be escalated to the
+appropriate people within Apple. This procedure is maintained and updated by the ACO. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">15.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">Apple disseminates its own <FONT STYLE="white-space:nowrap">non-reprisal</FONT> policy throughout the company and sets
+clear expectations that its employees not engage in retaliatory behavior against third parties. The following materials contain anti-reprisal language to help encourage questions and reporting of issues: Antitrust and Competition Law Policy, online
+training, live training, Business Conduct eBook chapter, Summary of the Final Judgment, logging certifications, and intranet site. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">16.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">The ACO communicates annually to Apple&#146;s employees that they may disclose to the ACO, without reprisal, information
+concerning any potential violation of the antitrust laws. </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="center">6 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">17.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">Apple has an audit procedure customized to Apple&#146;s Antitrust Compliance Program. This procedure is maintained and
+updated by the ACO. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">18.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">The ACO conducts a quarterly audit of new eBooks contracts. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">19.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">In addition to its real-time risk analysis, Apple conducts a more formal comprehensive antitrust risk assessment. This
+risk assessment is used, among other purposes, to inform and modify the Antitrust Compliance Program. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">20.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">All categories of employees identified in the Final Judgment are required to certify that they have read and understand
+the Antitrust and Competition Law Policy. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">21.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">Apple maintains a Business Conduct Helpline and an antitrust/competition law mailbox that are available to Apple
+employees for questions related to antitrust. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">22.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">The ACO audits the Business Conduct Helpline specific to antitrust issues to ensure that matters are promptly brought to
+her attention. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">23.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">The ACO tracks questions and responses from the competitionlaw@apple.com mailbox. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">24.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">Apple maintains a dedicated intranet page with information about its Antitrust Compliance Program, including links to
+antitrust compliance training materials and contact information for the ACO and Competition Law Team. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">25.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">Antitrust Compliance Program Updates are provided to the Board of Directors on a quarterly basis. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">26.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">The Chair of the AFC reviews the performance evaluation and compensation of the ACO in concert with Apple&#146;s
+management. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">27.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">The ACO provides a quarterly update to the AFC concerning the Antitrust Compliance Program. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">28.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">The Chair of the AFC and the ACO participate in a monthly phone call to discuss issues related to the Antitrust
+Compliance Program. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">29.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">On a quarterly basis, the ACO meets with key executives and senior lawyers to ensure that any questions or allegations
+concerning antitrust issues have been addressed. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">30.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">The head of the Competition Law Team meets with business and legal stakeholders on a regular basis to keep apprised of
+antitrust related matters. </P></TD></TR></TABLE> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><B>VI.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt"><B>DISMISSAL AND RELEASES </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">In connection with the Court&#146;s approval of the Settlement, Plaintiffs&#146; Action and all claims asserted by Plaintiffs on behalf of
+Apple and against the Individual Defendants will be dismissed with prejudice. The full terms of the release and discharge of claims are set forth in the Stipulation. The following is only a summary of the claims released pursuant to the Settlement.
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">The following defined terms are used in the Settlement releases summarized below: </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">&#147;Released Persons&#148; means, collectively, each and all of Apple, Defendants, and their Related Persons.
+&#147;Released Person&#148; means any of the Released Persons individually. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">&#147;Releasing Persons&#148; means, collectively, each and all of Apple, Plaintiffs (both individually and derivatively
+on behalf of Apple), any other Apple shareholder (solely in his or her capacity as an Apple shareholder), and Plaintiffs&#146; Counsel. &#147;Releasing Person&#148; means any of the Releasing Persons individually. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">&#147;Related Persons&#148; means (i)&nbsp;as to Apple, Apple&#146;s officers, directors, employees, and subsidiaries,
+any entity in which Apple has a controlling interest, any of Apple&#146;s accountants and auditors, solely in their capacity as agents of Apple or while acting as agents of Apple, and Apple&#146;s lawyers, solely in their capacity as counsel for
+Apple, and (ii)&nbsp;as to the Defendants, (1)&nbsp;each spouse, immediate family member, heir, executor, or estate of any of them, and (2)&nbsp;any trust in respect of which any of the Defendants, or any spouse or immediate family member thereof
+serves as a settlor, beneficiary, or trustee. </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="center">7 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">&#147;Released Claims&#148; means any and all past, present, and future claims, cross-claims, rights, remedies, debts,
+demands, obligations, liabilities, or causes of action of every nature and description whatsoever (including, but not limited to, all claims for damages, punitive damages, compensation, restitution, rescission, interest, attorneys&#146; fees or
+costs, expert or consulting fees, and any other costs, expenses, losses, or liabilities of any kind or nature whatsoever), existing individually or derivatively on behalf of Apple, against any of the Released Persons, whether known or unknown,
+whether based on federal, state, local, statutory, common, or foreign law, or any other law, rule, or regulation, whether at law or in equity, fixed or contingent, which arise out of or relate in any way to the allegations in Plaintiffs&#146;
+Complaints. Notwithstanding the foregoing, the &#147;Released Claims&#148; shall not mean and do not include: (a)&nbsp;any and all claims and causes of action that have been asserted in <I>In re Apple Inc. Derivative Litigation</I>, Lead Case No. <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">1-14-CV-262174</FONT></FONT></FONT> (Consolidated with Case No. <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">1-14-CV-266403</FONT></FONT></FONT> and Case No. <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">1-14-CV-267237)</FONT></FONT></FONT> (&#147;Apple High Tech Employee
+Derivative Litigation&#148;) and <I>Klein v. Cook, et al.</I>, Case No. <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">5:14-CV-03634-EJD</FONT></FONT></FONT> (the &#147;Federal Derivative
+Action&#148;), and that exist derivatively on behalf of Apple, against any of the Defendants and their Related Persons and any of Apple&#146;s officers, directors, and employees which arise out of and relate to the allegations in Apple High Tech
+Employee Derivative Litigation or Federal Derivative Action; and (b)&nbsp;any claims to enforce the terms of the Settlement. </P></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">The following provides a summary of the claims released in the Settlement: </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">Upon the Effective Date, the Releasing Persons shall be deemed to have, and by operation of the Judgment shall have,
+fully, finally, and forever released, relinquished, and discharged and dismissed with prejudice the Released Claims against the Released Persons and the Related Persons. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">Further, upon the Effective Date, each of the Released Persons and the Related Persons shall be deemed to have, and by
+operation of the Judgment shall have, fully, finally, and forever released, relinquished, and discharged each and all of the Plaintiffs, Plaintiffs&#146; Counsel, and all Current Apple Shareholders (solely in their capacity as Apple shareholders),
+its Related Persons, and Apple from all claims, debts, demands, rights, or causes of action or liabilities, whether known or unknown, relating to, arising out of, or in connection with the institution, prosecution, assertion, resolution, or
+Settlement of the Action or the Released Claims. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">The Releasing Persons, Released Persons, and Related Persons hereby expressly agree that the releases set forth in the
+Stipulation are intended to be general releases of all claims described in such paragraphs. As to such claims, the Releasing Parties expressly waive any protections afforded by California Civil Code Section&nbsp;1542, which provides:
+</P></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:11%; font-size:9pt; font-family:ARIAL" ALIGN="justify">A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN ITS FAVOR AT
+THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM MUST HAVE MATERIALLY AFFECTED HIS SETTLEMENT WITH THE DEBTOR. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:7%; font-size:9pt; font-family:ARIAL" ALIGN="justify">The Settling
+Parties hereby acknowledge, and the Apple shareholders shall be deemed by operation of the Judgment to have acknowledged, that the foregoing waiver was separately bargained for and is a key element of the Settlement of which this release is a part.
+</P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt">Nothing set forth in this section will in any way impair or restrict the rights of the Releasing Persons, Released
+Persons, and Related Persons to enforce the terms of the Stipulation, Approval Order, and/or the Judgment. </P></TD></TR></TABLE> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><B>VII.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt"><B>PLAINTIFFS&#146; COUNSEL&#146;S FEES AND EXPENSES </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">Plaintiffs&#146; Counsel has not received any payment for work in connection with the Action, nor have they been reimbursed for <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">out-of-pocket</FONT></FONT> expenses. Plaintiffs&#146; prosecution of the Action and participation in the settlement negotiations were substantial factors in obtaining the Antitrust
+Resolutions described above. Accordingly, Apple has agreed, through its SLC, subject to Court approval, to pay Plaintiffs&#146; Counsel $2,750,000, inclusive of expenses in recognition of the substantial benefits conferred upon Apple as a result of
+the Action and the Settlement (&#147;Attorney Fee Award&#148;). Plaintiffs&#146; Counsel further intend to apply to the Court for a fee of up to $5,000 for each named plaintiff (the &#147;Service Awards&#148;) to be paid from the Attorney Fee Award.
+Neither the Individual Defendants nor Apple&#146;s shareholders are personally liable for the payment of the Attorney Fee Award or the Service Awards. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="center">8 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><B>VIII.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt"><B>THE RIGHT TO OBJECT AND BE HEARD AT THE HEARING </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">Any Current Apple Shareholder may object and appear and show cause, at their own expense, individually or through counsel of their own
+choice, if he, she, or it has any basis to assert that the Settlement should not be approved as fair, reasonable, and adequate, or why the Judgment should not be entered thereon, or why the Attorney Fee Award should not be approved. Any Current
+Apple Shareholder may file a written objection to contest the approval of the terms and conditions of the Settlement, or, if approved, the Judgment to be entered thereon approving the same, or the amount of attorneys&#146; fees and reimbursement of
+expenses to Plaintiffs&#146; Counsel, by filing with the Clerk of the Court <B><I>on or before June 29, 2018</I></B>, setting forth: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:7%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(1) proof of current ownership of Apple common stock, including the number of shares of Apple common stock and the date of purchase; </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:7%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(2) a statement of the basis of the objection to the Settlement with your name, address, and telephone number, including any documentation
+to support the objection and the identities of any witnesses you intend to call at the Settlement Hearing; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:7%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(3) notice of whether you
+intend to appear at the Settlement Hearing; and </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:7%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(4) copies of any papers you intend to submit to the Court. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">If a Current Apple Shareholder files a written objection or written notice of intent to appear, such shareholder <B><I>must also
+simultaneously serve copies of such notice, proof, statement, and documentation, together with copies of any other papers or briefs such shareholder files with the Court (either by hand delivery or by first class mail) upon each of the
+following:</I></B> </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="51%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="47%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">Clerk of the Court</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">Superior Court of
+the State of California</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">Santa Clara County</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">191 N.
+1st Street</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">San Jose, CA 95113</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">Lynda J. Grant</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">THE GRANT LAW FIRM,
+PLLC</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">521 Fifth Avenue, 17th Floor</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">New York, NY
+10175</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">lgrant@grantfirm.com</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:9pt; font-family:ARIAL" ALIGN="justify"><I><FONT STYLE="white-space:nowrap">Co-Lead</FONT> Counsel for Plaintiffs</I></P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">Kevin A. Seely</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">ROBBINS ARROYO LLP</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">600 B Street, Suite 1900</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">San Diego, CA 92101</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">kseely@robbinsarroyo.com</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:9pt; font-family:ARIAL" ALIGN="justify"><I><FONT STYLE="white-space:nowrap">Co-Lead</FONT> Counsel for Plaintiffs</I></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">Arthur J. Shartsis</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">SHARTSIS FRIESE
+LLP</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">One Maritime Plaza, 18th Floor</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">San Francisco,
+CA 94111</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">ashartsis@sflaw.com</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:9pt; font-family:ARIAL" ALIGN="justify"><I>Counsel for the SLC</I></P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">Edward W. Swanson</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">SWANSON&nbsp;&amp;
+McNAMARA LLP</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">300 Montgomery Street, Suite 1100</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">San
+Francisco, CA 94104</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">ed@smllp.law</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:9pt; font-family:ARIAL" ALIGN="justify"><I>Counsel for Defendant Eduardo Cue</I></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">Norman J. Blears</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">SIDLEY AUSTIN
+LLP</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">1001 Page Mill Road, Building 1</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">Palo Alto, CA
+94304</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">nblears@sidley.com</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify"><I>Counsel for Defendants Ronald D. Sugar,</I></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify"><I>Millard S. Drexler, Timothy D. Cook, Robert A.</I></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify"><I>Iger, Arthur D. Levinson, Andrea Jung, and</I></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:9pt; font-family:ARIAL" ALIGN="justify"><I>Albert A. Gore, Jr.</I></P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">Seth Aronson</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">O&#146;MELVENY&nbsp;&amp; MYERS LLP</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">400 S. Hope Street,
+18th Floor</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">Los Angeles, CA 90071</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">saronson@omm.com</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:9pt; font-family:ARIAL" ALIGN="justify"><I>Counsel for Nominal Defendant Apple Inc.</I></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">Gilbert R. Serota</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">ARNOLD&nbsp;&amp;
+PORTER KAYE SCHOLER LLP</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">3000 El Camino Real</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">Five
+Palo Alto Square, Suite 500</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">Palo Alto, CA 94306</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify">gilbert.serota@apks.com</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:9pt; font-family:ARIAL" ALIGN="justify"><I>Counsel for Defendant Susan Wagner</I></P></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="center">9 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">You may also appear and object at the Settlement Hearing, with or without having submitted a
+written objection. Unless the Court orders otherwise, your written objection will not be considered unless it is timely filed with the Court and delivered to the above-referenced counsel for the Settling Parties. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">Any Person or entity who fails to object or appear in the manner prescribed above will be deemed to have waived the right to object to
+any aspect of the Settlement or the agreed-upon Attorney Fee Award or otherwise request to be heard (including the right to appeal) and will be forever barred from raising such objection or request to be heard in this or any other action or
+proceeding. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><B>IX.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt"><B>NOTICE TO BANKS, BROKERS, OR OTHER NOMINEES </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">If you hold Apple common stock as a nominee for the benefit of another, you are directed to provide copies of this Notice to such
+beneficial owners, postmarked no later than ten (10)&nbsp;business days after receipt of this Notice. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><B>X.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt"><B>CONDITIONS FOR SETTLEMENT </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">The Settlement is conditioned upon the occurrence of certain events described in the Stipulation, which requires, among other things: </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:7%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(a) approval of the Settlement by Apple&#146;s SLC; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:7%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(b) execution of the Stipulation of Settlement; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:7%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(c) entry by the Court of the Approval Order and Judgment, substantially in the forms of Exhibits C and D attached thereto; and </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:7%; font-size:9pt; font-family:ARIAL" ALIGN="justify">(d) the Judgment has become Final. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">If, for any reason, any one of the conditions described in the Stipulation is not met and the entry of the Judgment does not occur, the
+Stipulation might be terminated and, if terminated, will become null and void; and the Settling Parties to the Stipulation will be restored to their respective positions as of the date of execution of the Stipulation. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><B>XI.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9pt"><B>EXAMINATION OF PAPERS AND INQUIRIES </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:3%; font-size:9pt; font-family:ARIAL" ALIGN="justify">There is additional information concerning the Settlement available in the Stipulation. You may inspect the Stipulation during business
+hours at the office of the Clerk of the Court, Superior Court of the State of California, Santa Clara County, located at 191 N. 1st Street, San Jose, California 95113. Or you can call <FONT STYLE="white-space:nowrap">Co-Lead</FONT> Counsel for
+Plaintiffs: Kevin A. Seely, Robbins Arroyo LLP, 600 B Street, Suite 1900, San Diego, California 92101, telephone: (800) <FONT STYLE="white-space:nowrap">350-6003,</FONT> email: kseely@robbinsarroyo.com; or, Lynda Grant, TheGrantLaw Firm, PLLC, 521
+Fifth Avenue, 17th Floor, New York, NY 10175, telephone: (212) <FONT STYLE="white-space:nowrap">292-4441,</FONT> email: lgrant@grantfirm.com, for additional information concerning the Settlement. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="center"><B>PLEASE DO NOT TELEPHONE THE COURT OR </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="center"><B>THE
+CLERK OF THE COURT REGARDING THIS NOTICE. </B></P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="center">10 </P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g563832g0505090350040.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g563832g0505090350040.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1"  [ # # 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#W^BBL35/%
+M^@Z-)Y5]J4,<G= <L/P% &WT&37BOC_XJWL>H2Z7H$ODI$=LERO+,?1?2O1K
+MGQ+I^K:#>MHM[%=7'DMLC1OFSCTKQGP]X#D6]74O%4T>GV*/O*S. \I],4 >
+MT^"&OI/"-A+J,\DUS(F]GE.6.>F:Z&N9T[QQX6N9$L[75( 5 1%)VCZ#-=*"
+M&7(((/0B@#@/BAXUD\,Z7'9V+ 7]V#AO^>:="?K7SQ++)/*TLSL\C'+,QR37
+M=_&&YDF^(%Q"Q^6"&-4^A4-_,UP5 Q\,TMNX>&1XV'0J<&I+F]NKQMUS<2S$
+M?WV)J"B@ Y!R.OM7T5\*(M?C\-[M6?-J^#:A_OA??VKPKPS8KJ7B;3K-^5EG
+M4-GTS7UE'&D42QQJ%1 %4#L!0(^=?C%;/#X_GF;[L\$;+^"[?Z5P5>X?&W0F
+MN-.L]9B0EK<^5+@?PGD?KFO#Z!A1110!<TJ^;3=6M+U>L$JO^1KZPTK4[;5]
+M,@OK5P\4R!A@]/:OD.O5_@G)JTNK7,:3N-+BC+2(>5+G@8]#W_"@#V?4].@U
+M;3+BPN5#0SH48?UKY;\4>&[SPOK4UC=(VP,3%)CAU[$5]75GZKH>F:Y (=3L
+MH;I%.0)!T^AZT"/DJ*&6=]D,3R/_ '44D_I3YK2YM@#<6TT0/3S(RN?SKZNT
+MKPWHVA@C3=.M[;/4HO/YGFK.H:98ZK;F"_M(KB(_PR+F@#Y*L+"YU.^BL[.)
+MI9Y6VJJC-?3_ (+\,1>%?#T-BH!G;YYW'\3G^@JSI/A70M"E:73-,@MI&X+J
+(,G\S6Q0!_]D!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

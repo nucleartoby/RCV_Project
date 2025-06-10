@@ -1,0 +1,238 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ WhUOm0Sp/wAbe/ot1U+0Tw6Pxexamg9p84nnhbZUvCLwgZN/v9wSmf/hAvTxIisR
+ hUSPjkFk3oYuhAr5iz025A==
+
+<SEC-DOCUMENT>0000320193-96-000021.txt : 19961223
+<SEC-HEADER>0000320193-96-000021.hdr.sgml : 19961223
+ACCESSION NUMBER:		0000320193-96-000021
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19961204
+ITEM INFORMATION:		Changes in registrant's certifying accountant
+FILED AS OF DATE:		19961213
+DATE AS OF CHANGE:		19961220
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLE COMPUTER INC
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	3571
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10030
+		FILM NUMBER:		96680727
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4089961010
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<TEXT>
+
+
+ 		   SECURITIES AND EXCHANGE COMMISSION  
+			Washington, D. C.  20549  
+ 
+ 
+			     FORM 8-K
+ 
+ 
+ 			CURRENT REPORT  
+ 
+ 
+ Pursuant to Section 13 or 15(d) of  the Securities Exchange Act of 1934  
+ 
+ 
+  Date of Report (Date of earliest event reported):   December 4, 1996
+
+
+		     Apple Computer, Inc.
+(Exact name of registrant as specified in its charter)  
+
+
+California			 0-10030		   94-2404110
+(State or other 		(Commission File	(I.R.S. Employer
+jurisdiction of			   Number)		Identification No.)
+incorporation or
+organization)	
+
+	
+	1 Infinite Loop, Cupertino, California 95014
+	  (Address of principal executive offices) 
+
+
+ Registrant's telephone number, including area code:  (408) 996-1010
+
+
+			Not Applicable
+	(Former name or former address, if changed since last report.) 
+   
+		  Exhibit Index on Page 3
+			
+				1
+<PAGE>
+
+Items 1 through 3, 5, 6 and 8 Not Applicable.
+
+Item 4.	Changes in Registrant's Certifying Accountant
+
+	On December 4, 1996, the Audit and Finance Committee of the 
+Registrant's Board of Directors recommended, and the Registrant's Board of 
+Directors approved, the engagement of the independent certified public 
+accounting firm of KPMG Peat Marwick LLP to audit the consolidated financial 
+statements of the Registrant for the year ending September 26, 1997. 
+Accordingly, the engagement of Ernst & Young LLP as the Registrant's 
+independent auditors will be discontinued effective upon conclusion of the 
+audit of the Registrant's consolidated financial statements for the year ended 
+September 27, 1996. 
+
+	The reports of Ernst & Young LLP on the Registrant's consolidated 
+financial statements for each of the two fiscal years in the period ended 
+September 29, 1995 did not contain an adverse opinion or a disclaimer of 
+opinion and were not qualified or modified as to uncertainty, audit scope or 
+accounting principles and the report of Ernst & Young LLP on the Registrant's 
+consolidated financial statements for the year ended September 27, 1996 is not 
+expected to contain an adverse opinion or a disclaimer of opinion or to be 
+qualified or modified as to uncertainty, audit scope or accounting principles. 
+
+	In connection with the audits of the Registrant's consolidated 
+financial statements for each of the two fiscal years ended September 27, 1996 
+and September 29, 1995 and the subsequent interim period prior to December 4, 
+1996, there were no disagreements between the Registrant and Ernst & Young LLP
+on any matters of accounting principles or practices, financial statement 
+disclosure, or auditing scope and procedures which, if not resolved to the 
+satisfaction of Ernst & Young LLP, would have caused Ernst & Young LLP to make 
+reference to the matter in their reports.
+
+	There were no reportable events (as defined in Regulation S-K Item 
+304(a)(l)(v)) during the two fiscal years ended September 27, 1996 and 
+September 29, 1995 and the subsequent interim period prior to December 4, 1996.
+
+	The Registrant has not consulted with KPMG Peat Marwick LLP during the
+last two years or subsequent interim period prior to December 4, 1996 on either 
+the application of accounting principles or the type of opinion KPMG Peat 
+Marwick LLP might issue on the Registrant's financial statements.
+
+	The Registrant requested Ernst & Young LLP to furnish it with a letter 
+addressed to the Securities and Exchange Commission stating whether or not 
+Ernst & Young LLP agrees with the above statements, which letter is attached as
+Exhibit 16.1.
+
+					2
+<PAGE>
+
+Item 7.	Financial Statements, Pro Forma Financial Information and Exhibits.
+
+	(c)	Exhibits
+		
+		Number	Exhibit				Page
+
+		16.1	Letter of Ernst & Young LLP	  4	 
+			regarding change in certifying 
+			accountant
+
+	
+
+
+
+				SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the 
+registrant has duly caused this report to be signed on its behalf by the 
+undersigned, thereunto duly authorized.
+
+
+				APPLE COMPUTER, INC.
+
+
+
+				By:	/s/Fred D. Anderson				
+					Fred D. Anderson,
+					Executive Vice President and 
+					Chief Financial Officer
+
+Date:  December 13, 1996
+
+				3
+<PAGE>
+
+</TEXT>
+
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-2
+<SEQUENCE>2
+<TEXT>
+
+ERNST & YOUNG LLP	55 Almaden Boulevard		Phone:  408 947 5500
+			San Jose, California 95113	Fax:    408 294 2744
+							Telex:    701974
+
+
+
+
+
+
+
+
+December 13, 1996
+
+
+
+
+Securities and Exchange Commission
+450 Fifth Street, N.W.
+Washington, DC 20549
+
+
+
+
+Gentlemen:
+
+
+We have read Item 4 of Form 8-K dated December 13, 1996 of Apple Computer,
+Inc. and are in agreement with the statements contained in the second, third,
+fourth and sixth paragraphs therein. We have no basis to agree or disagree
+with other statements of the registrant contained therein.
+
+
+						Very truly yours,
+
+
+						/s/Ernst & Young LLP
+
+
+
+
+
+
+
+
+	Ernst & Young LLP is a member of Ernst & Young International, Ltd.
+
+				4
+<PAGE>
+
+</TEXT>
+
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

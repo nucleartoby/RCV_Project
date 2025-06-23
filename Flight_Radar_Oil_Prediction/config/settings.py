@@ -4,9 +4,9 @@ from dotenv import load_dotenv
 load_dotenv()
 
 class Config:
-    ALPHA_VANTAGE_API_KEY = os.getenv('ALPHA_VANTAGE_API_KEY')
-    OPENSKY_USERNAME = os.getenv('OPENSKY_USERNAME')
-    OPENSKY_PASSWORD = os.getenv('OPENSKY_PASSWORD')
+    ALPHA_VANTAGE_API_KEY = os.getenv('-')
+    OPENSKY_USERNAME = os.getenv('-')
+    OPENSKY_PASSWORD = os.getenv('-')
 
     DATABASE_URL = os.getenv('DATABASE_URL', 'sqlite:///military_oil_predictor.db')
 

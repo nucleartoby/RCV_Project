@@ -21,7 +21,7 @@ class ModelEvaluator:
         plt.ylabel('Predicted Oil Price')
         plt.title(f'{title} - Scatter Plot')
 
-        plt.subplot(2, 2, 2) ## Timeseries plot
+        plt.subplot(2, 2, 2) ## Timeseries plot -- most important
         plt.plot(y_true, label='Actual', alpha=0.7)
         plt.plot(y_pred, label='Predicted', alpha=0.7)
         plt.xlabel('Time')

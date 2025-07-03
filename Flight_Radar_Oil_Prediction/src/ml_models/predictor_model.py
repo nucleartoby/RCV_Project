@@ -10,7 +10,10 @@ import logging
 from config.settings import Config
 
 class OilPricePredictor:
+<<<<<<< HEAD
     
+=======
+>>>>>>> d982b6569a6895c0fc2872c389194b717f1b646c
     def __init__(self):
         self.models = {
             'random_forest': RandomForestRegressor(
@@ -27,6 +30,7 @@ class OilPricePredictor:
         self.best_model_name = None
         self.feature_importance = None
         self.logger = logging.getLogger(__name__)
+<<<<<<< HEAD
     
     def prepare_data(self, features: pd.DataFrame, 
                     target_column: str = 'bz_price') -> Tuple[np.ndarray, np.ndarray]:
@@ -36,10 +40,22 @@ class OilPricePredictor:
         y = features[target_column].shift(-1).dropna()
         X = X.iloc[:-1] 
         
+=======
+
+    def prepare_data(self, features: pd.DataFrame,
+                     target_colimn: str = 'bz_price') -> Tuple[np.ndarray, np.ndarray]:
+        X = features.drop(columns=[col for col in features.columns
+                                   if 'price' in col], errors='ignore')
+        
+        y = features[target_column].shift(-1).dropna()
+        X = X.iloc[:-1]
+
+>>>>>>> d982b6569a6895c0fc2872c389194b717f1b646c
         return X.values, y.values
     
     def train_models(self, X: np.ndarray, y: np.ndarray) -> Dict[str, Dict]:
         X_train, X_test, y_train, y_test = train_test_split(
+<<<<<<< HEAD
             X, y, test_size=1-Config.TRAIN_TEST_SPLIT, 
             random_state=Config.RANDOM_STATE
         )
@@ -53,6 +69,21 @@ class OilPricePredictor:
             
             y_pred_train = model.predict(X_train)
             y_pred_test = model.predict(X_test)
+=======
+            X, y, test_size=1-Config.TRAIN_TEST_SPLIT,
+            random_state=Config.RANDOM_STATE
+        ) 
+
+        results = {}
+
+        for name, model in self.models,items():
+            self.logger.info(f"training {name}...")
+
+            model.fit(X_train, y_train)
+
+            y_pred_train = model.prdict(X_train)
+            y_pred_train = model.prdict(X_test)
+>>>>>>> d982b6569a6895c0fc2872c389194b717f1b646c
 
             results[name] = {
                 'train_rmse': np.sqrt(mean_squared_error(y_train, y_pred_train)),
@@ -88,7 +119,11 @@ class OilPricePredictor:
     
     def save_model(self, filepath: str):
         if self.best_model is None:
+<<<<<<< HEAD
             raise ValueError("No model to save")
+=======
+            raise ValueError("no model to save")
+>>>>>>> d982b6569a6895c0fc2872c389194b717f1b646c
         
         model_data = {
             'model': self.best_model,
@@ -96,11 +131,20 @@ class OilPricePredictor:
             'feature_importance': self.feature_importance
         }
         joblib.dump(model_data, filepath)
+<<<<<<< HEAD
         self.logger.info(f"Model saved to {filepath}")
+=======
+        self.logger.info(f"model saved to {filepath}")
+>>>>>>> d982b6569a6895c0fc2872c389194b717f1b646c
     
     def load_model(self, filepath: str):
         model_data = joblib.load(filepath)
         self.best_model = model_data['model']
         self.best_model_name = model_data['model_name']
         self.feature_importance = model_data.get('feature_importance')
+<<<<<<< HEAD
         self.logger.info(f"Model loaded from {filepath}")
+=======
+        self.logger.info(f"Model loaded from {filepath}")
+            
+>>>>>>> d982b6569a6895c0fc2872c389194b717f1b646c

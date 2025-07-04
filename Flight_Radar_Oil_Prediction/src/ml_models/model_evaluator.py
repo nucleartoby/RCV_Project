@@ -1,51 +1,34 @@
 import pandas as pd
 import numpy as np
-<<<<<<< HEAD
 import matplotlib.pyplot as plt
-=======
-import plotly.express as px
-import matplotlib as plt
->>>>>>> d982b6569a6895c0fc2872c389194b717f1b646c
 import seaborn as sns
 from typing import Dict, List
 import logging
 
 class ModelEvaluator:
-<<<<<<< HEAD
-
-    def __init__(self):
-        self.logger = logging.getlogger(__name__)
-
-    def plot_predictions(self, y_true: np.ndarray, y_pred: np.ndarray,
-                         title: str = "Predictions vs Actual"):
-        plt.figure(figzie=(12, 8))
-
-        plt.subplot(2, 2, 1)
-        plt.scattery(y_true, y_pred, alpha=0.6)
-        plt.plot([y_true.min()])
-=======
+    
     def __init__(self):
         self.logger = logging.getLogger(__name__)
-
-    def plot_predictions(self, y_true: np.ndarray, y_pred: np.ndarray,
-                         title: str = "preidctions vs actual"):
+    
+    def plot_predictions(self, y_true: np.ndarray, y_pred: np.ndarray, 
+                        title: str = "Predictions vs Actual"):
         plt.figure(figsize=(12, 8))
-
+        
         plt.subplot(2, 2, 1)
         plt.scatter(y_true, y_pred, alpha=0.6)
         plt.plot([y_true.min(), y_true.max()], [y_true.min(), y_true.max()], 'r--', lw=2)
         plt.xlabel('Actual Oil Price')
         plt.ylabel('Predicted Oil Price')
         plt.title(f'{title} - Scatter Plot')
-
-        plt.subplot(2, 2, 2) ## Timeseries plot -- most important
+        
+        plt.subplot(2, 2, 2) # Time series plot
         plt.plot(y_true, label='Actual', alpha=0.7)
         plt.plot(y_pred, label='Predicted', alpha=0.7)
         plt.xlabel('Time')
         plt.ylabel('Oil Price')
         plt.title(f'{title} - Time Series')
         plt.legend()
-
+        
         plt.subplot(2, 2, 3)
         residuals = y_true - y_pred
         plt.scatter(y_pred, residuals, alpha=0.6)
@@ -53,7 +36,7 @@ class ModelEvaluator:
         plt.xlabel('Predicted Oil Price')
         plt.ylabel('Residuals')
         plt.title('Residuals Plot')
-
+        
         plt.subplot(2, 2, 4)
         plt.hist(residuals, bins=30, alpha=0.7)
         plt.xlabel('Residuals')
@@ -62,13 +45,13 @@ class ModelEvaluator:
         
         plt.tight_layout()
         plt.show()
-
+    
     def plot_feature_importance(self, feature_importance: np.ndarray, 
                               feature_names: List[str], top_n: int = 15):
         if feature_importance is None:
             self.logger.warning("No feature importance available")
             return
-
+        
         indices = np.argsort(feature_importance)[::-1][:top_n] # Get top N features
         top_features = [feature_names[i] for i in indices]
         top_importance = feature_importance[indices]
@@ -105,4 +88,3 @@ class ModelEvaluator:
         print(f"Maximum Error: ${metrics['max_error']:.4f}")
         print(f"Mean Error (Bias): ${metrics['mean_error']:.4f}")
         print("="*50)
->>>>>>> d982b6569a6895c0fc2872c389194b717f1b646c
